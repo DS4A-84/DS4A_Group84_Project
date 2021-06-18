@@ -141,8 +141,8 @@ git branch
 # once you are in a branch you can do your git add, git commit commands
 
 # 5. push pull request to main branch to add created branch into master repo
-# Once you are satisfied with you changes on you "feature" branch
-# and they have been commited to your github
+# Once you are satisfied with your changes on your "feature" branch
+# and they have been commited to your local git
 # then you can push these changes to the central group84 project github
 git push --set-upstream origin arbitrary_name_of_your_new_branch
 
