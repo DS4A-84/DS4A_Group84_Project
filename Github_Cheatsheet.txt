@@ -148,5 +148,8 @@ git push --set-upstream origin arbitrary_name_of_your_new_branch
 
 # 6. we all review changes
 # Runor has volunteered to the paid github account that allows for more than one reviewer 
-# once you push your changes 
+# once you push your changes, we will all be able to see pending requests on the https://github.com/DS4A-84
+# Since we are all owners in this workspace, technically we can all approve our own changes
+# but as a group we should all take part in asking questions, review changes and partake in the collaboration
+# This git collaboration experience is cool, I will totally be adding this to my resume.
 
