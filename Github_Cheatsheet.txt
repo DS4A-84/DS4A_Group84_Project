@@ -1,0 +1,23 @@
+# Guide to using Github
+# Step by Step guide for contributing with code work
+# 
+# Git Basics - this will cover basic commands on git
+#
+# Git for Group84 - this will cover commands specific to contributing code to group84s central repo *******Important*******
+
+
+
+
+# Git Basics ##############################################################################################################
+# Using git for group work is like using google drive for google doc collaboration
+# the difference being that you need to run commands in order to contribute your part.
+
+
+# In this guide we are using Git command line
+# Download https://github.com/git-for-windows/git/releases/download/v2.32.0.windows.1/Git-2.32.0-64-bit.exe
+
+
+
+
+
+
