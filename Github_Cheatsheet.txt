@@ -109,3 +109,44 @@ https://docs.github.com/en/github/getting-started-with-github/quickstart/fork-a-
 # If you skipped sections and went straight to here go back
 # some of the important things you need in this guide are the "git bash" under GitBash Setup section
 # and "ssh keys" in the Github section
+
+# Now on to the main part. Below are the steps to contribute to the central git repo for our group84
+# Our Git repo is called "DS4A_Group84_Project" 
+# it can be found in https://github.com/DS4A-84/DS4A_Group84_Project
+
+# Below are steps and descriptions for project code contribution
+
+# 1. clone master github repo
+# The first step is to clone the master repo 
+# go to a folder you want to work in your computer
+# this will give you a local copy of our project
+git clone git@github.com:DS4A-84/DS4A_Group84_Project.git
+
+
+# 2. create a new branch
+# doing this inside the cloned project directory
+# will create a separate branch in git where you can work on
+# without impacting the main branch of the cloned project 
+git checkout -b arbitrary_name_of_your_new_branch
+
+
+# 3. edit said branch/ navigate branches
+# naviage to a branch using
+git checkout -b some_branch_name
+# to see which branch you are sitting on use
+git branch
+
+
+# 4. git add/commit commands to commit changes
+# once you are in a branch you can do your git add, git commit commands
+
+# 5. push pull request to main branch to add created branch into master repo
+# Once you are satisfied with you changes on you "feature" branch
+# and they have been commited to your github
+# then you can push these changes to the central group84 project github
+git push --set-upstream origin arbitrary_name_of_your_new_branch
+
+# 6. we all review changes
+# Runor has volunteered to the paid github account that allows for more than one reviewer 
+# once you push your changes 
+
