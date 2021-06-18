@@ -1,0 +1,31 @@
+# DS4A
+# Group-84
+# This file is not needed for the project
+# it is only a text file of compiled useful code
+
+
+
+#IMPORTING DATA_____________________________________________
+
+# Reading TSV files
+# TSV files are csv files with "\t" as the delimeter
+df = pd.read_csv("title.crew.tsv/data.tsv",delimiter="\t")
+
+
+
+
+# PANDAS DATAFRAME FORMATTING________________________________
+
+# replacing column values with a dictionary
+rename_dict = {"original_value1":"replacement_value1",
+               "original_value2":"replacement_value2",
+               "original_value3":"replacement_value3"
+              }
+df["some_column_name"] = df["some_column_name"].replace(rename_dict)
+
+
+# Renaming column names with a dictionary
+df = df.rename(columns=old_new_column_names_replacement_dict)
+
+# replacing specific row column values using dictionary for indexing
+df.loc[df['col_name'].isin(i['dictionary_key']),'desired_replacement_column'] = "replace value"

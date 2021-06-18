@@ -1,0 +1,23 @@
+Oracle of Bacon
+https://oracleofbacon.org/data.txt.bz2
+
+imdb_title
+https://datasets.imdbws.com/title.akas.tsv.gz
+
+imdb_title_names
+Source: https://datasets.imdbws.com/title.basics.tsv.gz 
+
+imdb_director
+Source: https://datasets.imdbws.com/title.crew.tsv.gz
+
+imdb_cast
+Source: https://datasets.imdbws.com/title.principals.tsv.gz
+
+imdb_names
+Source: https://datasets.imdbws.com/name.basics.tsv.gz
+
+Kaggle The Oscars
+https://www.kaggle.com/unanimad/the-oscar-award?select=the_oscar_award.csv
+
+Employed persons by detailed occupation, sex, race, and Hispanic or Latino ethnicity
+Source: https://www.bls.gov/cps/cpsaat11.htm
