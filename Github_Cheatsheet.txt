@@ -1,23 +1,111 @@
-# Guide to using Github
+# GUIDE TO USING GITHUB
+# PLZ READ
 # Step by Step guide for contributing with code work
-# 
-# Git Basics - this will cover basic commands on git
+# Git is a versioning tool
+# You can visualize git like a tree where you can traverse through branches
+# where each branch/section in a branch is a particular stage in code development
+# you can also visualize it as a timemachine that lets you store earlier versions of code
 #
-# Git for Group84 - this will cover commands specific to contributing code to group84s central repo *******Important*******
+# for more info on commands/jargon used go to https://githowto.com/
+#
+# GitBash Setup - this will cover installing and opening git commandline
+# Git Basics - this will cover basic commands on git
+# Github - this will cover setup for github
+# Git for Group84 - this will cover commands specific to contributing code to group84s central repo
 
+
+
+
+# GitBash Setup ###########################################################################################################
+# Using git for group work is like using google drive for google doc collaboration
+# the difference being that you need to run commands in order to contribute your part.
+
+# In this guide we are using Git command line
+# Download/Install from
+# https://git-scm.com/downloads
+
+# open up git commandline, click on search bar on windows and search "git bash"
 
 
 
 # Git Basics ##############################################################################################################
-# Using git for group work is like using google drive for google doc collaboration
-# the difference being that you need to run commands in order to contribute your part.
+#
+# Initialize a git repo on your computer. First create a folder, go into the folder and initalize git
+# This process creates a hidden folder inside your git folder called ".git" and houses all git related content
+
+# create a folder
+mkdir mygitfolder
+
+# move into the folder
+cd mygitfolder
+
+# initialize this folder as a git repo
+git init
+
+# Adding content to git repo in your computer
+# lets say you created a file called mycodefile and want to add it to your git repo
+
+# create the file
+notepad.exe mycodefile.py
+
+# add file to git repo (you can use "git add mycodefile.py" to specify the file)
+# the following command will add ALL FILES in the current folder to into "staging"
+git add .
+
+# to see the files in the staging area
+git status
+
+# to commit those changes to your local computer git repo
+git commit -m "Add some comment about what you are commiting"
+
+# this commit will be saved under .git and can be referenced in case you want to come back to this version of your files
 
 
-# In this guide we are using Git command line
-# Download https://github.com/git-for-windows/git/releases/download/v2.32.0.windows.1/Git-2.32.0-64-bit.exe
+
+# Github ##################################################################################################################
+
+# Assuming you have an account on Github
+# https://github.com/
+
+# Adding ssh-keys for github (you can use passwords but I like keypairs)
+# more info on https://www.ssh.com/academy/ssh/public-key-authentication
+# in your git bash create a .ssh folder in your home folder and populate it
+cd ~
+mkdir .ssh
+
+# Create keypairs 
+ssh-keygen # press enter if you want to accept the defaults (your keypairs id_rsa and id_rsa.pub)
+
+# create personal ssh config file (This will store the info on how to proceed with ssh to github)
+notepad.exe config
+
+#-----copy paste this, but edit for your username ------
+Host github.com
+  User git
+  IdentityFile /c/Users/type_in_your_windows_username_here/.ssh/id_rsa
+  IdentitiesOnly yes
+#-------------------------------------------------------
+
+# Go to https://github.com/ 
+# click on the down arrow next to your avatar on the top right of the github website
+# Click settings
+# Click on "SSH and GPG keys"
+# Click on "New SSH key"
+# Create some arbitrary title that you want 
+# in the "Key" section add the contents of id_rsa.pub (this is your public key)
+# to get the contents of your public key for copy pasting, you can 
+notepad.exe id_rsa.pub
+# when you are done pasting the contents of id_rsa.pub, click on "Add SSH key"
+# now you have your public key added to Github and can do ssh related commands
+
+# For more info on creating/editing your own github repos go to
+https://docs.github.com/en/github/getting-started-with-github/quickstart/create-a-repo
+https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository
+https://docs.github.com/en/github/getting-started-with-github/quickstart/fork-a-repo
 
 
 
-
-
-
+# Git for Group84 ##############################################################################################################
+# If you skipped sections and went straight to here go back
+# some of the important things you need in this guide are the "git bash" under GitBash Setup section
+# and "ssh keys" in the Github section
