@@ -16,9 +16,9 @@ import pandas as pd
 
 
 # Data
-bacon_data_path = 'data/bacon.txt'
-clean_bacon_df_path = 'data/clean_bacon_df.csv'
-kaggle_data_path = 'data/the_oscar_award_corrected.csv'
+bacon_data_path = '../../data/oracle_of_bacon_data/bacon.txt'
+clean_bacon_df_path = '../../data/oracle_of_bacon_data/clean_bacon_df.csv'
+kaggle_data_path = '../../data/kaggle_oscar_award_data/the_oscar_award_corrected.csv'
 
 categories_interest = ['ACTOR',
                        'ACTRESS',
@@ -192,10 +192,12 @@ def write_to_csv(df,filepath):
 raw_bacon_data = load_txt_data(bacon_data_path)
 kaggle_data = load_dataset(kaggle_data_path)
 
+# Remove whitespace from name
+kaggle_data['name'] = kaggle_data['name'].apply(lambda x: x.strip())
+
 # prepare kaggle nominee names
 kaggle_data = kaggle_data[kaggle_data['category'].isin(categories_interest)]
 kaggle_names = kaggle_data['name'].drop_duplicates()
-
 
 # clean list of info/title string dictionaies
 clean_bacon_data = blob_to_list(raw_bacon_data)
