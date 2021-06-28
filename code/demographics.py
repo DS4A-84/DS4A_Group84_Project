@@ -8,8 +8,9 @@
 
 from os import path
 import pandas as pd
+import seaborn as sns
 
-kaggle_data_path = '../../data/kaggle_oscar_award_data/the_oscar_award_corrected.csv'
+kaggle_data_path = '../data/kaggle_oscar_award_data/the_oscar_award_corrected.csv'
 
 
 categories_interest = ['ACTOR',
@@ -35,3 +36,8 @@ kaggle_data['name'] = kaggle_data['name'].apply(lambda x: x.strip())
 
 # prepare kaggle nominee names
 kaggle_data = kaggle_data[kaggle_data['category'].isin(categories_interest)]
+
+df1 = kaggle_data[['category','year_ceremony']]
+df1_group = df1.groupby(['year_ceremony','category'])['category'].count()
+
+sns.heatmap(df1_group)
