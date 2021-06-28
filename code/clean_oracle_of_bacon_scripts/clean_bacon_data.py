@@ -9,6 +9,7 @@
 # Import Python Modules
 from functools import reduce
 import json
+import numpy as np
 from os import path
 import pandas as pd
 
@@ -74,7 +75,7 @@ def blob_to_list(lines):
         if 'INFOBOX' in i or '{"title' in i :
 
             #check for directors, year in line
-            if 'directors' in i and 'year' in i[-20:]:
+            if 'directors' in i:
                 # clean the line
                 i = reduce(lambda x, y: x.replace(y, dict[y]), dict, i)
                 i = json.loads(i)
@@ -134,6 +135,8 @@ def seq_list_to_nominees_df(list, k_names, filepath):
 
     #break down name values to dataframe
     #what if cast is empty
+
+
     for film in list:
         t_df=""
         i,t = film
@@ -144,8 +147,30 @@ def seq_list_to_nominees_df(list, k_names, filepath):
             cast_dir = t['cast']+t['directors']
         else:
             cast_dir = t['directors']
+
+        # replace year with NA value if not found
+        year = ""
+        try:
+            year = t['year']
+        except KeyError:
+            if t['title'] in kaggle_data['film']:
+                print(t)
+                title = str([t['title']])
+                print(title)
+                exit()
+                year = kaggle_data[kaggle_data['film'] ==title]
+                print(year)
+
+                exit()
+            else:
+                year = np.nan
+
+
+
+
+        # create dataframe
         t_df = pd.DataFrame({'title':[t['title']]*len(cast_dir),
-                             'year':[t['year']]*len(cast_dir),
+                             'year':year*len(cast_dir),
                              'role':['cast']*len(cast_dir),
                              'name':cast_dir
                              })
@@ -210,6 +235,8 @@ bacon_pair_list = create_info_title_pair_list(clean_bacon_data)
 # create pandas dataframe of movie info for nominees
 seq_list_to_nominees_df(bacon_pair_list, kaggle_names,clean_bacon_df_path)
 #45964
+
+
 
 #Joel Coen is missing for no country for old men
 # check get_bacon_conflict_names.py
