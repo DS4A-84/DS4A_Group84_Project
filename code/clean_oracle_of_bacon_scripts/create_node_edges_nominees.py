@@ -13,9 +13,9 @@ import pandas as pd
 
 
 
-clean_bacon_df_path = '../data/oracle_of_bacon_data/clean_bacon_df.csv'
-bacon_edges_path = '../data/oracle_of_bacon_data/bacon_edges.csv'
-bacon_nodes_path = '../data/oracle_of_bacon_data/bacon_nodes.csv'
+clean_bacon_df_path = '../../data/oracle_of_bacon_data/clean_bacon_df.csv'
+bacon_edges_path = '../../data/oracle_of_bacon_data/clean_data/bacon_edges.csv'
+bacon_nodes_path = '../../data/oracle_of_bacon_data/clean_data/bacon_nodes.csv'
 
 
 
