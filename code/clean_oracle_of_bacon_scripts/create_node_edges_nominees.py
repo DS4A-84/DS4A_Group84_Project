@@ -104,7 +104,7 @@ print(a.head())
 '''
 
 # create edges
-#create_edges_csv(clean_bacon_df,bacon_edges_path)
+create_edges_csv(clean_bacon_df,bacon_edges_path)
 # 45451
 '''
                source              target
