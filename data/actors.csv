@@ -1,0 +1,863 @@
+index,year_ceremony,category,name,film,winner,nconst,birthYear,deathYear,primaryProfession,ceremonyAge,alive,currentYear,currentAge,gender
+0,1928,ACTOR,Richard Barthelmess,The Noose,False,nm0001932,1895,1963,"actor,soundtrack,producer",33,False,2021,0,M
+1,1928,ACTOR,Emil Jannings,The Last Command,True,nm0417837,1884,1950,"actor,producer,art_department",44,False,2021,0,M
+328,1929,ACTOR,George Bancroft,Thunderbolt,False,nm0051628,1882,1956,actor,47,False,2021,0,M
+332,1929,ACTOR,Warner Baxter,In Old Arizona,True,nm0062828,1889,1951,"actor,soundtrack",40,False,2021,0,M
+333,1929,ACTOR,Chester Morris,Alibi,False,nm0606431,1901,1970,"actor,soundtrack",28,False,2021,0,M
+335,1929,ACTOR,Paul Muni,The Valiant,False,nm0612847,1895,1967,"actor,soundtrack",34,False,2021,0,M
+338,1933,ACTOR,Paul Muni,I Am a Fugitive from a Chain Gang,False,nm0612847,1895,1967,"actor,soundtrack",38,False,2021,0,M
+341,1936,ACTOR,Paul Muni,Black Fury,False,nm0612847,1895,1967,"actor,soundtrack",41,False,2021,0,M
+344,1937,ACTOR,Paul Muni,The Story of Louis Pasteur,True,nm0612847,1895,1967,"actor,soundtrack",42,False,2021,0,M
+347,1938,ACTOR,Paul Muni,The Life of Emile Zola,False,nm0612847,1895,1967,"actor,soundtrack",43,False,2021,0,M
+350,1960,ACTOR,Paul Muni,The Last Angry Man,False,nm0612847,1895,1967,"actor,soundtrack",65,False,2021,0,M
+353,1929,ACTOR,Lewis Stone,The Patriot,False,nm0832011,1879,1953,"actor,writer",50,False,2021,0,M
+398,1931,ACTOR,Lionel Barrymore,A Free Soul,True,nm0000859,1878,1954,"actor,director,soundtrack",53,False,2021,0,M
+465,1930,ACTOR,George Arliss,Disraeli,True,nm0002183,1868,1946,"actor,writer,soundtrack",62,False,2021,0,M
+466,1930,ACTOR,George Arliss,The Green Goddess,False,nm0002183,1868,1946,"actor,writer,soundtrack",62,False,2021,0,M
+467,1930,ACTOR,Wallace Beery,The Big House,False,nm0000891,1885,1949,"actor,director,soundtrack",45,False,2021,0,M
+468,1932,ACTOR,Wallace Beery,The Champ,True,nm0000891,1885,1949,"actor,director,soundtrack",47,False,2021,0,M
+469,1930,ACTOR,Maurice Chevalier,The Big Pond,False,nm0002001,1888,1972,"soundtrack,actor,writer",42,False,2021,0,M
+475,1930,ACTOR,Ronald Colman,Bulldog Drummond,False,nm0172903,1891,1958,"actor,soundtrack,producer",39,False,2021,0,M
+477,1943,ACTOR,Ronald Colman,Random Harvest,False,nm0172903,1891,1958,"actor,soundtrack,producer",52,False,2021,0,M
+479,1948,ACTOR,Ronald Colman,A Double Life,True,nm0172903,1891,1958,"actor,soundtrack,producer",57,False,2021,0,M
+481,1930,ACTOR,Lawrence Tibbett,The Rogue Song,False,nm0862546,1896,1960,"actor,soundtrack,assistant_director",34,False,2021,0,M
+577,1931,ACTOR,Jackie Cooper,Skippy,False,nm0178114,1922,2011,"actor,director,producer",9,False,2021,0,M
+582,1931,ACTOR,Richard Dix,Cimarron,False,nm0228715,1893,1949,"actor,soundtrack,producer",38,False,2021,0,M
+587,1931,ACTOR,Fredric March,The Royal Family of Broadway,False,nm0545298,1897,1975,"actor,soundtrack",34,False,2021,0,M
+588,1932,ACTOR,Fredric March,Dr. Jekyll and Mr. Hyde,True,nm0545298,1897,1975,"actor,soundtrack",35,False,2021,0,M
+589,1938,ACTOR,Fredric March,A Star Is Born,False,nm0545298,1897,1975,"actor,soundtrack",41,False,2021,0,M
+590,1947,ACTOR,Fredric March,The Best Years of Our Lives,True,nm0545298,1897,1975,"actor,soundtrack",50,False,2021,0,M
+591,1952,ACTOR,Fredric March,Death of a Salesman,False,nm0545298,1897,1975,"actor,soundtrack",55,False,2021,0,M
+592,1931,ACTOR,Adolphe Menjou,The Front Page,False,nm0579663,1890,1963,"actor,soundtrack,producer",41,False,2021,0,M
+867,1932,ACTOR,Alfred Lunt,The Guardsman,False,nm0526795,1892,1977,actor,40,False,2021,0,M
+911,1933,ACTOR,Leslie Howard,Berkeley Square,False,nm0001366,1893,1943,"actor,producer,soundtrack",40,False,2021,0,M
+921,1939,ACTOR,Leslie Howard,Pygmalion,False,nm0001366,1893,1943,"actor,producer,soundtrack",46,False,2021,0,M
+931,1933,ACTOR,Charles Laughton,The Private Life of Henry VIII,True,nm0001452,1899,1962,"actor,soundtrack,writer",34,False,2021,0,M
+932,1936,ACTOR,Charles Laughton,Mutiny on the Bounty,False,nm0001452,1899,1962,"actor,soundtrack,writer",37,False,2021,0,M
+933,1958,ACTOR,Charles Laughton,Witness for the Prosecution,False,nm0001452,1899,1962,"actor,soundtrack,writer",59,False,2021,0,M
+1056,1935,ACTOR,Clark Gable,It Happened One Night,True,nm0000022,1901,1960,"actor,soundtrack,producer",34,False,2021,0,M
+1058,1936,ACTOR,Clark Gable,Mutiny on the Bounty,False,nm0000022,1901,1960,"actor,soundtrack,producer",35,False,2021,0,M
+1060,1940,ACTOR,Clark Gable,Gone with the Wind,False,nm0000022,1901,1960,"actor,soundtrack,producer",39,False,2021,0,M
+1062,1935,ACTOR,Frank Morgan,The Affairs of Cellini,False,nm0604656,1890,1949,"actor,soundtrack",45,False,2021,0,M
+1075,1943,ACTOR IN A SUPPORTING ROLE,Frank Morgan,Tortilla Flat,False,nm0604656,1890,1949,"actor,soundtrack",53,False,2021,0,M
+1088,1935,ACTOR,William Powell,The Thin Man,False,nm0001635,1892,1984,"actor,soundtrack",43,False,2021,0,M
+1130,1937,ACTOR,William Powell,My Man Godfrey,False,nm0001635,1892,1984,"actor,soundtrack",45,False,2021,0,M
+1172,1948,ACTOR,William Powell,Life with Father,False,nm0001635,1892,1984,"actor,soundtrack",56,False,2021,0,M
+1312,1936,ACTOR,Victor McLaglen,The Informer,True,nm0572142,1886,1959,"actor,soundtrack",50,False,2021,0,M
+1313,1953,ACTOR IN A SUPPORTING ROLE,Victor McLaglen,The Quiet Man,False,nm0572142,1886,1959,"actor,soundtrack",67,False,2021,0,M
+1314,1936,ACTOR,Franchot Tone,Mutiny on the Bounty,False,nm0867144,1905,1968,"actor,soundtrack,producer",31,False,2021,0,M
+1869,1937,ACTOR,Gary Cooper,Mr. Deeds Goes to Town,False,nm0000011,1901,1961,"actor,soundtrack,producer",36,False,2021,0,M
+1909,1942,ACTOR,Gary Cooper,Sergeant York,True,nm0000011,1901,1961,"actor,soundtrack,producer",41,False,2021,0,M
+1949,1943,ACTOR,Gary Cooper,The Pride of the Yankees,False,nm0000011,1901,1961,"actor,soundtrack,producer",42,False,2021,0,M
+1989,1944,ACTOR,Gary Cooper,For Whom the Bell Tolls,False,nm0000011,1901,1961,"actor,soundtrack,producer",43,False,2021,0,M
+2029,1953,ACTOR,Gary Cooper,High Noon,True,nm0000011,1901,1961,"actor,soundtrack,producer",52,False,2021,0,M
+2069,1937,ACTOR,Walter Huston,Dodsworth,False,nm0404158,1883,1950,"actor,soundtrack",54,False,2021,0,M
+2070,1942,ACTOR,Walter Huston,All That Money Can Buy,False,nm0404158,1883,1950,"actor,soundtrack",59,False,2021,0,M
+2071,1943,ACTOR IN A SUPPORTING ROLE,Walter Huston,Yankee Doodle Dandy,False,nm0404158,1883,1950,"actor,soundtrack",60,False,2021,0,M
+2072,1949,ACTOR IN A SUPPORTING ROLE,Walter Huston,The Treasure of the Sierra Madre,True,nm0404158,1883,1950,"actor,soundtrack",66,False,2021,0,M
+2073,1937,ACTOR,Spencer Tracy,San Francisco,False,nm0000075,1900,1967,"actor,soundtrack",37,False,2021,0,M
+2075,1938,ACTOR,Spencer Tracy,Captains Courageous,True,nm0000075,1900,1967,"actor,soundtrack",38,False,2021,0,M
+2077,1939,ACTOR,Spencer Tracy,Boys Town,True,nm0000075,1900,1967,"actor,soundtrack",39,False,2021,0,M
+2079,1951,ACTOR,Spencer Tracy,Father of the Bride,False,nm0000075,1900,1967,"actor,soundtrack",51,False,2021,0,M
+2081,1956,ACTOR,Spencer Tracy,Bad Day at Black Rock,False,nm0000075,1900,1967,"actor,soundtrack",56,False,2021,0,M
+2083,1959,ACTOR,Spencer Tracy,The Old Man and the Sea,False,nm0000075,1900,1967,"actor,soundtrack",59,False,2021,0,M
+2085,1961,ACTOR,Spencer Tracy,Inherit the Wind,False,nm0000075,1900,1967,"actor,soundtrack",61,False,2021,0,M
+2087,1962,ACTOR,Spencer Tracy,Judgment at Nuremberg,False,nm0000075,1900,1967,"actor,soundtrack",62,False,2021,0,M
+2089,1968,ACTOR,Spencer Tracy,Guess Who's Coming to Dinner,False,nm0000075,1900,1967,"actor,soundtrack",68,False,2021,0,M
+2091,1937,ACTOR IN A SUPPORTING ROLE,Mischa Auer,My Man Godfrey,False,nm0041681,1905,1967,"actor,soundtrack,miscellaneous",32,False,2021,0,M
+2092,1937,ACTOR IN A SUPPORTING ROLE,Walter Brennan,Come and Get It,True,nm0000974,1894,1974,"actor,soundtrack",43,False,2021,0,M
+2093,1939,ACTOR IN A SUPPORTING ROLE,Walter Brennan,Kentucky,True,nm0000974,1894,1974,"actor,soundtrack",45,False,2021,0,M
+2094,1941,ACTOR IN A SUPPORTING ROLE,Walter Brennan,The Westerner,True,nm0000974,1894,1974,"actor,soundtrack",47,False,2021,0,M
+2095,1942,ACTOR IN A SUPPORTING ROLE,Walter Brennan,Sergeant York,False,nm0000974,1894,1974,"actor,soundtrack",48,False,2021,0,M
+2096,1937,ACTOR IN A SUPPORTING ROLE,Stuart Erwin,Pigskin Parade,False,nm0260020,1903,1967,"actor,soundtrack",34,False,2021,0,M
+2097,1937,ACTOR IN A SUPPORTING ROLE,Basil Rathbone,Romeo and Juliet,False,nm0001651,1892,1967,"actor,soundtrack,miscellaneous",45,False,2021,0,M
+2098,1939,ACTOR IN A SUPPORTING ROLE,Basil Rathbone,If I Were King,False,nm0001651,1892,1967,"actor,soundtrack,miscellaneous",47,False,2021,0,M
+2099,1937,ACTOR IN A SUPPORTING ROLE,Akim Tamiroff,The General Died at Dawn,False,nm0848667,1899,1972,"actor,soundtrack",38,False,2021,0,M
+2100,1944,ACTOR IN A SUPPORTING ROLE,Akim Tamiroff,For Whom the Bell Tolls,False,nm0848667,1899,1972,"actor,soundtrack",45,False,2021,0,M
+2234,1938,ACTOR,Charles Boyer,Conquest,False,nm0000964,1899,1978,"actor,producer,soundtrack",39,False,2021,0,M
+2238,1939,ACTOR,Charles Boyer,Algiers,False,nm0000964,1899,1978,"actor,producer,soundtrack",40,False,2021,0,M
+2242,1945,ACTOR,Charles Boyer,Gaslight,False,nm0000964,1899,1978,"actor,producer,soundtrack",46,False,2021,0,M
+2246,1962,ACTOR,Charles Boyer,Fanny,False,nm0000964,1899,1978,"actor,producer,soundtrack",63,False,2021,0,M
+2250,1938,ACTOR,Robert Montgomery,Night Must Fall,False,nm0599910,1904,1981,"producer,actor,soundtrack",34,False,2021,0,M
+2268,1942,ACTOR,Robert Montgomery,Here Comes Mr. Jordan,False,nm0599910,1904,1981,"producer,actor,soundtrack",38,False,2021,0,M
+2286,1938,ACTOR IN A SUPPORTING ROLE,Ralph Bellamy,The Awful Truth,False,nm0000897,1904,1991,"actor,soundtrack",34,False,2021,0,M
+2287,1938,ACTOR IN A SUPPORTING ROLE,Thomas Mitchell,The Hurricane,False,nm0593775,1892,1962,"actor,writer,soundtrack",46,False,2021,0,M
+2320,1940,ACTOR IN A SUPPORTING ROLE,Thomas Mitchell,Stagecoach,True,nm0593775,1892,1962,"actor,writer,soundtrack",48,False,2021,0,M
+2353,1938,ACTOR IN A SUPPORTING ROLE,Joseph Schildkraut,The Life of Emile Zola,True,nm0771584,1896,1964,"actor,soundtrack",42,False,2021,0,M
+2354,1938,ACTOR IN A SUPPORTING ROLE,Roland Young,Topper,False,nm0950019,1887,1953,"actor,soundtrack,writer",51,False,2021,0,M
+2469,1939,ACTOR,James Cagney,Angels with Dirty Faces,False,nm0000010,1899,1986,"actor,soundtrack,director",40,False,2021,0,M
+2470,1943,ACTOR,James Cagney,Yankee Doodle Dandy,True,nm0000010,1899,1986,"actor,soundtrack,director",44,False,2021,0,M
+2471,1956,ACTOR,James Cagney,Love Me or Leave Me,False,nm0000010,1899,1986,"actor,soundtrack,director",57,False,2021,0,M
+2472,1939,ACTOR,Robert Donat,The Citadel,False,nm0232196,1905,1958,"actor,director,writer",34,False,2021,0,M
+2473,1940,ACTOR,Robert Donat,"Goodbye, Mr. Chips",True,nm0232196,1905,1958,"actor,director,writer",35,False,2021,0,M
+2474,1939,ACTOR IN A SUPPORTING ROLE,John Garfield,Four Daughters,False,nm0002092,1913,1952,"actor,soundtrack,producer",26,False,2021,0,M
+2479,1948,ACTOR,John Garfield,Body and Soul,False,nm0002092,1913,1952,"actor,soundtrack,producer",35,False,2021,0,M
+2484,1939,ACTOR IN A SUPPORTING ROLE,Gene Lockhart,Algiers,False,nm0516876,1891,1957,"actor,soundtrack,writer",48,False,2021,0,M
+2485,1939,ACTOR IN A SUPPORTING ROLE,Robert Morley,Marie Antoinette,False,nm0605923,1908,1992,"actor,writer,director",31,False,2021,0,M
+3259,1940,ACTOR,Laurence Olivier,Wuthering Heights,False,nm0000059,1907,1989,"actor,producer,director",33,False,2021,0,M
+3261,1941,ACTOR,Laurence Olivier,Rebecca,False,nm0000059,1907,1989,"actor,producer,director",34,False,2021,0,M
+3263,1947,ACTOR,Laurence Olivier,Henry V,False,nm0000059,1907,1989,"actor,producer,director",40,False,2021,0,M
+3265,1949,ACTOR,Laurence Olivier,Hamlet,True,nm0000059,1907,1989,"actor,producer,director",42,False,2021,0,M
+3269,1961,ACTOR,Laurence Olivier,The Entertainer,False,nm0000059,1907,1989,"actor,producer,director",54,False,2021,0,M
+3271,1966,ACTOR,Laurence Olivier,Othello,False,nm0000059,1907,1989,"actor,producer,director",59,False,2021,0,M
+3273,1973,ACTOR,Laurence Olivier,Sleuth,False,nm0000059,1907,1989,"actor,producer,director",66,False,2021,0,M
+3275,1977,ACTOR IN A SUPPORTING ROLE,Laurence Olivier,Marathon Man,False,nm0000059,1907,1989,"actor,producer,director",70,False,2021,0,M
+3277,1979,ACTOR IN A LEADING ROLE,Laurence Olivier,The Boys from Brazil,False,nm0000059,1907,1989,"actor,producer,director",72,False,2021,0,M
+3279,1940,ACTOR,Mickey Rooney,Babes in Arms,False,nm0001682,1920,2014,"actor,soundtrack,producer",20,False,2021,0,M
+3282,1944,ACTOR,Mickey Rooney,The Human Comedy,False,nm0001682,1920,2014,"actor,soundtrack,producer",24,False,2021,0,M
+3285,1957,ACTOR IN A SUPPORTING ROLE,Mickey Rooney,The Bold and the Brave,False,nm0001682,1920,2014,"actor,soundtrack,producer",37,False,2021,0,M
+3288,1980,ACTOR IN A SUPPORTING ROLE,Mickey Rooney,The Black Stallion,False,nm0001682,1920,2014,"actor,soundtrack,producer",60,False,2021,0,M
+3291,1940,ACTOR,James Stewart,Mr. Smith Goes to Washington,False,nm0000071,1908,1997,"actor,soundtrack,director",32,False,2021,0,M
+3374,1941,ACTOR,James Stewart,The Philadelphia Story,True,nm0000071,1908,1997,"actor,soundtrack,director",33,False,2021,0,M
+3457,1947,ACTOR,James Stewart,It's a Wonderful Life,False,nm0000071,1908,1997,"actor,soundtrack,director",39,False,2021,0,M
+3540,1951,ACTOR,James Stewart,Harvey,False,nm0000071,1908,1997,"actor,soundtrack,director",43,False,2021,0,M
+3623,1960,ACTOR,James Stewart,Anatomy of a Murder,False,nm0000071,1908,1997,"actor,soundtrack,director",52,False,2021,0,M
+3706,1940,ACTOR IN A SUPPORTING ROLE,Brian Aherne,Juarez,False,nm0000731,1902,1986,"actor,soundtrack",38,False,2021,0,M
+3708,1940,ACTOR IN A SUPPORTING ROLE,Harry Carey,Mr. Smith Goes to Washington,False,nm0002503,1878,1947,"actor,writer,producer",62,False,2021,0,M
+3711,1940,ACTOR IN A SUPPORTING ROLE,Brian Donlevy,Beau Geste,False,nm0002046,1901,1972,"actor,producer,soundtrack",39,False,2021,0,M
+3712,1940,ACTOR IN A SUPPORTING ROLE,Claude Rains,Mr. Smith Goes to Washington,False,nm0001647,1889,1967,"actor,soundtrack",51,False,2021,0,M
+3713,1944,ACTOR IN A SUPPORTING ROLE,Claude Rains,Casablanca,False,nm0001647,1889,1967,"actor,soundtrack",55,False,2021,0,M
+3714,1945,ACTOR IN A SUPPORTING ROLE,Claude Rains,Mr. Skeffington,False,nm0001647,1889,1967,"actor,soundtrack",56,False,2021,0,M
+3715,1947,ACTOR IN A SUPPORTING ROLE,Claude Rains,Notorious,False,nm0001647,1889,1967,"actor,soundtrack",58,False,2021,0,M
+4022,1941,ACTOR,Charles Chaplin,The Great Dictator,False,nm0000122,1889,1977,"writer,soundtrack,actor",52,False,2021,0,M
+4025,1941,ACTOR,Henry Fonda,The Grapes of Wrath,False,nm0000020,1905,1982,"actor,producer,soundtrack",36,False,2021,0,M
+4026,1982,ACTOR IN A LEADING ROLE,Henry Fonda,On Golden Pond,True,nm0000020,1905,1982,"actor,producer,soundtrack",77,False,2021,0,M
+4027,1941,ACTOR,Raymond Massey,Abe Lincoln in Illinois,False,nm0557339,1896,1983,"actor,writer",45,False,2021,0,M
+4031,1941,ACTOR IN A SUPPORTING ROLE,William Gargan,They Knew What They Wanted,False,nm0307326,1905,1979,"actor,soundtrack,producer",36,False,2021,0,M
+4032,1941,ACTOR IN A SUPPORTING ROLE,Jack Oakie,The Great Dictator,False,nm0642988,1903,1978,"actor,soundtrack",38,False,2021,0,M
+4034,1941,ACTOR IN A SUPPORTING ROLE,James Stephenson,The Letter,False,nm0827263,1889,1941,actor,52,False,2021,0,M
+4221,1942,ACTOR,Cary Grant,Penny Serenade,False,nm0000026,1904,1986,"actor,soundtrack,producer",38,False,2021,0,M
+4225,1945,ACTOR,Cary Grant,None but the Lonely Heart,False,nm0000026,1904,1986,"actor,soundtrack,producer",41,False,2021,0,M
+4229,1942,ACTOR,Orson Welles,Citizen Kane,False,nm0000080,1915,1985,"actor,director,writer",27,False,2021,0,M
+4231,1942,ACTOR IN A SUPPORTING ROLE,Charles Coburn,The Devil and Miss Jones,False,nm0002013,1877,1961,"actor,soundtrack",65,False,2021,0,M
+4235,1944,ACTOR IN A SUPPORTING ROLE,Charles Coburn,The More the Merrier,True,nm0002013,1877,1961,"actor,soundtrack",67,False,2021,0,M
+4239,1947,ACTOR IN A SUPPORTING ROLE,Charles Coburn,The Green Years,False,nm0002013,1877,1961,"actor,soundtrack",70,False,2021,0,M
+4243,1942,ACTOR IN A SUPPORTING ROLE,Donald Crisp,How Green Was My Valley,True,nm0187981,1882,1974,"actor,director,writer",60,False,2021,0,M
+4245,1942,ACTOR IN A SUPPORTING ROLE,James Gleason,Here Comes Mr. Jordan,False,nm0322299,1882,1959,"actor,writer,director",60,False,2021,0,M
+4256,1942,ACTOR IN A SUPPORTING ROLE,Sydney Greenstreet,The Maltese Falcon,False,nm0002113,1879,1954,"actor,soundtrack",63,False,2021,0,M
+4564,1964,ACTOR IN A SUPPORTING ROLE,John Huston,The Cardinal,False,nm0001379,1906,1987,"actor,director,writer",58,False,2021,0,M
+4579,1943,ACTOR,Walter Pidgeon,Mrs. Miniver,False,nm0682074,1897,1984,"actor,soundtrack",46,False,2021,0,M
+4580,1944,ACTOR,Walter Pidgeon,Madame Curie,False,nm0682074,1897,1984,"actor,soundtrack",47,False,2021,0,M
+4581,1943,ACTOR,Monty Woolley,The Pied Piper,False,nm0941253,1888,1963,"actor,soundtrack",55,False,2021,0,M
+4582,1945,ACTOR IN A SUPPORTING ROLE,Monty Woolley,Since You Went Away,False,nm0941253,1888,1963,"actor,soundtrack",57,False,2021,0,M
+4583,1943,ACTOR IN A SUPPORTING ROLE,William Bendix,Wake Island,False,nm0000904,1906,1964,"actor,soundtrack,writer",37,False,2021,0,M
+4584,1943,ACTOR IN A SUPPORTING ROLE,Van Heflin,Johnny Eager,True,nm0001336,1908,1971,"actor,soundtrack",35,False,2021,0,M
+4586,1943,ACTOR IN A SUPPORTING ROLE,Henry Travers,Mrs. Miniver,False,nm0871287,1874,1965,"actor,soundtrack",69,False,2021,0,M
+4706,1944,ACTOR,Humphrey Bogart,Casablanca,False,nm0000007,1899,1957,"actor,soundtrack,producer",45,False,2021,0,M
+4707,1952,ACTOR,Humphrey Bogart,The African Queen,True,nm0000007,1899,1957,"actor,soundtrack,producer",53,False,2021,0,M
+4708,1955,ACTOR,Humphrey Bogart,The Caine Mutiny,False,nm0000007,1899,1957,"actor,soundtrack,producer",56,False,2021,0,M
+4709,1944,ACTOR,Paul Lukas,Watch on the Rhine,True,nm0510134,1895,1971,"actor,soundtrack",49,False,2021,0,M
+4711,1944,ACTOR IN A SUPPORTING ROLE,Charles Bickford,The Song of Bernadette,False,nm0001948,1891,1967,"actor,soundtrack",53,False,2021,0,M
+4712,1948,ACTOR IN A SUPPORTING ROLE,Charles Bickford,The Farmer's Daughter,False,nm0001948,1891,1967,"actor,soundtrack",57,False,2021,0,M
+4713,1949,ACTOR IN A SUPPORTING ROLE,Charles Bickford,Johnny Belinda,False,nm0001948,1891,1967,"actor,soundtrack",58,False,2021,0,M
+4714,1944,ACTOR IN A SUPPORTING ROLE,J. Carrol Naish,Sahara,False,nm0619798,1896,1973,"actor,miscellaneous",48,False,2021,0,M
+4715,1946,ACTOR IN A SUPPORTING ROLE,J. Carrol Naish,A Medal for Benny,False,nm0619798,1896,1973,"actor,miscellaneous",50,False,2021,0,M
+5467,1945,ACTOR,Bing Crosby,Going My Way,True,nm0001078,1903,1977,"soundtrack,actor,producer",42,False,2021,0,M
+5468,1946,ACTOR,Bing Crosby,The Bells of St. Mary's,False,nm0001078,1903,1977,"soundtrack,actor,producer",43,False,2021,0,M
+5469,1955,ACTOR,Bing Crosby,The Country Girl,False,nm0001078,1903,1977,"soundtrack,actor,producer",52,False,2021,0,M
+5470,1945,ACTOR,Barry Fitzgerald,Going My Way,False,nm0280178,1888,1961,"actor,soundtrack",57,False,2021,0,M
+5479,1945,ACTOR IN A SUPPORTING ROLE,Barry Fitzgerald,Going My Way,True,nm0280178,1888,1961,"actor,soundtrack",57,False,2021,0,M
+5488,1945,ACTOR,Alexander Knox,Wilson,False,nm0461594,1907,1995,"actor,writer,director",38,False,2021,0,M
+5492,1945,ACTOR IN A SUPPORTING ROLE,Hume Cronyn,The Seventh Cross,False,nm0002025,1911,2003,"actor,producer,writer",34,False,2021,0,M
+5493,1945,ACTOR IN A SUPPORTING ROLE,Clifton Webb,Laura,False,nm0916067,1889,1966,"actor,soundtrack",56,False,2021,0,M
+5494,1947,ACTOR IN A SUPPORTING ROLE,Clifton Webb,The Razor's Edge,False,nm0916067,1889,1966,"actor,soundtrack",58,False,2021,0,M
+5495,1949,ACTOR,Clifton Webb,Sitting Pretty,False,nm0916067,1889,1966,"actor,soundtrack",60,False,2021,0,M
+5642,1946,ACTOR,Gene Kelly,Anchors Aweigh,False,nm0000037,1912,1996,"soundtrack,actor,director",34,False,2021,0,M
+5656,1946,ACTOR,Ray Milland,The Lost Weekend,True,nm0001537,1907,1986,"actor,director,soundtrack",39,False,2021,0,M
+5657,1946,ACTOR,Gregory Peck,The Keys of the Kingdom,False,nm0000060,1916,2003,"actor,producer,soundtrack",30,False,2021,0,M
+5658,1947,ACTOR,Gregory Peck,The Yearling,False,nm0000060,1916,2003,"actor,producer,soundtrack",31,False,2021,0,M
+5659,1948,ACTOR,Gregory Peck,Gentleman's Agreement,False,nm0000060,1916,2003,"actor,producer,soundtrack",32,False,2021,0,M
+5660,1950,ACTOR,Gregory Peck,Twelve O'Clock High,False,nm0000060,1916,2003,"actor,producer,soundtrack",34,False,2021,0,M
+5661,1963,ACTOR,Gregory Peck,To Kill a Mockingbird,True,nm0000060,1916,2003,"actor,producer,soundtrack",47,False,2021,0,M
+5663,1946,ACTOR,Cornel Wilde,A Song to Remember,False,nm0664273,1912,1989,"actor,director,producer",34,False,2021,0,M
+5664,1946,ACTOR IN A SUPPORTING ROLE,Michael Chekhov,Spellbound,False,nm0155011,1891,1955,actor,55,False,2021,0,M
+5665,1946,ACTOR IN A SUPPORTING ROLE,John Dall,The Corn Is Green,False,nm0197982,1920,1971,actor,26,False,2021,0,M
+5667,1946,ACTOR IN A SUPPORTING ROLE,James Dunn,A Tree Grows in Brooklyn,True,nm0007223,1901,1967,"actor,soundtrack",45,False,2021,0,M
+5716,1946,ACTOR IN A SUPPORTING ROLE,Robert Mitchum,G. I. Joe,False,nm0000053,1917,1997,"actor,soundtrack,producer",29,False,2021,0,M
+5795,1947,ACTOR,Larry Parks,The Jolson Story,False,nm0068049,1914,1975,"actor,producer,director",0,False,2021,0,M
+5804,1947,ACTOR IN A SUPPORTING ROLE,William Demarest,The Jolson Story,False,nm0218131,1892,1983,"actor,soundtrack",55,False,2021,0,M
+5805,1947,ACTOR IN A SUPPORTING ROLE,Harold Russell,The Best Years of Our Lives,True,nm0751174,1914,2002,"actor,soundtrack",33,False,2021,0,M
+5967,1948,ACTOR,Michael Redgrave,Mourning Becomes Electra,False,nm0714878,1908,1985,"actor,writer,soundtrack",40,False,2021,0,M
+5968,1948,ACTOR IN A SUPPORTING ROLE,Thomas Gomez,Ride the Pink Horse,False,nm0327089,1905,1971,actor,43,False,2021,0,M
+5971,1948,ACTOR IN A SUPPORTING ROLE,Edmund Gwenn,Miracle on 34th Street,True,nm0350324,1877,1959,"actor,soundtrack",71,False,2021,0,M
+5972,1951,ACTOR IN A SUPPORTING ROLE,Edmund Gwenn,Mister 880,False,nm0350324,1877,1959,"actor,soundtrack",74,False,2021,0,M
+5973,1948,ACTOR IN A SUPPORTING ROLE,Robert Ryan,Crossfire,False,nm0752813,1909,1973,"actor,soundtrack",39,False,2021,0,M
+6006,1948,ACTOR IN A SUPPORTING ROLE,Richard Widmark,Kiss of Death,False,nm0001847,1914,2008,"actor,producer,soundtrack",34,False,2021,0,M
+6288,1949,ACTOR,Lew Ayres,Johnny Belinda,False,nm0000817,1908,1996,"actor,soundtrack,director",41,False,2021,0,M
+6289,1949,ACTOR,Montgomery Clift,The Search,False,nm0001050,1920,1966,"actor,writer,soundtrack",29,False,2021,0,M
+6290,1952,ACTOR,Montgomery Clift,A Place in the Sun,False,nm0001050,1920,1966,"actor,writer,soundtrack",32,False,2021,0,M
+6291,1954,ACTOR,Montgomery Clift,From Here to Eternity,False,nm0001050,1920,1966,"actor,writer,soundtrack",34,False,2021,0,M
+6292,1962,ACTOR IN A SUPPORTING ROLE,Montgomery Clift,Judgment at Nuremberg,False,nm0001050,1920,1966,"actor,writer,soundtrack",42,False,2021,0,M
+6293,1949,ACTOR,Dan Dailey,When My Baby Smiles at Me,False,nm0197314,1915,1978,"actor,soundtrack,director",34,False,2021,0,M
+6295,1949,ACTOR IN A SUPPORTING ROLE,José Ferrer,Joan of Arc,False,nm0001207,1912,1992,"actor,soundtrack,director",37,False,2021,0,M
+6302,1951,ACTOR,José Ferrer,Cyrano de Bergerac,True,nm0001207,1912,1992,"actor,soundtrack,director",39,False,2021,0,M
+6309,1953,ACTOR,José Ferrer,Moulin Rouge,False,nm0001207,1912,1992,"actor,soundtrack,director",41,False,2021,0,M
+6316,1949,ACTOR IN A SUPPORTING ROLE,Cecil Kellaway,The Luck of the Irish,False,nm0445523,1890,1973,"actor,soundtrack,writer",59,False,2021,0,M
+6317,1968,ACTOR IN A SUPPORTING ROLE,Cecil Kellaway,Guess Who's Coming to Dinner,False,nm0445523,1890,1973,"actor,soundtrack,writer",78,False,2021,0,M
+6497,1950,ACTOR,Broderick Crawford,All the King's Men,True,nm0002024,1911,1986,"actor,producer,soundtrack",39,False,2021,0,M
+6499,1950,ACTOR,Kirk Douglas,Champion,False,nm0000018,1916,2020,"actor,producer,soundtrack",34,False,2021,0,M
+6507,1953,ACTOR,Kirk Douglas,The Bad and the Beautiful,False,nm0000018,1916,2020,"actor,producer,soundtrack",37,False,2021,0,M
+6515,1957,ACTOR,Kirk Douglas,Lust for Life,False,nm0000018,1916,2020,"actor,producer,soundtrack",41,False,2021,0,M
+6523,1950,ACTOR,Richard Todd,The Hasty Heart,False,nm0865262,1919,2009,"actor,producer",31,False,2021,0,M
+6551,1950,ACTOR,John Wayne,Sands of Iwo Jima,False,nm0000078,1907,1979,"actor,producer,soundtrack",43,False,2021,0,M
+6563,1970,ACTOR,John Wayne,True Grit,True,nm0000078,1907,1979,"actor,producer,soundtrack",63,False,2021,0,M
+6575,1950,ACTOR IN A SUPPORTING ROLE,John Ireland,All the King's Men,False,nm0409844,1942,0,"producer,writer,actor",8,True,2021,79,M
+6594,1950,ACTOR IN A SUPPORTING ROLE,Dean Jagger,Twelve O'Clock High,True,nm0415591,1903,1991,"actor,soundtrack",47,False,2021,0,M
+6596,1950,ACTOR IN A SUPPORTING ROLE,Arthur Kennedy,Champion,False,nm0447913,1914,1990,actor,36,False,2021,0,M
+6599,1952,ACTOR,Arthur Kennedy,Bright Victory,False,nm0447913,1914,1990,actor,38,False,2021,0,M
+6602,1956,ACTOR IN A SUPPORTING ROLE,Arthur Kennedy,Trial,False,nm0447913,1914,1990,actor,42,False,2021,0,M
+6605,1958,ACTOR IN A SUPPORTING ROLE,Arthur Kennedy,Peyton Place,False,nm0447913,1914,1990,actor,44,False,2021,0,M
+6608,1959,ACTOR IN A SUPPORTING ROLE,Arthur Kennedy,Some Came Running,False,nm0447913,1914,1990,actor,45,False,2021,0,M
+6611,1950,ACTOR IN A SUPPORTING ROLE,Ralph Richardson,The Heiress,False,nm0724732,1902,1983,"actor,director,producer",48,False,2021,0,M
+6618,1985,ACTOR IN A SUPPORTING ROLE,Ralph Richardson,"Greystoke: The Legend of Tarzan, Lord of the Apes",False,nm0724732,1902,1983,"actor,director,producer",83,False,2021,0,M
+6625,1950,ACTOR IN A SUPPORTING ROLE,James Whitmore,Battleground,False,nm0926235,1921,2009,"actor,soundtrack",29,False,2021,0,M
+6626,1976,ACTOR,James Whitmore,"Give 'em Hell, Harry!",False,nm0926235,1921,2009,"actor,soundtrack",55,False,2021,0,M
+6745,1991,ACTOR IN A SUPPORTING ROLE,Graham Greene,Dances With Wolves,False,nm0001294,1904,1991,"writer,actor,producer",87,False,2021,0,M
+6752,1951,ACTOR,Louis Calhern,The Magnificent Yankee,False,nm0129894,1895,1956,"actor,soundtrack,miscellaneous",56,False,2021,0,M
+6753,1951,ACTOR,William Holden,Sunset Blvd.,False,nm0000034,1918,1981,"actor,soundtrack",33,False,2021,0,M
+6772,1954,ACTOR,William Holden,Stalag 17,True,nm0000034,1918,1981,"actor,soundtrack",36,False,2021,0,M
+6791,1977,ACTOR IN A LEADING ROLE,William Holden,Network,False,nm0000034,1918,1981,"actor,soundtrack",59,False,2021,0,M
+6810,1951,ACTOR IN A SUPPORTING ROLE,Jeff Chandler,Broken Arrow,False,nm0001996,1918,1961,"actor,soundtrack,producer",33,False,2021,0,M
+6819,1951,ACTOR IN A SUPPORTING ROLE,Sam Jaffe,The Asphalt Jungle,False,nm0415488,1891,1984,actor,60,False,2021,0,M
+6825,1951,ACTOR IN A SUPPORTING ROLE,George Sanders,All about Eve,True,nm0001695,1906,1972,"actor,soundtrack,writer",45,False,2021,0,M
+6836,1951,ACTOR IN A SUPPORTING ROLE,Erich von Stroheim,Sunset Blvd.,False,nm0002233,1885,1957,"actor,writer,director",66,False,2021,0,M
+7081,1952,ACTOR,Marlon Brando,A Streetcar Named Desire,False,nm0000008,1924,2004,"actor,soundtrack,director",28,False,2021,0,M
+7082,1953,ACTOR,Marlon Brando,Viva Zapata!,False,nm0000008,1924,2004,"actor,soundtrack,director",29,False,2021,0,M
+7083,1954,ACTOR,Marlon Brando,Julius Caesar,False,nm0000008,1924,2004,"actor,soundtrack,director",30,False,2021,0,M
+7084,1955,ACTOR,Marlon Brando,On the Waterfront,True,nm0000008,1924,2004,"actor,soundtrack,director",31,False,2021,0,M
+7085,1958,ACTOR,Marlon Brando,Sayonara,False,nm0000008,1924,2004,"actor,soundtrack,director",34,False,2021,0,M
+7086,1973,ACTOR,Marlon Brando,The Godfather,True,nm0000008,1924,2004,"actor,soundtrack,director",49,False,2021,0,M
+7087,1974,ACTOR,Marlon Brando,Last Tango in Paris,False,nm0000008,1924,2004,"actor,soundtrack,director",50,False,2021,0,M
+7088,1990,ACTOR IN A SUPPORTING ROLE,Marlon Brando,A Dry White Season,False,nm0000008,1924,2004,"actor,soundtrack,director",66,False,2021,0,M
+7089,1952,ACTOR IN A SUPPORTING ROLE,Leo Genn,Quo Vadis,False,nm0312890,1905,1978,actor,47,False,2021,0,M
+7090,1952,ACTOR IN A SUPPORTING ROLE,Kevin McCarthy,Death of a Salesman,False,nm0002994,1914,2010,"actor,soundtrack",38,False,2021,0,M
+7162,1952,ACTOR IN A SUPPORTING ROLE,Karl Malden,A Streetcar Named Desire,True,nm0001500,1912,2009,"actor,soundtrack,director",40,False,2021,0,M
+7163,1955,ACTOR IN A SUPPORTING ROLE,Karl Malden,On the Waterfront,False,nm0001500,1912,2009,"actor,soundtrack,director",43,False,2021,0,M
+7164,1952,ACTOR IN A SUPPORTING ROLE,Peter Ustinov,Quo Vadis,False,nm0001811,1921,2004,"actor,writer,director",31,False,2021,0,M
+7165,1961,ACTOR IN A SUPPORTING ROLE,Peter Ustinov,Spartacus,True,nm0001811,1921,2004,"actor,writer,director",40,False,2021,0,M
+7166,1965,ACTOR IN A SUPPORTING ROLE,Peter Ustinov,Topkapi,True,nm0001811,1921,2004,"actor,writer,director",44,False,2021,0,M
+7167,1952,ACTOR IN A SUPPORTING ROLE,Gig Young,Come Fill the Cup,False,nm0949574,1913,1978,actor,39,False,2021,0,M
+7168,1959,ACTOR IN A SUPPORTING ROLE,Gig Young,Teacher's Pet,False,nm0949574,1913,1978,actor,46,False,2021,0,M
+7169,1970,ACTOR IN A SUPPORTING ROLE,Gig Young,"They Shoot Horses, Don't They?",True,nm0949574,1913,1978,actor,57,False,2021,0,M
+7349,1953,ACTOR,Alec Guinness,The Lavender Hill Mob,False,nm0000027,1914,2000,"actor,soundtrack,writer",39,False,2021,0,M
+7350,1958,ACTOR,Alec Guinness,The Bridge on the River Kwai,True,nm0000027,1914,2000,"actor,soundtrack,writer",44,False,2021,0,M
+7352,1978,ACTOR IN A SUPPORTING ROLE,Alec Guinness,Star Wars,False,nm0000027,1914,2000,"actor,soundtrack,writer",64,False,2021,0,M
+7353,1989,ACTOR IN A SUPPORTING ROLE,Alec Guinness,Little Dorrit,False,nm0000027,1914,2000,"actor,soundtrack,writer",75,False,2021,0,M
+7354,1953,ACTOR IN A SUPPORTING ROLE,Richard Burton,My Cousin Rachel,False,nm0000009,1925,1984,"actor,soundtrack,producer",28,False,2021,0,M
+7375,1954,ACTOR,Richard Burton,The Robe,False,nm0000009,1925,1984,"actor,soundtrack,producer",29,False,2021,0,M
+7396,1965,ACTOR,Richard Burton,Becket,False,nm0000009,1925,1984,"actor,soundtrack,producer",40,False,2021,0,M
+7417,1966,ACTOR,Richard Burton,The Spy Who Came In from the Cold,False,nm0000009,1925,1984,"actor,soundtrack,producer",41,False,2021,0,M
+7438,1967,ACTOR,Richard Burton,Who's Afraid of Virginia Woolf?,False,nm0000009,1925,1984,"actor,soundtrack,producer",42,False,2021,0,M
+7459,1970,ACTOR,Richard Burton,Anne of the Thousand Days,False,nm0000009,1925,1984,"actor,soundtrack,producer",45,False,2021,0,M
+7480,1978,ACTOR IN A LEADING ROLE,Richard Burton,Equus,False,nm0000009,1925,1984,"actor,soundtrack,producer",53,False,2021,0,M
+7501,1953,ACTOR IN A SUPPORTING ROLE,Arthur Hunnicutt,The Big Sky,False,nm0402277,1910,1979,"actor,soundtrack",43,False,2021,0,M
+7502,1953,ACTOR IN A SUPPORTING ROLE,Jack Palance,Sudden Fear,False,nm0001588,1919,2006,"actor,soundtrack,director",34,False,2021,0,M
+7503,1954,ACTOR IN A SUPPORTING ROLE,Jack Palance,Shane,False,nm0001588,1919,2006,"actor,soundtrack,director",35,False,2021,0,M
+7504,1992,ACTOR IN A SUPPORTING ROLE,Jack Palance,City Slickers,True,nm0001588,1919,2006,"actor,soundtrack,director",73,False,2021,0,M
+7505,1953,ACTOR IN A SUPPORTING ROLE,Anthony Quinn,Viva Zapata!,True,nm0000063,1915,2001,"actor,producer,soundtrack",38,False,2021,0,M
+7517,1957,ACTOR IN A SUPPORTING ROLE,Anthony Quinn,Lust for Life,True,nm0000063,1915,2001,"actor,producer,soundtrack",42,False,2021,0,M
+7529,1958,ACTOR,Anthony Quinn,Wild Is the Wind,False,nm0000063,1915,2001,"actor,producer,soundtrack",43,False,2021,0,M
+7541,1965,ACTOR,Anthony Quinn,Zorba the Greek,False,nm0000063,1915,2001,"actor,producer,soundtrack",50,False,2021,0,M
+8068,1954,ACTOR,Burt Lancaster,From Here to Eternity,False,nm0000044,1913,1994,"actor,producer,miscellaneous",41,False,2021,0,M
+8069,1961,ACTOR,Burt Lancaster,Elmer Gantry,True,nm0000044,1913,1994,"actor,producer,miscellaneous",48,False,2021,0,M
+8070,1963,ACTOR,Burt Lancaster,Birdman of Alcatraz,False,nm0000044,1913,1994,"actor,producer,miscellaneous",50,False,2021,0,M
+8071,1982,ACTOR IN A LEADING ROLE,Burt Lancaster,Atlantic City,False,nm0000044,1913,1994,"actor,producer,miscellaneous",69,False,2021,0,M
+8072,1954,ACTOR IN A SUPPORTING ROLE,Eddie Albert,Roman Holiday,False,nm0000734,1906,2005,"actor,soundtrack,producer",48,False,2021,0,M
+8076,1973,ACTOR IN A SUPPORTING ROLE,Eddie Albert,The Heartbreak Kid,False,nm0000734,1906,2005,"actor,soundtrack,producer",67,False,2021,0,M
+8080,1954,ACTOR IN A SUPPORTING ROLE,Brandon De Wilde,Shane,False,nm0001121,1942,1972,"actor,soundtrack",12,False,2021,0,M
+8081,1954,ACTOR IN A SUPPORTING ROLE,Frank Sinatra,From Here to Eternity,True,nm0000069,1915,1998,"soundtrack,actor,producer",39,False,2021,0,M
+8082,1956,ACTOR,Frank Sinatra,The Man with the Golden Arm,False,nm0000069,1915,1998,"soundtrack,actor,producer",41,False,2021,0,M
+8084,1954,ACTOR IN A SUPPORTING ROLE,Robert Strauss,Stalag 17,False,nm0833865,1913,1975,"actor,soundtrack",41,False,2021,0,M
+8222,1955,ACTOR,James Mason,A Star Is Born,False,nm0000051,1909,1984,"actor,producer,writer",46,False,2021,0,M
+8271,1967,ACTOR IN A SUPPORTING ROLE,James Mason,Georgy Girl,False,nm0000051,1909,1984,"actor,producer,writer",58,False,2021,0,M
+8320,1983,ACTOR IN A SUPPORTING ROLE,James Mason,The Verdict,False,nm0000051,1909,1984,"actor,producer,writer",74,False,2021,0,M
+8369,1955,ACTOR,Dan O'Herlihy,Adventures of Robinson Crusoe,False,nm0641397,1919,2005,"actor,art_department",36,False,2021,0,M
+8370,1955,ACTOR IN A SUPPORTING ROLE,Lee J. Cobb,On the Waterfront,False,nm0002011,1911,1976,"actor,director,soundtrack",44,False,2021,0,M
+8371,1959,ACTOR IN A SUPPORTING ROLE,Lee J. Cobb,The Brothers Karamazov,False,nm0002011,1911,1976,"actor,director,soundtrack",48,False,2021,0,M
+8372,1955,ACTOR IN A SUPPORTING ROLE,Edmond O'Brien,The Barefoot Contessa,True,nm0639529,1915,1985,"actor,director,producer",40,False,2021,0,M
+8374,1965,ACTOR IN A SUPPORTING ROLE,Edmond O'Brien,Seven Days in May,False,nm0639529,1915,1985,"actor,director,producer",50,False,2021,0,M
+8376,1955,ACTOR IN A SUPPORTING ROLE,Rod Steiger,On the Waterfront,False,nm0001768,1925,2002,"actor,soundtrack",30,False,2021,0,M
+8377,1966,ACTOR,Rod Steiger,The Pawnbroker,False,nm0001768,1925,2002,"actor,soundtrack",41,False,2021,0,M
+8378,1968,ACTOR,Rod Steiger,In the Heat of the Night,True,nm0001768,1925,2002,"actor,soundtrack",43,False,2021,0,M
+8379,1955,ACTOR IN A SUPPORTING ROLE,Tom Tully,The Caine Mutiny,False,nm0876451,1908,1982,actor,47,False,2021,0,M
+8476,1956,ACTOR,Ernest Borgnine,Marty,True,nm0000308,1917,2012,"actor,soundtrack,producer",39,False,2021,0,M
+8477,1956,ACTOR,James Dean,East of Eden,False,nm0000015,1931,1955,"actor,miscellaneous",25,False,2021,0,M
+8548,1957,ACTOR,James Dean,Giant,False,nm0000015,1931,1955,"actor,miscellaneous",26,False,2021,0,M
+8619,1956,ACTOR IN A SUPPORTING ROLE,Jack Lemmon,Mister Roberts,True,nm0000493,1925,2001,"actor,soundtrack,producer",31,False,2021,0,M
+8620,1960,ACTOR,Jack Lemmon,Some Like It Hot,False,nm0000493,1925,2001,"actor,soundtrack,producer",35,False,2021,0,M
+8621,1961,ACTOR,Jack Lemmon,The Apartment,False,nm0000493,1925,2001,"actor,soundtrack,producer",36,False,2021,0,M
+8622,1963,ACTOR,Jack Lemmon,Days of Wine and Roses,False,nm0000493,1925,2001,"actor,soundtrack,producer",38,False,2021,0,M
+8623,1974,ACTOR,Jack Lemmon,Save the Tiger,True,nm0000493,1925,2001,"actor,soundtrack,producer",49,False,2021,0,M
+8624,1980,ACTOR IN A LEADING ROLE,Jack Lemmon,The China Syndrome,False,nm0000493,1925,2001,"actor,soundtrack,producer",55,False,2021,0,M
+8625,1981,ACTOR IN A LEADING ROLE,Jack Lemmon,Tribute,False,nm0000493,1925,2001,"actor,soundtrack,producer",56,False,2021,0,M
+8626,1983,ACTOR IN A LEADING ROLE,Jack Lemmon,Missing,False,nm0000493,1925,2001,"actor,soundtrack,producer",58,False,2021,0,M
+8627,1956,ACTOR IN A SUPPORTING ROLE,Joe Mantell,Marty,False,nm0544064,1915,2010,actor,41,False,2021,0,M
+8628,1956,ACTOR IN A SUPPORTING ROLE,Sal Mineo,Rebel without a Cause,False,nm0000543,1939,1976,"actor,soundtrack,music_department",17,False,2021,0,M
+8629,1961,ACTOR IN A SUPPORTING ROLE,Sal Mineo,Exodus,False,nm0000543,1939,1976,"actor,soundtrack,music_department",22,False,2021,0,M
+8630,1956,ACTOR IN A SUPPORTING ROLE,Arthur O'Connell,Picnic,False,nm0640023,1908,1981,"actor,soundtrack",48,False,2021,0,M
+8631,1960,ACTOR IN A SUPPORTING ROLE,Arthur O'Connell,Anatomy of a Murder,False,nm0640023,1908,1981,"actor,soundtrack",52,False,2021,0,M
+8953,1957,ACTOR,Yul Brynner,The King and I,True,nm0000989,1920,1985,"actor,director,producer",37,False,2021,0,M
+8955,1957,ACTOR,Rock Hudson,Giant,False,nm0001369,1925,1985,"actor,soundtrack,producer",32,False,2021,0,M
+8957,1957,ACTOR IN A SUPPORTING ROLE,Don Murray,Bus Stop,False,nm0614916,1929,0,"actor,writer,producer",28,True,2021,92,M
+8979,1957,ACTOR IN A SUPPORTING ROLE,Anthony Perkins,Friendly Persuasion,False,nm0000578,1932,1992,"actor,soundtrack,director",25,False,2021,0,M
+8996,1957,ACTOR IN A SUPPORTING ROLE,Robert Stack,Written on the Wind,False,nm0821041,1919,2003,"actor,producer,soundtrack",38,False,2021,0,M
+9238,1958,ACTOR,Anthony Franciosa,A Hatful of Rain,False,nm0290047,1928,2006,actor,30,False,2021,0,M
+9240,1958,ACTOR IN A SUPPORTING ROLE,Red Buttons,Sayonara,True,nm0000999,1919,2006,"actor,soundtrack,miscellaneous",39,False,2021,0,M
+9241,1958,ACTOR IN A SUPPORTING ROLE,Vittorio De Sica,A Farewell to Arms,False,nm0001120,1901,1974,"actor,director,writer",57,False,2021,0,M
+9242,1958,ACTOR IN A SUPPORTING ROLE,Sessue Hayakawa,The Bridge on the River Kwai,False,nm0370564,1889,1973,"actor,producer,director",69,False,2021,0,M
+9243,1958,ACTOR IN A SUPPORTING ROLE,Russ Tamblyn,Peyton Place,False,nm0848560,1934,0,"actor,soundtrack,miscellaneous",24,True,2021,87,M
+9963,1959,ACTOR,Tony Curtis,The Defiant Ones,False,nm0000348,1925,2010,"actor,soundtrack,producer",34,False,2021,0,M
+9976,1959,ACTOR,Paul Newman,Cat on a Hot Tin Roof,False,nm0000056,1925,2008,"actor,producer,director",34,False,2021,0,M
+10013,1962,ACTOR,Paul Newman,The Hustler,False,nm0000056,1925,2008,"actor,producer,director",37,False,2021,0,M
+10050,1964,ACTOR,Paul Newman,Hud,False,nm0000056,1925,2008,"actor,producer,director",39,False,2021,0,M
+10087,1968,ACTOR,Paul Newman,Cool Hand Luke,False,nm0000056,1925,2008,"actor,producer,director",43,False,2021,0,M
+10124,1982,ACTOR IN A LEADING ROLE,Paul Newman,Absence of Malice,False,nm0000056,1925,2008,"actor,producer,director",57,False,2021,0,M
+10161,1983,ACTOR IN A LEADING ROLE,Paul Newman,The Verdict,False,nm0000056,1925,2008,"actor,producer,director",58,False,2021,0,M
+10198,1987,ACTOR IN A LEADING ROLE,Paul Newman,The Color of Money,True,nm0000056,1925,2008,"actor,producer,director",62,False,2021,0,M
+10272,1995,ACTOR IN A LEADING ROLE,Paul Newman,Nobody's Fool,False,nm0000056,1925,2008,"actor,producer,director",70,False,2021,0,M
+10309,2003,ACTOR IN A SUPPORTING ROLE,Paul Newman,Road to Perdition,False,nm0000056,1925,2008,"actor,producer,director",78,False,2021,0,M
+10346,1959,ACTOR,David Niven,Separate Tables,True,nm0000057,1910,1983,"actor,producer,soundtrack",49,False,2021,0,M
+10350,1959,ACTOR,Sidney Poitier,The Defiant Ones,False,nm0001627,1927,0,"actor,director,soundtrack",32,True,2021,94,M
+10351,1964,ACTOR,Sidney Poitier,Lilies of the Field,True,nm0001627,1927,0,"actor,director,soundtrack",37,True,2021,94,M
+10352,1959,ACTOR IN A SUPPORTING ROLE,Theodore Bikel,The Defiant Ones,False,nm0000942,1924,2015,"actor,soundtrack,director",35,False,2021,0,M
+10353,1959,ACTOR IN A SUPPORTING ROLE,Burl Ives,The Big Country,True,nm0412322,1909,1995,"actor,soundtrack",50,False,2021,0,M
+10442,1960,ACTOR,Laurence Harvey,Room at the Top,False,nm0002131,1928,1973,"actor,director,producer",32,False,2021,0,M
+10447,1960,ACTOR,Charlton Heston,Ben-Hur,True,nm0000032,1923,2008,"actor,director,writer",37,False,2021,0,M
+10449,1960,ACTOR IN A SUPPORTING ROLE,Hugh Griffith,Ben-Hur,True,nm0341518,1912,1980,actor,48,False,2021,0,M
+10451,1964,ACTOR IN A SUPPORTING ROLE,Hugh Griffith,Tom Jones,False,nm0341518,1912,1980,actor,52,False,2021,0,M
+10453,1960,ACTOR IN A SUPPORTING ROLE,George C. Scott,Anatomy of a Murder,False,nm0001715,1927,1999,"actor,director,producer",33,False,2021,0,M
+10454,1962,ACTOR IN A SUPPORTING ROLE,George C. Scott,The Hustler,False,nm0001715,1927,1999,"actor,director,producer",35,False,2021,0,M
+10455,1971,ACTOR,George C. Scott,Patton,True,nm0001715,1927,1999,"actor,director,producer",44,False,2021,0,M
+10456,1972,ACTOR,George C. Scott,The Hospital,False,nm0001715,1927,1999,"actor,director,producer",45,False,2021,0,M
+10457,1960,ACTOR IN A SUPPORTING ROLE,Robert Vaughn,The Young Philadelphians,False,nm0001816,1932,2016,"actor,director",28,False,2021,0,M
+10470,1960,ACTOR IN A SUPPORTING ROLE,Ed Wynn,The Diary of Anne Frank,False,nm0943956,1886,1966,"actor,soundtrack,miscellaneous",74,False,2021,0,M
+10765,1961,ACTOR,Trevor Howard,Sons and Lovers,False,nm0002145,1913,1988,actor,48,False,2021,0,M
+10771,1961,ACTOR IN A SUPPORTING ROLE,Peter Falk,"Murder, Inc.",False,nm0000393,1927,2011,"actor,producer,soundtrack",34,False,2021,0,M
+10780,1962,ACTOR IN A SUPPORTING ROLE,Peter Falk,Pocketful of Miracles,False,nm0000393,1927,2011,"actor,producer,soundtrack",35,False,2021,0,M
+10789,1961,ACTOR IN A SUPPORTING ROLE,Jack Kruschen,The Apartment,False,nm0472816,1922,2002,actor,39,False,2021,0,M
+10790,1961,ACTOR IN A SUPPORTING ROLE,Chill Wills,The Alamo,False,nm0932629,1902,1978,"actor,soundtrack",59,False,2021,0,M
+11361,1962,ACTOR,Maximilian Schell,Judgment at Nuremberg,True,nm0001703,1930,2014,"actor,director,writer",32,False,2021,0,M
+11362,1976,ACTOR,Maximilian Schell,The Man in the Glass Booth,False,nm0001703,1930,2014,"actor,director,writer",46,False,2021,0,M
+11363,1978,ACTOR IN A SUPPORTING ROLE,Maximilian Schell,Julia,False,nm0001703,1930,2014,"actor,director,writer",48,False,2021,0,M
+11364,1962,ACTOR,Stuart Whitman,The Mark,False,nm0926183,1928,2020,"actor,soundtrack,miscellaneous",34,False,2021,0,M
+11365,1962,ACTOR IN A SUPPORTING ROLE,George Chakiris,West Side Story,True,nm0001995,1934,0,"actor,soundtrack,miscellaneous",28,True,2021,87,M
+11366,1962,ACTOR IN A SUPPORTING ROLE,Jackie Gleason,The Hustler,False,nm0001276,1916,1987,"actor,music_department,writer",46,False,2021,0,M
+11453,1963,ACTOR,Marcello Mastroianni,Divorce--Italian Style,False,nm0000052,1924,1996,"actor,producer,soundtrack",39,False,2021,0,M
+11454,1978,ACTOR IN A LEADING ROLE,Marcello Mastroianni,A Special Day,False,nm0000052,1924,1996,"actor,producer,soundtrack",54,False,2021,0,M
+11455,1988,ACTOR IN A LEADING ROLE,Marcello Mastroianni,Dark Eyes,False,nm0000052,1924,1996,"actor,producer,soundtrack",64,False,2021,0,M
+11456,1963,ACTOR,Peter O'Toole,Lawrence of Arabia,False,nm0000564,1932,2013,"actor,soundtrack,producer",31,False,2021,0,M
+11466,1965,ACTOR,Peter O'Toole,Becket,False,nm0000564,1932,2013,"actor,soundtrack,producer",33,False,2021,0,M
+11476,1969,ACTOR,Peter O'Toole,The Lion in Winter,False,nm0000564,1932,2013,"actor,soundtrack,producer",37,False,2021,0,M
+11486,1970,ACTOR,Peter O'Toole,"Goodbye, Mr. Chips",False,nm0000564,1932,2013,"actor,soundtrack,producer",38,False,2021,0,M
+11496,1973,ACTOR,Peter O'Toole,The Ruling Class,False,nm0000564,1932,2013,"actor,soundtrack,producer",41,False,2021,0,M
+11506,1981,ACTOR IN A LEADING ROLE,Peter O'Toole,The Stunt Man,False,nm0000564,1932,2013,"actor,soundtrack,producer",49,False,2021,0,M
+11516,1983,ACTOR IN A LEADING ROLE,Peter O'Toole,My Favorite Year,False,nm0000564,1932,2013,"actor,soundtrack,producer",51,False,2021,0,M
+11526,2007,ACTOR IN A LEADING ROLE,Peter O'Toole,Venus,False,nm0000564,1932,2013,"actor,soundtrack,producer",75,False,2021,0,M
+11536,1963,ACTOR IN A SUPPORTING ROLE,Ed Begley,Sweet Bird of Youth,True,nm0003225,1901,1970,actor,62,False,2021,0,M
+11540,1963,ACTOR IN A SUPPORTING ROLE,Victor Buono,What Ever Happened to Baby Jane?,False,nm0120658,1938,1982,actor,25,False,2021,0,M
+11541,1963,ACTOR IN A SUPPORTING ROLE,Telly Savalas,Birdman of Alcatraz,False,nm0001699,1922,1994,"actor,soundtrack,director",41,False,2021,0,M
+11542,1963,ACTOR IN A SUPPORTING ROLE,Omar Sharif,Lawrence of Arabia,False,nm0001725,1932,2015,"actor,soundtrack,writer",31,False,2021,0,M
+11546,1963,ACTOR IN A SUPPORTING ROLE,Terence Stamp,Billy Budd,False,nm0000654,1938,0,"actor,soundtrack,director",25,True,2021,83,M
+11688,1964,ACTOR,Albert Finney,Tom Jones,False,nm0001215,1936,2019,"actor,producer,soundtrack",28,False,2021,0,M
+11689,1975,ACTOR,Albert Finney,Murder on the Orient Express,False,nm0001215,1936,2019,"actor,producer,soundtrack",39,False,2021,0,M
+11690,1984,ACTOR IN A LEADING ROLE,Albert Finney,The Dresser,False,nm0001215,1936,2019,"actor,producer,soundtrack",48,False,2021,0,M
+11691,1985,ACTOR IN A LEADING ROLE,Albert Finney,Under the Volcano,False,nm0001215,1936,2019,"actor,producer,soundtrack",49,False,2021,0,M
+11692,2001,ACTOR IN A SUPPORTING ROLE,Albert Finney,Erin Brockovich,False,nm0001215,1936,2019,"actor,producer,soundtrack",65,False,2021,0,M
+11693,1964,ACTOR,Richard Harris,This Sporting Life,False,nm0001321,1930,2002,"actor,soundtrack,producer",34,False,2021,0,M
+11772,1991,ACTOR IN A LEADING ROLE,Richard Harris,The Field,False,nm0001321,1930,2002,"actor,soundtrack,producer",61,False,2021,0,M
+11851,1964,ACTOR,Rex Harrison,Cleopatra,False,nm0001322,1908,1990,"actor,soundtrack,producer",56,False,2021,0,M
+11855,1965,ACTOR,Rex Harrison,My Fair Lady,True,nm0001322,1908,1990,"actor,soundtrack,producer",57,False,2021,0,M
+11859,1964,ACTOR IN A SUPPORTING ROLE,Nick Adams,Twilight of Honor,False,nm0011244,1931,1968,"actor,writer,soundtrack",33,False,2021,0,M
+11904,1964,ACTOR IN A SUPPORTING ROLE,Bobby Darin,"Captain Newman, M.D.",False,nm0201239,1936,1973,"soundtrack,actor,writer",28,False,2021,0,M
+11905,1964,ACTOR IN A SUPPORTING ROLE,Melvyn Douglas,Hud,True,nm0002048,1901,1981,"actor,soundtrack",63,False,2021,0,M
+11906,1971,ACTOR,Melvyn Douglas,I Never Sang for My Father,False,nm0002048,1901,1981,"actor,soundtrack",70,False,2021,0,M
+11907,1980,ACTOR IN A SUPPORTING ROLE,Melvyn Douglas,Being There,True,nm0002048,1901,1981,"actor,soundtrack",79,False,2021,0,M
+12154,1965,ACTOR,Peter Sellers,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,False,nm0000634,1925,1980,"actor,soundtrack,writer",40,False,2021,0,M
+12156,1980,ACTOR IN A LEADING ROLE,Peter Sellers,Being There,False,nm0000634,1925,1980,"actor,soundtrack,writer",55,False,2021,0,M
+12158,1965,ACTOR IN A SUPPORTING ROLE,John Gielgud,Becket,False,nm0000024,1904,2000,"actor,writer,director",61,False,2021,0,M
+12160,1982,ACTOR IN A SUPPORTING ROLE,John Gielgud,Arthur,True,nm0000024,1904,2000,"actor,writer,director",78,False,2021,0,M
+12162,1965,ACTOR IN A SUPPORTING ROLE,Stanley Holloway,My Fair Lady,False,nm0391361,1890,1982,"actor,soundtrack,writer",75,False,2021,0,M
+12163,1965,ACTOR IN A SUPPORTING ROLE,Lee Tracy,The Best Man,False,nm0870543,1898,1968,"actor,soundtrack,writer",67,False,2021,0,M
+12516,1966,ACTOR,Lee Marvin,Cat Ballou,True,nm0001511,1924,1987,"actor,soundtrack,miscellaneous",42,False,2021,0,M
+12518,1966,ACTOR,Oskar Werner,Ship of Fools,False,nm0921459,1922,1984,"actor,director,writer",44,False,2021,0,M
+12519,1966,ACTOR IN A SUPPORTING ROLE,Martin Balsam,A Thousand Clowns,True,nm0000842,1919,1996,actor,47,False,2021,0,M
+12520,1966,ACTOR IN A SUPPORTING ROLE,Ian Bannen,The Flight of the Phoenix,False,nm0000846,1928,1999,actor,38,False,2021,0,M
+12521,1966,ACTOR IN A SUPPORTING ROLE,Tom Courtenay,Doctor Zhivago,False,nm0183822,1937,0,"actor,soundtrack",29,True,2021,84,M
+12522,1984,ACTOR IN A LEADING ROLE,Tom Courtenay,The Dresser,False,nm0183822,1937,0,"actor,soundtrack",47,True,2021,84,M
+12523,1966,ACTOR IN A SUPPORTING ROLE,Michael Dunn,Ship of Fools,False,nm0241751,1934,1973,art_department,0,False,2021,0,M
+12561,1966,ACTOR IN A SUPPORTING ROLE,Frank Finlay,Othello,False,nm0277975,1926,2016,actor,40,False,2021,0,M
+12974,1967,ACTOR,Alan Arkin,The Russians Are Coming The Russians Are Coming,False,nm0000273,1934,0,"actor,soundtrack,director",33,True,2021,87,M
+12975,1969,ACTOR,Alan Arkin,The Heart Is a Lonely Hunter,False,nm0000273,1934,0,"actor,soundtrack,director",35,True,2021,87,M
+12976,2007,ACTOR IN A SUPPORTING ROLE,Alan Arkin,Little Miss Sunshine,True,nm0000273,1934,0,"actor,soundtrack,director",73,True,2021,87,M
+12977,2013,ACTOR IN A SUPPORTING ROLE,Alan Arkin,Argo,False,nm0000273,1934,0,"actor,soundtrack,director",79,True,2021,87,M
+12978,1967,ACTOR,Michael Caine,Alfie,False,nm0000323,1933,0,"actor,producer,soundtrack",34,True,2021,88,M
+12989,1973,ACTOR,Michael Caine,Sleuth,False,nm0000323,1933,0,"actor,producer,soundtrack",40,True,2021,88,M
+13000,1984,ACTOR IN A LEADING ROLE,Michael Caine,Educating Rita,False,nm0000323,1933,0,"actor,producer,soundtrack",51,True,2021,88,M
+13011,1987,ACTOR IN A SUPPORTING ROLE,Michael Caine,Hannah and Her Sisters,True,nm0000323,1933,0,"actor,producer,soundtrack",54,True,2021,88,M
+13022,2000,ACTOR IN A SUPPORTING ROLE,Michael Caine,The Cider House Rules,True,nm0000323,1933,0,"actor,producer,soundtrack",67,True,2021,88,M
+13033,2003,ACTOR IN A LEADING ROLE,Michael Caine,The Quiet American,False,nm0000323,1933,0,"actor,producer,soundtrack",70,True,2021,88,M
+13044,1967,ACTOR,Steve McQueen,The Sand Pebbles,False,nm0000537,1930,1980,"actor,producer,soundtrack",37,False,2021,0,M
+13054,1967,ACTOR,Paul Scofield,A Man for All Seasons,True,nm0006890,1922,2008,actor,45,False,2021,0,M
+13057,1995,ACTOR IN A SUPPORTING ROLE,Paul Scofield,Quiz Show,False,nm0006890,1922,2008,actor,73,False,2021,0,M
+13060,1967,ACTOR IN A SUPPORTING ROLE,Mako,The Sand Pebbles,False,nm0538683,1933,2006,"actor,soundtrack,production_designer",34,False,2021,0,M
+13067,1967,ACTOR IN A SUPPORTING ROLE,Walter Matthau,The Fortune Cookie,True,nm0000527,1920,2000,"actor,soundtrack,director",47,False,2021,0,M
+13068,1972,ACTOR,Walter Matthau,Kotch,False,nm0000527,1920,2000,"actor,soundtrack,director",52,False,2021,0,M
+13069,1976,ACTOR,Walter Matthau,The Sunshine Boys,False,nm0000527,1920,2000,"actor,soundtrack,director",56,False,2021,0,M
+13070,1967,ACTOR IN A SUPPORTING ROLE,George Segal,Who's Afraid of Virginia Woolf?,False,nm0001719,1934,2021,"actor,soundtrack,producer",33,False,2021,0,M
+13075,1967,ACTOR IN A SUPPORTING ROLE,Robert Shaw,A Man for All Seasons,False,nm0001727,1927,1978,"actor,writer,soundtrack",40,False,2021,0,M
+13576,1968,ACTOR,Warren Beatty,Bonnie and Clyde,False,nm0000886,1937,0,"actor,soundtrack,producer",31,True,2021,84,M
+13578,1979,ACTOR IN A LEADING ROLE,Warren Beatty,Heaven Can Wait,False,nm0000886,1937,0,"actor,soundtrack,producer",42,True,2021,84,M
+13580,1982,ACTOR IN A LEADING ROLE,Warren Beatty,Reds,False,nm0000886,1937,0,"actor,soundtrack,producer",45,True,2021,84,M
+13584,1992,ACTOR IN A LEADING ROLE,Warren Beatty,Bugsy,False,nm0000886,1937,0,"actor,soundtrack,producer",55,True,2021,84,M
+13588,1968,ACTOR,Dustin Hoffman,The Graduate,False,nm0000163,1937,0,"actor,producer,soundtrack",31,True,2021,84,M
+13589,1970,ACTOR,Dustin Hoffman,Midnight Cowboy,False,nm0000163,1937,0,"actor,producer,soundtrack",33,True,2021,84,M
+13590,1975,ACTOR,Dustin Hoffman,Lenny,False,nm0000163,1937,0,"actor,producer,soundtrack",38,True,2021,84,M
+13591,1980,ACTOR IN A LEADING ROLE,Dustin Hoffman,Kramer vs. Kramer,True,nm0000163,1937,0,"actor,producer,soundtrack",43,True,2021,84,M
+13592,1983,ACTOR IN A LEADING ROLE,Dustin Hoffman,Tootsie,False,nm0000163,1937,0,"actor,producer,soundtrack",46,True,2021,84,M
+13593,1989,ACTOR IN A LEADING ROLE,Dustin Hoffman,Rain Man,True,nm0000163,1937,0,"actor,producer,soundtrack",52,True,2021,84,M
+13594,1998,ACTOR IN A LEADING ROLE,Dustin Hoffman,Wag the Dog,False,nm0000163,1937,0,"actor,producer,soundtrack",61,True,2021,84,M
+13595,1968,ACTOR IN A SUPPORTING ROLE,John Cassavetes,The Dirty Dozen,False,nm0001023,1929,1989,"actor,director,writer",39,False,2021,0,M
+13598,1968,ACTOR IN A SUPPORTING ROLE,Gene Hackman,Bonnie and Clyde,False,nm0000432,1930,0,"actor,soundtrack,producer",38,True,2021,91,M
+13599,1971,ACTOR IN A SUPPORTING ROLE,Gene Hackman,I Never Sang for My Father,False,nm0000432,1930,0,"actor,soundtrack,producer",41,True,2021,91,M
+13600,1972,ACTOR,Gene Hackman,The French Connection,True,nm0000432,1930,0,"actor,soundtrack,producer",42,True,2021,91,M
+13601,1989,ACTOR IN A LEADING ROLE,Gene Hackman,Mississippi Burning,False,nm0000432,1930,0,"actor,soundtrack,producer",59,True,2021,91,M
+13602,1993,ACTOR IN A SUPPORTING ROLE,Gene Hackman,Unforgiven,True,nm0000432,1930,0,"actor,soundtrack,producer",63,True,2021,91,M
+13603,1968,ACTOR IN A SUPPORTING ROLE,George Kennedy,Cool Hand Luke,True,nm0001421,1925,2016,"actor,miscellaneous",43,False,2021,0,M
+13613,1968,ACTOR IN A SUPPORTING ROLE,Michael J. Pollard,Bonnie and Clyde,False,nm0689488,1939,2019,"actor,soundtrack",29,False,2021,0,M
+25287,1969,ACTOR,Alan Bates,The Fixer,False,nm0000869,1934,2003,"actor,soundtrack,producer",35,False,2021,0,M
+25295,1969,ACTOR,Ron Moody,Oliver!,False,nm0600531,1924,2015,"actor,writer,composer",45,False,2021,0,M
+25296,1969,ACTOR,Cliff Robertson,Charly,True,nm0731772,1923,2011,"actor,director,writer",46,False,2021,0,M
+25299,1969,ACTOR IN A SUPPORTING ROLE,Jack Albertson,The Subject Was Roses,True,nm0016776,1907,1981,"actor,soundtrack",62,False,2021,0,M
+25301,1969,ACTOR IN A SUPPORTING ROLE,Seymour Cassel,Faces,False,nm0001025,1935,2019,"actor,soundtrack,miscellaneous",34,False,2021,0,M
+25302,1969,ACTOR IN A SUPPORTING ROLE,Daniel Massey,Star!,False,nm0557292,1933,1998,"actor,soundtrack",36,False,2021,0,M
+25308,1969,ACTOR IN A SUPPORTING ROLE,Jack Wild,Oliver!,False,nm0928349,1952,2006,"actor,soundtrack",17,False,2021,0,M
+25314,1969,ACTOR IN A SUPPORTING ROLE,Gene Wilder,The Producers,False,nm0000698,1933,2016,"actor,soundtrack,writer",36,False,2021,0,M
+25397,1970,ACTOR,Jon Voight,Midnight Cowboy,False,nm0000685,1938,0,"actor,producer,writer",32,True,2021,83,M
+25398,1979,ACTOR IN A LEADING ROLE,Jon Voight,Coming Home,True,nm0000685,1938,0,"actor,producer,writer",41,True,2021,83,M
+25399,1986,ACTOR IN A LEADING ROLE,Jon Voight,Runaway Train,False,nm0000685,1938,0,"actor,producer,writer",48,True,2021,83,M
+25400,2002,ACTOR IN A SUPPORTING ROLE,Jon Voight,Ali,False,nm0000685,1938,0,"actor,producer,writer",64,True,2021,83,M
+25401,1970,ACTOR IN A SUPPORTING ROLE,Rupert Crosse,The Reivers,False,nm0189313,1927,1973,actor,43,False,2021,0,M
+25402,1970,ACTOR IN A SUPPORTING ROLE,Elliott Gould,Bob & Carol & Ted & Alice,False,nm0001285,1938,0,"actor,soundtrack,producer",32,True,2021,83,M
+25403,1970,ACTOR IN A SUPPORTING ROLE,Jack Nicholson,Easy Rider,False,nm0000197,1937,0,"actor,soundtrack,producer",33,True,2021,84,M
+25410,1971,ACTOR,Jack Nicholson,Five Easy Pieces,False,nm0000197,1937,0,"actor,soundtrack,producer",34,True,2021,84,M
+25417,1974,ACTOR,Jack Nicholson,The Last Detail,False,nm0000197,1937,0,"actor,soundtrack,producer",37,True,2021,84,M
+25424,1975,ACTOR,Jack Nicholson,Chinatown,False,nm0000197,1937,0,"actor,soundtrack,producer",38,True,2021,84,M
+25431,1976,ACTOR,Jack Nicholson,One Flew over the Cuckoo's Nest,True,nm0000197,1937,0,"actor,soundtrack,producer",39,True,2021,84,M
+25438,1982,ACTOR IN A SUPPORTING ROLE,Jack Nicholson,Reds,False,nm0000197,1937,0,"actor,soundtrack,producer",45,True,2021,84,M
+25445,1984,ACTOR IN A SUPPORTING ROLE,Jack Nicholson,Terms of Endearment,True,nm0000197,1937,0,"actor,soundtrack,producer",47,True,2021,84,M
+25452,1986,ACTOR IN A LEADING ROLE,Jack Nicholson,Prizzi's Honor,False,nm0000197,1937,0,"actor,soundtrack,producer",49,True,2021,84,M
+25459,1988,ACTOR IN A LEADING ROLE,Jack Nicholson,Ironweed,False,nm0000197,1937,0,"actor,soundtrack,producer",51,True,2021,84,M
+25466,1993,ACTOR IN A SUPPORTING ROLE,Jack Nicholson,A Few Good Men,False,nm0000197,1937,0,"actor,soundtrack,producer",56,True,2021,84,M
+25473,1998,ACTOR IN A LEADING ROLE,Jack Nicholson,As Good as It Gets,True,nm0000197,1937,0,"actor,soundtrack,producer",61,True,2021,84,M
+25480,2003,ACTOR IN A LEADING ROLE,Jack Nicholson,About Schmidt,False,nm0000197,1937,0,"actor,soundtrack,producer",66,True,2021,84,M
+25487,1970,ACTOR IN A SUPPORTING ROLE,Anthony Quayle,Anne of the Thousand Days,False,nm0703033,1913,1989,"actor,miscellaneous",57,False,2021,0,M
+25565,1971,ACTOR,James Earl Jones,The Great White Hope,False,nm0000469,1931,0,"actor,soundtrack",40,True,2021,90,M
+25566,1971,ACTOR,Ryan O'Neal,Love Story,False,nm0641939,1941,0,"actor,soundtrack,producer",30,True,2021,80,M
+25572,1971,ACTOR IN A SUPPORTING ROLE,Richard Castellano,Lovers and Other Strangers,False,nm7180844,1933,1988,actor,0,False,2021,0,M
+25573,1971,ACTOR IN A SUPPORTING ROLE,Chief Dan George,Little Big Man,False,nm0313381,1899,1981,actor,72,False,2021,0,M
+25574,1971,ACTOR IN A SUPPORTING ROLE,John Marley,Love Story,False,nm0549134,1907,1984,actor,64,False,2021,0,M
+25579,1971,ACTOR IN A SUPPORTING ROLE,John Mills,Ryan's Daughter,True,nm0590055,1908,2005,"actor,soundtrack,producer",63,False,2021,0,M
+25847,1972,ACTOR,Peter Finch,Sunday Bloody Sunday,False,nm0002075,1916,1977,"actor,soundtrack",56,False,2021,0,M
+25854,1977,ACTOR IN A LEADING ROLE,Peter Finch,Network,True,nm0002075,1916,1977,"actor,soundtrack",61,False,2021,0,M
+25861,1972,ACTOR,Topol,Fiddler on the Roof,False,nm0867694,1935,0,"actor,soundtrack,producer",37,True,2021,86,M
+25863,1972,ACTOR IN A SUPPORTING ROLE,Jeff Bridges,The Last Picture Show,False,nm0000313,1949,0,"actor,soundtrack,producer",23,True,2021,72,M
+25870,1975,ACTOR IN A SUPPORTING ROLE,Jeff Bridges,Thunderbolt and Lightfoot,False,nm0000313,1949,0,"actor,soundtrack,producer",26,True,2021,72,M
+25877,1985,ACTOR IN A LEADING ROLE,Jeff Bridges,Starman,False,nm0000313,1949,0,"actor,soundtrack,producer",36,True,2021,72,M
+25884,2001,ACTOR IN A SUPPORTING ROLE,Jeff Bridges,The Contender,False,nm0000313,1949,0,"actor,soundtrack,producer",52,True,2021,72,M
+25891,2010,ACTOR IN A LEADING ROLE,Jeff Bridges,Crazy Heart,True,nm0000313,1949,0,"actor,soundtrack,producer",61,True,2021,72,M
+25898,2011,ACTOR IN A LEADING ROLE,Jeff Bridges,True Grit,False,nm0000313,1949,0,"actor,soundtrack,producer",62,True,2021,72,M
+25905,2017,ACTOR IN A SUPPORTING ROLE,Jeff Bridges,Hell or High Water,False,nm0000313,1949,0,"actor,soundtrack,producer",68,True,2021,72,M
+25912,1972,ACTOR IN A SUPPORTING ROLE,Leonard Frey,Fiddler on the Roof,False,nm0294600,1938,1988,"actor,soundtrack",34,False,2021,0,M
+25913,1972,ACTOR IN A SUPPORTING ROLE,Richard Jaeckel,Sometimes a Great Notion,False,nm0001395,1926,1997,actor,46,False,2021,0,M
+25914,1972,ACTOR IN A SUPPORTING ROLE,Ben Johnson,The Last Picture Show,True,nm0424565,1918,1996,"actor,stunts,miscellaneous",54,False,2021,0,M
+26059,1972,ACTOR IN A SUPPORTING ROLE,Roy Scheider,The French Connection,False,nm0001702,1932,2008,"actor,soundtrack,producer",40,False,2021,0,M
+26060,1980,ACTOR IN A LEADING ROLE,Roy Scheider,All That Jazz,False,nm0001702,1932,2008,"actor,soundtrack,producer",48,False,2021,0,M
+26148,1973,ACTOR,Paul Winfield,Sounder,False,nm0934902,1939,2004,"actor,miscellaneous,soundtrack",34,False,2021,0,M
+26153,1973,ACTOR IN A SUPPORTING ROLE,James Caan,The Godfather,False,nm0001001,1940,0,"actor,soundtrack,director",33,True,2021,81,M
+26156,1973,ACTOR IN A SUPPORTING ROLE,Robert Duvall,The Godfather,False,nm0000380,1931,0,"actor,producer,soundtrack",42,True,2021,90,M
+26159,1980,ACTOR IN A SUPPORTING ROLE,Robert Duvall,Apocalypse Now,False,nm0000380,1931,0,"actor,producer,soundtrack",49,True,2021,90,M
+26162,1981,ACTOR IN A LEADING ROLE,Robert Duvall,The Great Santini,False,nm0000380,1931,0,"actor,producer,soundtrack",50,True,2021,90,M
+26165,1984,ACTOR IN A LEADING ROLE,Robert Duvall,Tender Mercies,True,nm0000380,1931,0,"actor,producer,soundtrack",53,True,2021,90,M
+26168,1998,ACTOR IN A LEADING ROLE,Robert Duvall,The Apostle,False,nm0000380,1931,0,"actor,producer,soundtrack",67,True,2021,90,M
+26171,1999,ACTOR IN A SUPPORTING ROLE,Robert Duvall,A Civil Action,False,nm0000380,1931,0,"actor,producer,soundtrack",68,True,2021,90,M
+26174,2015,ACTOR IN A SUPPORTING ROLE,Robert Duvall,The Judge,False,nm0000380,1931,0,"actor,producer,soundtrack",84,True,2021,90,M
+26177,1973,ACTOR IN A SUPPORTING ROLE,Joel Grey,Cabaret,True,nm0001297,1932,0,"actor,soundtrack",41,True,2021,89,M
+26178,1973,ACTOR IN A SUPPORTING ROLE,Al Pacino,The Godfather,False,nm0000199,1940,0,"actor,producer,soundtrack",33,True,2021,81,M
+26180,1974,ACTOR,Al Pacino,Serpico,False,nm0000199,1940,0,"actor,producer,soundtrack",34,True,2021,81,M
+26182,1975,ACTOR,Al Pacino,The Godfather Part II,False,nm0000199,1940,0,"actor,producer,soundtrack",35,True,2021,81,M
+26184,1976,ACTOR,Al Pacino,Dog Day Afternoon,False,nm0000199,1940,0,"actor,producer,soundtrack",36,True,2021,81,M
+26186,1980,ACTOR IN A LEADING ROLE,Al Pacino,...And Justice for All,False,nm0000199,1940,0,"actor,producer,soundtrack",40,True,2021,81,M
+26188,1991,ACTOR IN A SUPPORTING ROLE,Al Pacino,Dick Tracy,False,nm0000199,1940,0,"actor,producer,soundtrack",51,True,2021,81,M
+26190,1993,ACTOR IN A LEADING ROLE,Al Pacino,Scent of a Woman,True,nm0000199,1940,0,"actor,producer,soundtrack",53,True,2021,81,M
+26192,1993,ACTOR IN A SUPPORTING ROLE,Al Pacino,Glengarry Glen Ross,False,nm0000199,1940,0,"actor,producer,soundtrack",53,True,2021,81,M
+26194,2020,ACTOR IN A SUPPORTING ROLE,Al Pacino,The Irishman,False,nm0000199,1940,0,"actor,producer,soundtrack",80,True,2021,81,M
+26408,1974,ACTOR,Robert Redford,The Sting,False,nm0000602,1936,0,"producer,actor,director",38,True,2021,85,M
+26432,1974,ACTOR IN A SUPPORTING ROLE,Vincent Gardenia,Bang the Drum Slowly,False,nm0306696,1920,1992,"actor,soundtrack",54,False,2021,0,M
+26433,1988,ACTOR IN A SUPPORTING ROLE,Vincent Gardenia,Moonstruck,False,nm0306696,1920,1992,"actor,soundtrack",68,False,2021,0,M
+26434,1974,ACTOR IN A SUPPORTING ROLE,Jack Gilford,Save the Tiger,False,nm0318527,1908,1990,"actor,soundtrack,writer",66,False,2021,0,M
+26435,1974,ACTOR IN A SUPPORTING ROLE,John Houseman,The Paper Chase,True,nm0002144,1902,1988,"actor,producer,miscellaneous",72,False,2021,0,M
+26440,1974,ACTOR IN A SUPPORTING ROLE,Jason Miller,The Exorcist,False,nm0588553,1939,2001,"actor,writer,director",35,False,2021,0,M
+26583,1974,ACTOR IN A SUPPORTING ROLE,Randy Quaid,The Last Detail,False,nm0001642,1950,0,"actor,soundtrack,producer",24,True,2021,71,M
+26702,1975,ACTOR,Art Carney,Harry and Tonto,True,nm0138770,1918,2003,"actor,soundtrack,producer",57,False,2021,0,M
+26703,1975,ACTOR IN A SUPPORTING ROLE,Fred Astaire,The Towering Inferno,False,nm0000001,1899,1987,"soundtrack,actor,miscellaneous",76,False,2021,0,M
+26705,1975,ACTOR IN A SUPPORTING ROLE,Robert De Niro,The Godfather Part II,True,nm0000134,1943,0,"actor,producer,soundtrack",32,True,2021,78,M
+26706,1977,ACTOR IN A LEADING ROLE,Robert De Niro,Taxi Driver,False,nm0000134,1943,0,"actor,producer,soundtrack",34,True,2021,78,M
+26707,1979,ACTOR IN A LEADING ROLE,Robert De Niro,The Deer Hunter,False,nm0000134,1943,0,"actor,producer,soundtrack",36,True,2021,78,M
+26708,1981,ACTOR IN A LEADING ROLE,Robert De Niro,Raging Bull,True,nm0000134,1943,0,"actor,producer,soundtrack",38,True,2021,78,M
+26709,1991,ACTOR IN A LEADING ROLE,Robert De Niro,Awakenings,False,nm0000134,1943,0,"actor,producer,soundtrack",48,True,2021,78,M
+26710,1992,ACTOR IN A LEADING ROLE,Robert De Niro,Cape Fear,False,nm0000134,1943,0,"actor,producer,soundtrack",49,True,2021,78,M
+26711,2013,ACTOR IN A SUPPORTING ROLE,Robert De Niro,Silver Linings Playbook,False,nm0000134,1943,0,"actor,producer,soundtrack",70,True,2021,78,M
+26712,1975,ACTOR IN A SUPPORTING ROLE,Michael V. Gazzo,The Godfather Part II,False,nm0311155,1923,1995,"actor,writer,soundtrack",52,False,2021,0,M
+26713,1975,ACTOR IN A SUPPORTING ROLE,Lee Strasberg,The Godfather Part II,False,nm0833448,1901,1982,"actor,miscellaneous,director",74,False,2021,0,M
+26759,1976,ACTOR IN A SUPPORTING ROLE,George Burns,The Sunshine Boys,True,nm0122675,1896,1996,"actor,producer,soundtrack",80,False,2021,0,M
+26765,1976,ACTOR IN A SUPPORTING ROLE,Brad Dourif,One Flew over the Cuckoo's Nest,False,nm0000374,1950,0,actor,26,True,2021,71,M
+26766,1976,ACTOR IN A SUPPORTING ROLE,Burgess Meredith,The Day of the Locust,False,nm0580565,1907,1997,"actor,soundtrack,writer",69,False,2021,0,M
+26768,1977,ACTOR IN A SUPPORTING ROLE,Burgess Meredith,Rocky,False,nm0580565,1907,1997,"actor,soundtrack,writer",70,False,2021,0,M
+26770,1976,ACTOR IN A SUPPORTING ROLE,Chris Sarandon,Dog Day Afternoon,False,nm0001697,1942,0,"actor,soundtrack,producer",34,True,2021,79,M
+26773,1976,ACTOR IN A SUPPORTING ROLE,Jack Warden,Shampoo,False,nm0912001,1920,2006,"actor,soundtrack",56,False,2021,0,M
+26774,1979,ACTOR IN A SUPPORTING ROLE,Jack Warden,Heaven Can Wait,False,nm0912001,1920,2006,"actor,soundtrack",59,False,2021,0,M
+26810,1977,ACTOR IN A LEADING ROLE,Giancarlo Giannini,Seven Beauties,False,nm0316284,1942,0,"actor,miscellaneous,director",35,True,2021,79,M
+26811,1977,ACTOR IN A LEADING ROLE,Sylvester Stallone,Rocky,False,nm0000230,1946,0,"actor,writer,producer",31,True,2021,75,M
+26813,2016,ACTOR IN A SUPPORTING ROLE,Sylvester Stallone,Creed,False,nm0000230,1946,0,"actor,writer,producer",70,True,2021,75,M
+26814,1977,ACTOR IN A SUPPORTING ROLE,Ned Beatty,Network,False,nm0000885,1937,0,"actor,soundtrack",40,True,2021,84,M
+26815,1977,ACTOR IN A SUPPORTING ROLE,Jason Robards,All the President's Men,True,nm0001673,1922,2000,"actor,soundtrack",55,False,2021,0,M
+26816,1978,ACTOR IN A SUPPORTING ROLE,Jason Robards,Julia,True,nm0001673,1922,2000,"actor,soundtrack",56,False,2021,0,M
+26817,1981,ACTOR IN A SUPPORTING ROLE,Jason Robards,Melvin and Howard,False,nm0001673,1922,2000,"actor,soundtrack",59,False,2021,0,M
+26818,1977,ACTOR IN A SUPPORTING ROLE,Burt Young,Rocky,False,nm0949350,1940,0,"actor,writer,soundtrack",37,True,2021,81,M
+26854,1978,ACTOR IN A LEADING ROLE,Woody Allen,Annie Hall,False,nm0000095,1935,0,"writer,director,actor",43,True,2021,86,M
+26872,1978,ACTOR IN A LEADING ROLE,Richard Dreyfuss,The Goodbye Girl,True,nm0000377,1947,0,"actor,producer,soundtrack",31,True,2021,74,M
+26873,1996,ACTOR IN A LEADING ROLE,Richard Dreyfuss,Mr. Holland's Opus,False,nm0000377,1947,0,"actor,producer,soundtrack",49,True,2021,74,M
+26874,1978,ACTOR IN A LEADING ROLE,John Travolta,Saturday Night Fever,False,nm0000237,1954,0,"actor,soundtrack,producer",24,True,2021,67,M
+26876,1995,ACTOR IN A LEADING ROLE,John Travolta,Pulp Fiction,False,nm0000237,1954,0,"actor,soundtrack,producer",41,True,2021,67,M
+26878,1978,ACTOR IN A SUPPORTING ROLE,Mikhail Baryshnikov,The Turning Point,False,nm0000864,1948,0,"actor,producer,miscellaneous",30,True,2021,73,M
+26879,1978,ACTOR IN A SUPPORTING ROLE,Peter Firth,Equus,False,nm0278752,1953,0,"actor,soundtrack",25,True,2021,68,M
+27138,1979,ACTOR IN A LEADING ROLE,Gary Busey,The Buddy Holly Story,False,nm0000997,1944,0,"actor,soundtrack,producer",35,True,2021,77,M
+27139,1979,ACTOR IN A SUPPORTING ROLE,Bruce Dern,Coming Home,False,nm0001136,1936,0,"actor,producer,soundtrack",43,True,2021,85,M
+27140,2014,ACTOR IN A LEADING ROLE,Bruce Dern,Nebraska,False,nm0001136,1936,0,"actor,producer,soundtrack",78,True,2021,85,M
+27141,1979,ACTOR IN A SUPPORTING ROLE,Richard Farnsworth,Comes a Horseman,False,nm0002070,1920,2000,"actor,stunts,soundtrack",59,False,2021,0,M
+27142,2000,ACTOR IN A LEADING ROLE,Richard Farnsworth,The Straight Story,False,nm0002070,1920,2000,"actor,stunts,soundtrack",80,False,2021,0,M
+27143,1979,ACTOR IN A SUPPORTING ROLE,John Hurt,Midnight Express,False,nm0000457,1940,2017,"actor,soundtrack",39,False,2021,0,M
+27144,1981,ACTOR IN A LEADING ROLE,John Hurt,The Elephant Man,False,nm0000457,1940,2017,"actor,soundtrack",41,False,2021,0,M
+27145,1979,ACTOR IN A SUPPORTING ROLE,Christopher Walken,The Deer Hunter,True,nm0000686,1943,0,"actor,soundtrack,miscellaneous",36,True,2021,78,M
+27146,2003,ACTOR IN A SUPPORTING ROLE,Christopher Walken,Catch Me If You Can,False,nm0000686,1943,0,"actor,soundtrack,miscellaneous",60,True,2021,78,M
+27316,1980,ACTOR IN A SUPPORTING ROLE,Frederic Forrest,The Rose,False,nm0002078,1936,0,actor,44,True,2021,85,M
+27317,1980,ACTOR IN A SUPPORTING ROLE,Justin Henry,Kramer vs. Kramer,False,nm0377888,1971,0,"actor,soundtrack",9,True,2021,50,M
+27424,1981,ACTOR IN A SUPPORTING ROLE,Judd Hirsch,Ordinary People,False,nm0002139,1935,0,"actor,miscellaneous,soundtrack",46,True,2021,86,M
+27425,1981,ACTOR IN A SUPPORTING ROLE,Timothy Hutton,Ordinary People,True,nm0000459,1960,0,"actor,producer,director",21,True,2021,61,M
+27427,1981,ACTOR IN A SUPPORTING ROLE,Michael O'Keefe,The Great Santini,False,nm0001574,1955,0,"actor,director,soundtrack",26,True,2021,66,M
+27439,1981,ACTOR IN A SUPPORTING ROLE,Joe Pesci,Raging Bull,False,nm0000582,1943,0,"actor,soundtrack",38,True,2021,78,M
+27440,1991,ACTOR IN A SUPPORTING ROLE,Joe Pesci,Good Fellas,True,nm0000582,1943,0,"actor,soundtrack",48,True,2021,78,M
+27441,2020,ACTOR IN A SUPPORTING ROLE,Joe Pesci,The Irishman,False,nm0000582,1943,0,"actor,soundtrack",77,True,2021,78,M
+27802,1982,ACTOR IN A LEADING ROLE,Dudley Moore,Arthur,False,nm0001545,1935,2002,"actor,writer,music_department",47,False,2021,0,M
+27803,1982,ACTOR IN A SUPPORTING ROLE,James Coco,Only When I Laugh,False,nm0168394,1930,1987,"actor,soundtrack",52,False,2021,0,M
+27804,1982,ACTOR IN A SUPPORTING ROLE,Ian Holm,Chariots of Fire,False,nm0000453,1931,2020,"actor,soundtrack,animation_department",51,False,2021,0,M
+28099,1983,ACTOR IN A LEADING ROLE,Ben Kingsley,Gandhi,True,nm0001426,1943,0,"actor,soundtrack,producer",40,True,2021,78,M
+28100,1992,ACTOR IN A SUPPORTING ROLE,Ben Kingsley,Bugsy,False,nm0001426,1943,0,"actor,soundtrack,producer",49,True,2021,78,M
+28101,2002,ACTOR IN A SUPPORTING ROLE,Ben Kingsley,Sexy Beast,False,nm0001426,1943,0,"actor,soundtrack,producer",59,True,2021,78,M
+28102,2004,ACTOR IN A LEADING ROLE,Ben Kingsley,House of Sand and Fog,False,nm0001426,1943,0,"actor,soundtrack,producer",61,True,2021,78,M
+28103,1983,ACTOR IN A SUPPORTING ROLE,Charles Durning,The Best Little Whorehouse in Texas,False,nm0001164,1923,2012,"actor,soundtrack,miscellaneous",60,False,2021,0,M
+28105,1984,ACTOR IN A SUPPORTING ROLE,Charles Durning,To Be or Not to Be,False,nm0001164,1923,2012,"actor,soundtrack,miscellaneous",61,False,2021,0,M
+28107,1983,ACTOR IN A SUPPORTING ROLE,John Lithgow,The World According to Garp,False,nm0001475,1945,0,"actor,soundtrack,producer",38,True,2021,76,M
+28109,1984,ACTOR IN A SUPPORTING ROLE,John Lithgow,Terms of Endearment,False,nm0001475,1945,0,"actor,soundtrack,producer",39,True,2021,76,M
+28111,1983,ACTOR IN A SUPPORTING ROLE,Robert Preston,Victor/Victoria,False,nm0696481,1918,1987,"actor,soundtrack",65,False,2021,0,M
+28325,1984,ACTOR IN A LEADING ROLE,Tom Conti,"Reuben, Reuben",False,nm0002018,1941,0,"actor,soundtrack,miscellaneous",43,True,2021,80,M
+28327,1984,ACTOR IN A SUPPORTING ROLE,Sam Shepard,The Right Stuff,False,nm0001731,1943,2017,"actor,writer,soundtrack",41,False,2021,0,M
+28328,1984,ACTOR IN A SUPPORTING ROLE,Rip Torn,Cross Creek,False,nm0001800,1931,2019,"actor,soundtrack,director",53,False,2021,0,M
+28448,1985,ACTOR IN A LEADING ROLE,F. Murray Abraham,Amadeus,True,nm0000719,1939,0,"actor,soundtrack",46,True,2021,82,M
+28449,1985,ACTOR IN A LEADING ROLE,Tom Hulce,Amadeus,False,nm0001371,1953,0,"actor,soundtrack,producer",32,True,2021,68,M
+28450,1985,ACTOR IN A LEADING ROLE,Sam Waterston,The Killing Fields,False,nm0001832,1940,0,"actor,producer,director",45,True,2021,81,M
+28451,1985,ACTOR IN A SUPPORTING ROLE,Adolph Caesar,A Soldier's Story,False,nm0128360,1933,1986,actor,52,False,2021,0,M
+28452,1985,ACTOR IN A SUPPORTING ROLE,John Malkovich,Places in the Heart,False,nm0000518,1953,0,"actor,producer,writer",32,True,2021,68,M
+28453,1994,ACTOR IN A SUPPORTING ROLE,John Malkovich,In the Line of Fire,False,nm0000518,1953,0,"actor,producer,writer",41,True,2021,68,M
+28454,1985,ACTOR IN A SUPPORTING ROLE,Haing S. Ngor,The Killing Fields,True,nm0628955,1940,1996,actor,45,False,2021,0,M
+28740,1986,ACTOR IN A LEADING ROLE,Harrison Ford,Witness,False,nm0000148,1942,0,"actor,writer,producer",44,True,2021,79,M
+28744,1986,ACTOR IN A LEADING ROLE,James Garner,Murphy's Romance,False,nm0001258,1928,2014,"actor,producer,soundtrack",58,False,2021,0,M
+28751,1986,ACTOR IN A LEADING ROLE,William Hurt,Kiss of the Spider Woman,True,nm0000458,1950,0,"actor,producer",36,True,2021,71,M
+28752,1987,ACTOR IN A LEADING ROLE,William Hurt,Children of a Lesser God,False,nm0000458,1950,0,"actor,producer",37,True,2021,71,M
+28753,1988,ACTOR IN A LEADING ROLE,William Hurt,Broadcast News,False,nm0000458,1950,0,"actor,producer",38,True,2021,71,M
+28754,2006,ACTOR IN A SUPPORTING ROLE,William Hurt,A History of Violence,False,nm0000458,1950,0,"actor,producer",56,True,2021,71,M
+28755,1986,ACTOR IN A SUPPORTING ROLE,Don Ameche,Cocoon,True,nm0000747,1908,1993,"actor,soundtrack,director",78,False,2021,0,M
+28756,1986,ACTOR IN A SUPPORTING ROLE,Klaus Maria Brandauer,Out of Africa,False,nm0001970,1943,0,"actor,director,writer",43,True,2021,78,M
+28757,1986,ACTOR IN A SUPPORTING ROLE,William Hickey,Prizzi's Honor,False,nm0382676,1927,1997,actor,59,False,2021,0,M
+28763,1986,ACTOR IN A SUPPORTING ROLE,Robert Loggia,Jagged Edge,False,nm0005162,1930,2015,"actor,director,soundtrack",56,False,2021,0,M
+28765,1986,ACTOR IN A SUPPORTING ROLE,Eric Roberts,Runaway Train,False,nm0000616,1956,0,"actor,producer,soundtrack",30,True,2021,65,M
+28909,1987,ACTOR IN A LEADING ROLE,Dexter Gordon,'Round Midnight,False,nm0330143,1923,1990,"soundtrack,actor,music_department",64,False,2021,0,M
+28912,1987,ACTOR IN A LEADING ROLE,Bob Hoskins,Mona Lisa,False,nm0001364,1942,2014,"actor,soundtrack,director",45,False,2021,0,M
+28916,1987,ACTOR IN A LEADING ROLE,James Woods,Salvador,False,nm0000249,1947,0,"actor,producer,soundtrack",40,True,2021,74,M
+28966,1997,ACTOR IN A SUPPORTING ROLE,James Woods,Ghosts of Mississippi,False,nm0000249,1947,0,"actor,producer,soundtrack",50,True,2021,74,M
+29016,1987,ACTOR IN A SUPPORTING ROLE,Tom Berenger,Platoon,False,nm0000297,1949,0,"actor,producer,writer",38,True,2021,72,M
+29017,1987,ACTOR IN A SUPPORTING ROLE,Willem Dafoe,Platoon,False,nm0000353,1955,0,"actor,soundtrack,producer",32,True,2021,66,M
+29018,2001,ACTOR IN A SUPPORTING ROLE,Willem Dafoe,Shadow of the Vampire,False,nm0000353,1955,0,"actor,soundtrack,producer",46,True,2021,66,M
+29019,2018,ACTOR IN A SUPPORTING ROLE,Willem Dafoe,The Florida Project,False,nm0000353,1955,0,"actor,soundtrack,producer",63,True,2021,66,M
+29020,2019,ACTOR IN A LEADING ROLE,Willem Dafoe,At Eternity's Gate,False,nm0000353,1955,0,"actor,soundtrack,producer",64,True,2021,66,M
+29021,1987,ACTOR IN A SUPPORTING ROLE,Denholm Elliott,A Room with a View,False,nm0001186,1922,1992,actor,65,False,2021,0,M
+29022,1987,ACTOR IN A SUPPORTING ROLE,Dennis Hopper,Hoosiers,False,nm0000454,1936,2010,"actor,director,writer",51,False,2021,0,M
+29468,1988,ACTOR IN A LEADING ROLE,Michael Douglas,Wall Street,True,nm0000140,1944,0,"actor,producer,soundtrack",44,True,2021,77,M
+29518,1988,ACTOR IN A LEADING ROLE,Robin Williams,"Good Morning, Vietnam",False,nm0000245,1951,2014,"actor,soundtrack,writer",37,False,2021,0,M
+29549,1990,ACTOR IN A LEADING ROLE,Robin Williams,Dead Poets Society,False,nm0000245,1951,2014,"actor,soundtrack,writer",39,False,2021,0,M
+29580,1992,ACTOR IN A LEADING ROLE,Robin Williams,The Fisher King,False,nm0000245,1951,2014,"actor,soundtrack,writer",41,False,2021,0,M
+29611,1998,ACTOR IN A SUPPORTING ROLE,Robin Williams,Good Will Hunting,True,nm0000245,1951,2014,"actor,soundtrack,writer",47,False,2021,0,M
+29642,1988,ACTOR IN A SUPPORTING ROLE,Albert Brooks,Broadcast News,False,nm0000983,1947,0,"actor,writer,director",41,True,2021,74,M
+29644,1988,ACTOR IN A SUPPORTING ROLE,Sean Connery,The Untouchables,True,nm0000125,1930,2020,"actor,producer,soundtrack",58,False,2021,0,M
+29645,1988,ACTOR IN A SUPPORTING ROLE,Morgan Freeman,Street Smart,False,nm0000151,1937,0,"actor,producer,soundtrack",51,True,2021,84,M
+29648,1990,ACTOR IN A LEADING ROLE,Morgan Freeman,Driving Miss Daisy,False,nm0000151,1937,0,"actor,producer,soundtrack",53,True,2021,84,M
+29651,1995,ACTOR IN A LEADING ROLE,Morgan Freeman,The Shawshank Redemption,False,nm0000151,1937,0,"actor,producer,soundtrack",58,True,2021,84,M
+29654,2005,ACTOR IN A SUPPORTING ROLE,Morgan Freeman,Million Dollar Baby,True,nm0000151,1937,0,"actor,producer,soundtrack",68,True,2021,84,M
+29657,2010,ACTOR IN A LEADING ROLE,Morgan Freeman,Invictus,False,nm0000151,1937,0,"actor,producer,soundtrack",73,True,2021,84,M
+29660,1988,ACTOR IN A SUPPORTING ROLE,Denzel Washington,Cry Freedom,False,nm0000243,1954,0,"actor,producer,soundtrack",34,True,2021,67,M
+29661,1990,ACTOR IN A SUPPORTING ROLE,Denzel Washington,Glory,True,nm0000243,1954,0,"actor,producer,soundtrack",36,True,2021,67,M
+29662,1993,ACTOR IN A LEADING ROLE,Denzel Washington,Malcolm X,False,nm0000243,1954,0,"actor,producer,soundtrack",39,True,2021,67,M
+29663,2000,ACTOR IN A LEADING ROLE,Denzel Washington,The Hurricane,False,nm0000243,1954,0,"actor,producer,soundtrack",46,True,2021,67,M
+29664,2002,ACTOR IN A LEADING ROLE,Denzel Washington,Training Day,True,nm0000243,1954,0,"actor,producer,soundtrack",48,True,2021,67,M
+29665,2013,ACTOR IN A LEADING ROLE,Denzel Washington,Flight,False,nm0000243,1954,0,"actor,producer,soundtrack",59,True,2021,67,M
+29666,2017,ACTOR IN A LEADING ROLE,Denzel Washington,Fences,False,nm0000243,1954,0,"actor,producer,soundtrack",63,True,2021,67,M
+29667,2018,ACTOR IN A LEADING ROLE,Denzel Washington,"Roman J. Israel, Esq.",False,nm0000243,1954,0,"actor,producer,soundtrack",64,True,2021,67,M
+29737,1989,ACTOR IN A LEADING ROLE,Tom Hanks,Big,False,nm0000158,1956,0,"producer,actor,soundtrack",33,True,2021,65,M
+29738,1994,ACTOR IN A LEADING ROLE,Tom Hanks,Philadelphia,True,nm0000158,1956,0,"producer,actor,soundtrack",38,True,2021,65,M
+29739,1995,ACTOR IN A LEADING ROLE,Tom Hanks,Forrest Gump,True,nm0000158,1956,0,"producer,actor,soundtrack",39,True,2021,65,M
+29740,1999,ACTOR IN A LEADING ROLE,Tom Hanks,Saving Private Ryan,False,nm0000158,1956,0,"producer,actor,soundtrack",43,True,2021,65,M
+29741,2001,ACTOR IN A LEADING ROLE,Tom Hanks,Cast Away,False,nm0000158,1956,0,"producer,actor,soundtrack",45,True,2021,65,M
+29742,2020,ACTOR IN A SUPPORTING ROLE,Tom Hanks,A Beautiful Day in the Neighborhood,False,nm0000158,1956,0,"producer,actor,soundtrack",64,True,2021,65,M
+29743,1989,ACTOR IN A LEADING ROLE,Edward James Olmos,Stand and Deliver,False,nm0001579,1947,0,"actor,producer,director",42,True,2021,74,M
+29744,1989,ACTOR IN A LEADING ROLE,Max von Sydow,Pelle the Conqueror,False,nm0001884,1929,2020,"actor,miscellaneous,soundtrack",60,False,2021,0,M
+29745,2012,ACTOR IN A SUPPORTING ROLE,Max von Sydow,Extremely Loud & Incredibly Close,False,nm0001884,1929,2020,"actor,miscellaneous,soundtrack",83,False,2021,0,M
+29746,1989,ACTOR IN A SUPPORTING ROLE,Kevin Kline,A Fish Called Wanda,True,nm0000177,1947,0,"actor,soundtrack,director",42,True,2021,74,M
+29748,1989,ACTOR IN A SUPPORTING ROLE,Martin Landau,Tucker The Man and His Dream,False,nm0001445,1928,2017,"actor,producer,miscellaneous",61,False,2021,0,M
+29749,1990,ACTOR IN A SUPPORTING ROLE,Martin Landau,Crimes and Misdemeanors,False,nm0001445,1928,2017,"actor,producer,miscellaneous",62,False,2021,0,M
+29750,1995,ACTOR IN A SUPPORTING ROLE,Martin Landau,Ed Wood,True,nm0001445,1928,2017,"actor,producer,miscellaneous",67,False,2021,0,M
+29751,1989,ACTOR IN A SUPPORTING ROLE,River Phoenix,Running on Empty,False,nm0000203,1970,1993,"actor,soundtrack",19,False,2021,0,M
+29752,1989,ACTOR IN A SUPPORTING ROLE,Dean Stockwell,Married to the Mob,False,nm0001777,1936,0,"actor,soundtrack,director",53,True,2021,85,M
+29876,1990,ACTOR IN A LEADING ROLE,Kenneth Branagh,Henry V,False,nm0000110,1960,0,"actor,producer,director",30,True,2021,61,M
+29879,2012,ACTOR IN A SUPPORTING ROLE,Kenneth Branagh,My Week with Marilyn,False,nm0000110,1960,0,"actor,producer,director",52,True,2021,61,M
+29880,1990,ACTOR IN A LEADING ROLE,Tom Cruise,Born on the Fourth of July,False,nm0000129,1962,0,"actor,producer,soundtrack",28,True,2021,59,M
+29881,1997,ACTOR IN A LEADING ROLE,Tom Cruise,Jerry Maguire,False,nm0000129,1962,0,"actor,producer,soundtrack",35,True,2021,59,M
+29882,2000,ACTOR IN A SUPPORTING ROLE,Tom Cruise,Magnolia,False,nm0000129,1962,0,"actor,producer,soundtrack",38,True,2021,59,M
+29883,1990,ACTOR IN A SUPPORTING ROLE,Danny Aiello,Do the Right Thing,False,nm0000732,1933,2019,"actor,producer,soundtrack",57,False,2021,0,M
+29885,1990,ACTOR IN A SUPPORTING ROLE,Dan Aykroyd,Driving Miss Daisy,False,nm0000101,1952,0,"writer,actor,producer",38,True,2021,69,M
+30331,1991,ACTOR IN A LEADING ROLE,Kevin Costner,Dances With Wolves,False,nm0000126,1955,0,"actor,producer,soundtrack",36,True,2021,66,M
+30333,1991,ACTOR IN A LEADING ROLE,Jeremy Irons,Reversal of Fortune,True,nm0000460,1948,0,"actor,soundtrack,producer",43,True,2021,73,M
+30334,1991,ACTOR IN A SUPPORTING ROLE,Bruce Davison,Longtime Companion,False,nm0001117,1946,0,"actor,director,producer",45,True,2021,75,M
+30335,1991,ACTOR IN A SUPPORTING ROLE,Andy Garcia,"The Godfather, Part III",False,nm0000412,1956,0,"actor,producer,soundtrack",35,True,2021,65,M
+30471,1992,ACTOR IN A LEADING ROLE,Anthony Hopkins,The Silence of the Lambs,True,nm0000164,1937,0,"actor,soundtrack,composer",55,True,2021,84,M
+30480,1994,ACTOR IN A LEADING ROLE,Anthony Hopkins,The Remains of the Day,False,nm0000164,1937,0,"actor,soundtrack,composer",57,True,2021,84,M
+30489,1996,ACTOR IN A LEADING ROLE,Anthony Hopkins,Nixon,False,nm0000164,1937,0,"actor,soundtrack,composer",59,True,2021,84,M
+30498,1998,ACTOR IN A SUPPORTING ROLE,Anthony Hopkins,Amistad,False,nm0000164,1937,0,"actor,soundtrack,composer",61,True,2021,84,M
+30507,2020,ACTOR IN A SUPPORTING ROLE,Anthony Hopkins,The Two Popes,False,nm0000164,1937,0,"actor,soundtrack,composer",83,True,2021,84,M
+30516,1992,ACTOR IN A LEADING ROLE,Nick Nolte,The Prince of Tides,False,nm0000560,1941,0,"actor,producer",51,True,2021,80,M
+30517,1999,ACTOR IN A LEADING ROLE,Nick Nolte,Affliction,False,nm0000560,1941,0,"actor,producer",58,True,2021,80,M
+30518,2012,ACTOR IN A SUPPORTING ROLE,Nick Nolte,Warrior,False,nm0000560,1941,0,"actor,producer",71,True,2021,80,M
+30519,1992,ACTOR IN A SUPPORTING ROLE,Tommy Lee Jones,JFK,False,nm0000169,1946,0,"actor,director,soundtrack",46,True,2021,75,M
+30521,1994,ACTOR IN A SUPPORTING ROLE,Tommy Lee Jones,The Fugitive,True,nm0000169,1946,0,"actor,director,soundtrack",48,True,2021,75,M
+30523,2008,ACTOR IN A LEADING ROLE,Tommy Lee Jones,In the Valley of Elah,False,nm0000169,1946,0,"actor,director,soundtrack",62,True,2021,75,M
+30525,2013,ACTOR IN A SUPPORTING ROLE,Tommy Lee Jones,Lincoln,False,nm0000169,1946,0,"actor,director,soundtrack",67,True,2021,75,M
+30527,1992,ACTOR IN A SUPPORTING ROLE,Harvey Keitel,Bugsy,False,nm0000172,1939,0,"actor,producer,soundtrack",53,True,2021,82,M
+30528,1992,ACTOR IN A SUPPORTING ROLE,Michael Lerner,Barton Fink,False,nm0503627,1941,0,actor,51,True,2021,80,M
+30664,1993,ACTOR IN A LEADING ROLE,Robert Downey Jr.,Chaplin,False,nm0000375,1965,0,"actor,producer,soundtrack",28,True,2021,56,M
+30665,2009,ACTOR IN A SUPPORTING ROLE,Robert Downey Jr.,Tropic Thunder,False,nm0000375,1965,0,"actor,producer,soundtrack",44,True,2021,56,M
+30666,1993,ACTOR IN A LEADING ROLE,Clint Eastwood,Unforgiven,False,nm0000142,1930,0,"actor,producer,director",63,True,2021,91,M
+30670,2005,ACTOR IN A LEADING ROLE,Clint Eastwood,Million Dollar Baby,False,nm0000142,1930,0,"actor,producer,director",75,True,2021,91,M
+30673,1993,ACTOR IN A LEADING ROLE,Stephen Rea,The Crying Game,False,nm0001653,1946,0,"actor,writer,soundtrack",47,True,2021,75,M
+30679,1993,ACTOR IN A SUPPORTING ROLE,Jaye Davidson,The Crying Game,False,nm0001109,1968,0,actor,25,True,2021,53,M
+30682,1993,ACTOR IN A SUPPORTING ROLE,David Paymer,Mr. Saturday Night,False,nm0001601,1954,0,"actor,director,producer",39,True,2021,67,M
+31047,1994,ACTOR IN A LEADING ROLE,Daniel Day-Lewis,In the Name of the Father,False,nm0000358,1957,0,"actor,music_department,soundtrack",37,True,2021,64,M
+31048,2003,ACTOR IN A LEADING ROLE,Daniel Day-Lewis,Gangs of New York,False,nm0000358,1957,0,"actor,music_department,soundtrack",46,True,2021,64,M
+31049,2008,ACTOR IN A LEADING ROLE,Daniel Day-Lewis,There Will Be Blood,True,nm0000358,1957,0,"actor,music_department,soundtrack",51,True,2021,64,M
+31050,2013,ACTOR IN A LEADING ROLE,Daniel Day-Lewis,Lincoln,True,nm0000358,1957,0,"actor,music_department,soundtrack",56,True,2021,64,M
+31051,2018,ACTOR IN A LEADING ROLE,Daniel Day-Lewis,Phantom Thread,False,nm0000358,1957,0,"actor,music_department,soundtrack",61,True,2021,64,M
+31052,1994,ACTOR IN A LEADING ROLE,Laurence Fishburne,What's Love Got to Do with It,False,nm0000401,1961,0,"actor,producer,writer",33,True,2021,60,M
+31053,1994,ACTOR IN A LEADING ROLE,Liam Neeson,Schindler's List,False,nm0000553,1952,0,"actor,soundtrack,producer",42,True,2021,69,M
+31054,1994,ACTOR IN A SUPPORTING ROLE,Leonardo DiCaprio,What's Eating Gilbert Grape,False,nm0000138,1974,0,"actor,producer,writer",20,True,2021,47,M
+31055,2005,ACTOR IN A LEADING ROLE,Leonardo DiCaprio,The Aviator,False,nm0000138,1974,0,"actor,producer,writer",31,True,2021,47,M
+31056,2007,ACTOR IN A LEADING ROLE,Leonardo DiCaprio,Blood Diamond,False,nm0000138,1974,0,"actor,producer,writer",33,True,2021,47,M
+31057,2014,ACTOR IN A LEADING ROLE,Leonardo DiCaprio,The Wolf of Wall Street,False,nm0000138,1974,0,"actor,producer,writer",40,True,2021,47,M
+31058,2016,ACTOR IN A LEADING ROLE,Leonardo DiCaprio,The Revenant,True,nm0000138,1974,0,"actor,producer,writer",42,True,2021,47,M
+31059,2020,ACTOR IN A LEADING ROLE,Leonardo DiCaprio,Once upon a Time...in Hollywood,False,nm0000138,1974,0,"actor,producer,writer",46,True,2021,47,M
+31060,1994,ACTOR IN A SUPPORTING ROLE,Ralph Fiennes,Schindler's List,False,nm0000146,1962,0,"actor,director,producer",32,True,2021,59,M
+31061,1997,ACTOR IN A LEADING ROLE,Ralph Fiennes,The English Patient,False,nm0000146,1962,0,"actor,director,producer",35,True,2021,59,M
+31062,1994,ACTOR IN A SUPPORTING ROLE,Pete Postlethwaite,In the Name of the Father,False,nm0000592,1946,2011,"actor,producer",48,False,2021,0,M
+31193,1995,ACTOR IN A LEADING ROLE,Nigel Hawthorne,The Madness of King George,False,nm0001329,1929,2001,"actor,producer",66,False,2021,0,M
+31194,1995,ACTOR IN A SUPPORTING ROLE,Samuel L. Jackson,Pulp Fiction,False,nm0000168,1948,0,"actor,producer,soundtrack",47,True,2021,73,M
+31195,1995,ACTOR IN A SUPPORTING ROLE,Chazz Palminteri,Bullets over Broadway,False,nm0001590,1952,0,"actor,writer,producer",43,True,2021,69,M
+31196,1995,ACTOR IN A SUPPORTING ROLE,Gary Sinise,Forrest Gump,False,nm0000641,1955,0,"actor,producer,director",40,True,2021,66,M
+31754,1996,ACTOR IN A LEADING ROLE,Nicolas Cage,Leaving Las Vegas,True,nm0000115,1964,0,"actor,producer,soundtrack",32,True,2021,57,M
+31755,2003,ACTOR IN A LEADING ROLE,Nicolas Cage,Adaptation,False,nm0000115,1964,0,"actor,producer,soundtrack",39,True,2021,57,M
+31756,1996,ACTOR IN A LEADING ROLE,Sean Penn,Dead Man Walking,False,nm0000576,1960,0,"actor,director,producer",36,True,2021,61,M
+31760,2000,ACTOR IN A LEADING ROLE,Sean Penn,Sweet and Lowdown,False,nm0000576,1960,0,"actor,director,producer",40,True,2021,61,M
+31764,2002,ACTOR IN A LEADING ROLE,Sean Penn,I Am Sam,False,nm0000576,1960,0,"actor,director,producer",42,True,2021,61,M
+31768,2004,ACTOR IN A LEADING ROLE,Sean Penn,Mystic River,True,nm0000576,1960,0,"actor,director,producer",44,True,2021,61,M
+31772,2009,ACTOR IN A LEADING ROLE,Sean Penn,Milk,True,nm0000576,1960,0,"actor,director,producer",49,True,2021,61,M
+31776,1996,ACTOR IN A LEADING ROLE,Massimo Troisi,The Postman (Il Postino),False,nm0873385,1953,1994,"actor,writer,director",43,False,2021,0,M
+31777,1996,ACTOR IN A SUPPORTING ROLE,James Cromwell,Babe,False,nm0000342,1940,0,"actor,producer,soundtrack",56,True,2021,81,M
+31781,1996,ACTOR IN A SUPPORTING ROLE,Ed Harris,Apollo 13,False,nm0000438,1950,0,"actor,producer,director",46,True,2021,71,M
+31810,1999,ACTOR IN A SUPPORTING ROLE,Ed Harris,The Truman Show,False,nm0000438,1950,0,"actor,producer,director",49,True,2021,71,M
+31839,2001,ACTOR IN A LEADING ROLE,Ed Harris,Pollock,False,nm0000438,1950,0,"actor,producer,director",51,True,2021,71,M
+31868,2003,ACTOR IN A SUPPORTING ROLE,Ed Harris,The Hours,False,nm0000438,1950,0,"actor,producer,director",53,True,2021,71,M
+31897,1996,ACTOR IN A SUPPORTING ROLE,Brad Pitt,12 Monkeys,False,nm0000093,1963,0,"actor,producer,soundtrack",33,True,2021,58,M
+31898,2009,ACTOR IN A LEADING ROLE,Brad Pitt,The Curious Case of Benjamin Button,False,nm0000093,1963,0,"actor,producer,soundtrack",46,True,2021,58,M
+31899,2012,ACTOR IN A LEADING ROLE,Brad Pitt,Moneyball,False,nm0000093,1963,0,"actor,producer,soundtrack",49,True,2021,58,M
+31900,2020,ACTOR IN A SUPPORTING ROLE,Brad Pitt,Once upon a Time...in Hollywood,True,nm0000093,1963,0,"actor,producer,soundtrack",57,True,2021,58,M
+31901,1996,ACTOR IN A SUPPORTING ROLE,Tim Roth,Rob Roy,False,nm0000619,1961,0,"actor,producer,soundtrack",35,True,2021,60,M
+31907,1996,ACTOR IN A SUPPORTING ROLE,Kevin Spacey,The Usual Suspects,True,nm0000228,1959,0,"actor,producer,soundtrack",37,True,2021,62,M
+31908,2000,ACTOR IN A LEADING ROLE,Kevin Spacey,American Beauty,True,nm0000228,1959,0,"actor,producer,soundtrack",41,True,2021,62,M
+31993,2004,ACTOR IN A SUPPORTING ROLE,Tim Robbins,Mystic River,True,nm0000209,1958,0,"actor,producer,director",46,True,2021,63,M
+32193,1997,ACTOR IN A LEADING ROLE,Woody Harrelson,The People vs. Larry Flynt,False,nm0000437,1961,0,"actor,producer,soundtrack",36,True,2021,60,M
+32194,2010,ACTOR IN A SUPPORTING ROLE,Woody Harrelson,The Messenger,False,nm0000437,1961,0,"actor,producer,soundtrack",49,True,2021,60,M
+32195,2018,ACTOR IN A SUPPORTING ROLE,Woody Harrelson,"Three Billboards outside Ebbing, Missouri",False,nm0000437,1961,0,"actor,producer,soundtrack",57,True,2021,60,M
+32196,1997,ACTOR IN A LEADING ROLE,Geoffrey Rush,Shine,True,nm0001691,1951,0,"actor,soundtrack,producer",46,True,2021,70,M
+32198,1999,ACTOR IN A SUPPORTING ROLE,Geoffrey Rush,Shakespeare in Love,False,nm0001691,1951,0,"actor,soundtrack,producer",48,True,2021,70,M
+32200,2001,ACTOR IN A LEADING ROLE,Geoffrey Rush,Quills,False,nm0001691,1951,0,"actor,soundtrack,producer",50,True,2021,70,M
+32202,2011,ACTOR IN A SUPPORTING ROLE,Geoffrey Rush,The King's Speech,False,nm0001691,1951,0,"actor,soundtrack,producer",60,True,2021,70,M
+32204,1997,ACTOR IN A LEADING ROLE,Billy Bob Thornton,Sling Blade,False,nm0000671,1955,0,"actor,writer,director",42,True,2021,66,M
+32206,1999,ACTOR IN A SUPPORTING ROLE,Billy Bob Thornton,A Simple Plan,False,nm0000671,1955,0,"actor,writer,director",44,True,2021,66,M
+32207,1997,ACTOR IN A SUPPORTING ROLE,William H. Macy,Fargo,False,nm0000513,1950,0,"actor,writer,soundtrack",47,True,2021,71,M
+32208,1997,ACTOR IN A SUPPORTING ROLE,Armin Mueller-Stahl,Shine,False,nm0000090,1930,0,"actor,director,writer",67,True,2021,91,M
+32209,1997,ACTOR IN A SUPPORTING ROLE,Edward Norton,Primal Fear,False,nm0001570,1969,0,"actor,producer,writer",28,True,2021,52,M
+32212,1999,ACTOR IN A LEADING ROLE,Edward Norton,American History X,False,nm0001570,1969,0,"actor,producer,writer",30,True,2021,52,M
+32215,2015,ACTOR IN A SUPPORTING ROLE,Edward Norton,Birdman or (The Unexpected Virtue of Ignorance),False,nm0001570,1969,0,"actor,producer,writer",46,True,2021,52,M
+32525,1998,ACTOR IN A LEADING ROLE,Matt Damon,Good Will Hunting,False,nm0000354,1970,0,"producer,actor,soundtrack",28,True,2021,51,M
+32526,2010,ACTOR IN A SUPPORTING ROLE,Matt Damon,Invictus,False,nm0000354,1970,0,"producer,actor,soundtrack",40,True,2021,51,M
+32527,2016,ACTOR IN A LEADING ROLE,Matt Damon,The Martian,False,nm0000354,1970,0,"producer,actor,soundtrack",46,True,2021,51,M
+32528,1998,ACTOR IN A LEADING ROLE,Peter Fonda,Ulee's Gold,False,nm0001228,1940,2019,"actor,director,writer",58,False,2021,0,M
+32530,1998,ACTOR IN A SUPPORTING ROLE,Robert Forster,Jackie Brown,False,nm0001233,1941,2019,"actor,producer,director",57,False,2021,0,M
+32535,1998,ACTOR IN A SUPPORTING ROLE,Greg Kinnear,As Good as It Gets,False,nm0001427,1963,0,"actor,producer,writer",35,True,2021,58,M
+32537,1998,ACTOR IN A SUPPORTING ROLE,Burt Reynolds,Boogie Nights,False,nm0000608,1936,2018,"actor,director,producer",62,False,2021,0,M
+32682,1999,ACTOR IN A LEADING ROLE,Roberto Benigni,Life Is Beautiful,True,nm0000905,1952,0,"actor,writer,director",47,True,2021,69,M
+32684,1999,ACTOR IN A LEADING ROLE,Ian McKellen,Gods and Monsters,False,nm0005212,1939,0,"actor,soundtrack,writer",60,True,2021,82,M
+32685,2002,ACTOR IN A SUPPORTING ROLE,Ian McKellen,The Lord of the Rings: The Fellowship of the Ring,False,nm0005212,1939,0,"actor,soundtrack,writer",63,True,2021,82,M
+32686,1999,ACTOR IN A SUPPORTING ROLE,James Coburn,Affliction,True,nm0000336,1928,2002,"actor,producer,director",71,False,2021,0,M
+32807,2000,ACTOR IN A LEADING ROLE,Russell Crowe,The Insider,False,nm0000128,1964,0,"actor,soundtrack,producer",36,True,2021,57,M
+32808,2001,ACTOR IN A LEADING ROLE,Russell Crowe,Gladiator,True,nm0000128,1964,0,"actor,soundtrack,producer",37,True,2021,57,M
+32809,2002,ACTOR IN A LEADING ROLE,Russell Crowe,A Beautiful Mind,False,nm0000128,1964,0,"actor,soundtrack,producer",38,True,2021,57,M
+32810,2000,ACTOR IN A SUPPORTING ROLE,Michael Clarke Duncan,The Green Mile,False,nm0003817,1957,2012,"actor,soundtrack,producer",43,False,2021,0,M
+32811,2000,ACTOR IN A SUPPORTING ROLE,Jude Law,The Talented Mr. Ripley,False,nm0000179,1972,0,"actor,producer,soundtrack",28,True,2021,49,M
+32813,2004,ACTOR IN A LEADING ROLE,Jude Law,Cold Mountain,False,nm0000179,1972,0,"actor,producer,soundtrack",32,True,2021,49,M
+32815,2000,ACTOR IN A SUPPORTING ROLE,Haley Joel Osment,The Sixth Sense,False,nm0005286,1988,0,"actor,soundtrack,producer",12,True,2021,33,M
+32974,2001,ACTOR IN A LEADING ROLE,Javier Bardem,Before Night Falls,False,nm0000849,1969,0,"actor,producer,soundtrack",32,True,2021,52,M
+32975,2008,ACTOR IN A SUPPORTING ROLE,Javier Bardem,No Country for Old Men,True,nm0000849,1969,0,"actor,producer,soundtrack",39,True,2021,52,M
+32976,2011,ACTOR IN A LEADING ROLE,Javier Bardem,Biutiful,False,nm0000849,1969,0,"actor,producer,soundtrack",42,True,2021,52,M
+32977,2001,ACTOR IN A SUPPORTING ROLE,Benicio Del Toro,Traffic,True,nm0001125,1967,0,"actor,producer,director",34,True,2021,54,M
+32978,2004,ACTOR IN A SUPPORTING ROLE,Benicio Del Toro,21 Grams,False,nm0001125,1967,0,"actor,producer,director",37,True,2021,54,M
+32979,2001,ACTOR IN A SUPPORTING ROLE,Joaquin Phoenix,Gladiator,False,nm0001618,1974,0,"actor,producer,soundtrack",27,True,2021,47,M
+32980,2006,ACTOR IN A LEADING ROLE,Joaquin Phoenix,Walk the Line,False,nm0001618,1974,0,"actor,producer,soundtrack",32,True,2021,47,M
+32981,2013,ACTOR IN A LEADING ROLE,Joaquin Phoenix,The Master,False,nm0001618,1974,0,"actor,producer,soundtrack",39,True,2021,47,M
+32982,2020,ACTOR IN A LEADING ROLE,Joaquin Phoenix,Joker,True,nm0001618,1974,0,"actor,producer,soundtrack",46,True,2021,47,M
+33061,2002,ACTOR IN A LEADING ROLE,Will Smith,Ali,False,nm0000226,1968,0,"music_department,actor,producer",34,True,2021,53,M
+33140,2007,ACTOR IN A LEADING ROLE,Will Smith,The Pursuit of Happyness,False,nm0000226,1968,0,"music_department,actor,producer",39,True,2021,53,M
+33219,2002,ACTOR IN A LEADING ROLE,Tom Wilkinson,In the Bedroom,False,nm0929489,1948,0,"actor,soundtrack",54,True,2021,73,M
+33241,2008,ACTOR IN A SUPPORTING ROLE,Tom Wilkinson,Michael Clayton,False,nm0929489,1948,0,"actor,soundtrack",60,True,2021,73,M
+33263,2002,ACTOR IN A SUPPORTING ROLE,Jim Broadbent,Iris,True,nm0000980,1949,0,"actor,writer,soundtrack",53,True,2021,72,M
+33264,2002,ACTOR IN A SUPPORTING ROLE,Ethan Hawke,Training Day,False,nm0000160,1970,0,"actor,writer,soundtrack",32,True,2021,51,M
+33265,2015,ACTOR IN A SUPPORTING ROLE,Ethan Hawke,Boyhood,False,nm0000160,1970,0,"actor,writer,soundtrack",45,True,2021,51,M
+33558,2003,ACTOR IN A LEADING ROLE,Adrien Brody,The Pianist,True,nm0004778,1973,0,"actor,producer,composer",30,True,2021,48,M
+33559,2003,ACTOR IN A SUPPORTING ROLE,Chris Cooper,Adaptation,True,nm0177933,1951,0,"actor,producer,soundtrack",52,True,2021,70,M
+33616,2003,ACTOR IN A SUPPORTING ROLE,John C. Reilly,Chicago,False,nm0000604,1965,0,"actor,writer,producer",38,True,2021,56,M
+33735,2004,ACTOR IN A LEADING ROLE,Johnny Depp,Pirates of the Caribbean: The Curse of the Black Pearl,False,nm0000136,1963,0,"actor,producer,soundtrack",41,True,2021,58,M
+33736,2005,ACTOR IN A LEADING ROLE,Johnny Depp,Finding Neverland,False,nm0000136,1963,0,"actor,producer,soundtrack",42,True,2021,58,M
+33737,2008,ACTOR IN A LEADING ROLE,Johnny Depp,Sweeney Todd The Demon Barber of Fleet Street,False,nm0000136,1963,0,"actor,producer,soundtrack",45,True,2021,58,M
+33738,2004,ACTOR IN A LEADING ROLE,Bill Murray,Lost in Translation,False,nm0000195,1950,0,"actor,soundtrack,writer",54,True,2021,71,M
+33772,2004,ACTOR IN A SUPPORTING ROLE,Alec Baldwin,The Cooler,False,nm0000285,1958,0,"actor,producer,soundtrack",46,True,2021,63,M
+33774,2004,ACTOR IN A SUPPORTING ROLE,Djimon Hounsou,In America,False,nm0005023,1964,0,"actor,producer,director",40,True,2021,57,M
+33775,2007,ACTOR IN A SUPPORTING ROLE,Djimon Hounsou,Blood Diamond,False,nm0005023,1964,0,"actor,producer,director",43,True,2021,57,M
+33776,2004,ACTOR IN A SUPPORTING ROLE,Ken Watanabe,The Last Samurai,False,nm0913822,1959,0,"actor,producer,director",45,True,2021,62,M
+34461,2005,ACTOR IN A LEADING ROLE,Don Cheadle,Hotel Rwanda,False,nm0000332,1964,0,"actor,producer,soundtrack",41,True,2021,57,M
+34462,2005,ACTOR IN A LEADING ROLE,Jamie Foxx,Ray,True,nm0004937,1967,0,"actor,producer,writer",38,True,2021,54,M
+34463,2005,ACTOR IN A SUPPORTING ROLE,Jamie Foxx,Collateral,False,nm0004937,1967,0,"actor,producer,writer",38,True,2021,54,M
+34464,2005,ACTOR IN A SUPPORTING ROLE,Alan Alda,The Aviator,False,nm0000257,1936,0,"actor,miscellaneous,soundtrack",69,True,2021,85,M
+34465,2005,ACTOR IN A SUPPORTING ROLE,Thomas Haden Church,Sideways,False,nm0002006,1960,0,"actor,miscellaneous,producer",45,True,2021,61,M
+34466,2005,ACTOR IN A SUPPORTING ROLE,Clive Owen,Closer,False,nm0654110,1964,0,"actor,producer,soundtrack",41,True,2021,57,M
+34553,2006,ACTOR IN A LEADING ROLE,Philip Seymour Hoffman,Capote,True,nm0000450,1967,2014,"actor,producer,soundtrack",39,False,2021,0,M
+34554,2008,ACTOR IN A SUPPORTING ROLE,Philip Seymour Hoffman,Charlie Wilson's War,False,nm0000450,1967,2014,"actor,producer,soundtrack",41,False,2021,0,M
+34555,2009,ACTOR IN A SUPPORTING ROLE,Philip Seymour Hoffman,Doubt,False,nm0000450,1967,2014,"actor,producer,soundtrack",42,False,2021,0,M
+34556,2013,ACTOR IN A SUPPORTING ROLE,Philip Seymour Hoffman,The Master,False,nm0000450,1967,2014,"actor,producer,soundtrack",46,False,2021,0,M
+34557,2006,ACTOR IN A LEADING ROLE,Terrence Howard,Hustle & Flow,False,nm0005024,1969,0,"actor,soundtrack,producer",37,True,2021,52,M
+34559,2006,ACTOR IN A LEADING ROLE,Heath Ledger,Brokeback Mountain,False,nm0005132,1979,2008,"actor,director,soundtrack",27,False,2021,0,M
+34560,2009,ACTOR IN A SUPPORTING ROLE,Heath Ledger,The Dark Knight,True,nm0005132,1979,2008,"actor,director,soundtrack",30,False,2021,0,M
+34561,2006,ACTOR IN A LEADING ROLE,David Strathairn,"Good Night, and Good Luck.",False,nm0000657,1949,0,"actor,producer,soundtrack",57,True,2021,72,M
+34562,2006,ACTOR IN A SUPPORTING ROLE,George Clooney,Syriana,True,nm0000123,1961,0,"actor,producer,director",45,True,2021,60,M
+34564,2008,ACTOR IN A LEADING ROLE,George Clooney,Michael Clayton,False,nm0000123,1961,0,"actor,producer,director",47,True,2021,60,M
+34565,2010,ACTOR IN A LEADING ROLE,George Clooney,Up in the Air,False,nm0000123,1961,0,"actor,producer,director",49,True,2021,60,M
+34566,2012,ACTOR IN A LEADING ROLE,George Clooney,The Descendants,False,nm0000123,1961,0,"actor,producer,director",51,True,2021,60,M
+34567,2006,ACTOR IN A SUPPORTING ROLE,Matt Dillon,Crash,False,nm0000369,1964,0,"actor,art_department,director",42,True,2021,57,M
+34577,2006,ACTOR IN A SUPPORTING ROLE,Paul Giamatti,Cinderella Man,False,nm0316079,1967,0,"actor,producer,soundtrack",39,True,2021,54,M
+34578,2006,ACTOR IN A SUPPORTING ROLE,Jake Gyllenhaal,Brokeback Mountain,False,nm0350453,1980,0,"actor,producer,camera_department",26,True,2021,41,M
+34988,2007,ACTOR IN A LEADING ROLE,Ryan Gosling,Half Nelson,False,nm0331516,1980,0,"actor,soundtrack,producer",27,True,2021,41,M
+34989,2017,ACTOR IN A LEADING ROLE,Ryan Gosling,La La Land,False,nm0331516,1980,0,"actor,soundtrack,producer",37,True,2021,41,M
+34990,2007,ACTOR IN A LEADING ROLE,Forest Whitaker,The Last King of Scotland,True,nm0001845,1961,0,"actor,producer,director",46,True,2021,60,M
+34991,2007,ACTOR IN A SUPPORTING ROLE,Jackie Earle Haley,Little Children,False,nm0355097,1961,0,"actor,director,writer",46,True,2021,60,M
+34992,2007,ACTOR IN A SUPPORTING ROLE,Eddie Murphy,Dreamgirls,False,nm0000552,1961,0,"actor,writer,producer",46,True,2021,60,M
+34996,2007,ACTOR IN A SUPPORTING ROLE,Mark Wahlberg,The Departed,False,nm0000242,1971,0,"producer,actor,soundtrack",36,True,2021,50,M
+35153,2008,ACTOR IN A LEADING ROLE,Viggo Mortensen,Eastern Promises,False,nm0001557,1958,0,"actor,soundtrack,producer",50,True,2021,63,M
+35154,2017,ACTOR IN A LEADING ROLE,Viggo Mortensen,Captain Fantastic,False,nm0001557,1958,0,"actor,soundtrack,producer",59,True,2021,63,M
+35155,2019,ACTOR IN A LEADING ROLE,Viggo Mortensen,Green Book,False,nm0001557,1958,0,"actor,soundtrack,producer",61,True,2021,63,M
+35156,2008,ACTOR IN A SUPPORTING ROLE,Casey Affleck,The Assassination of Jesse James by the Coward Robert Ford,False,nm0000729,1975,0,"actor,producer,writer",33,True,2021,46,M
+35157,2017,ACTOR IN A LEADING ROLE,Casey Affleck,Manchester by the Sea,True,nm0000729,1975,0,"actor,producer,writer",42,True,2021,46,M
+35158,2008,ACTOR IN A SUPPORTING ROLE,Hal Holbrook,Into the Wild,False,nm0001358,1925,2021,"actor,director,writer",83,False,2021,0,M
+35221,2009,ACTOR IN A LEADING ROLE,Richard Jenkins,The Visitor,False,nm0003496,1947,0,"assistant_director,miscellaneous,location_management",0,False,2021,0,M
+35255,2018,ACTOR IN A SUPPORTING ROLE,Richard Jenkins,The Shape of Water,False,nm0003496,1947,0,"assistant_director,miscellaneous,location_management",0,False,2021,0,M
+35289,2009,ACTOR IN A LEADING ROLE,Frank Langella,Frost/Nixon,False,nm0001449,1938,0,"actor,soundtrack",71,True,2021,83,M
+35290,2009,ACTOR IN A LEADING ROLE,Mickey Rourke,The Wrestler,False,nm0000620,1952,0,"actor,writer,producer",57,True,2021,69,M
+35291,2009,ACTOR IN A SUPPORTING ROLE,Josh Brolin,Milk,False,nm0000982,1968,0,"actor,producer,writer",41,True,2021,53,M
+35292,2009,ACTOR IN A SUPPORTING ROLE,Michael Shannon,Revolutionary Road,False,nm0788332,1943,0,actor,66,True,2021,78,M
+35316,2017,ACTOR IN A SUPPORTING ROLE,Michael Shannon,Nocturnal Animals,False,nm0788332,1943,0,actor,74,True,2021,78,M
+35735,2010,ACTOR IN A LEADING ROLE,Colin Firth,A Single Man,False,nm0000147,1960,0,"actor,producer,soundtrack",50,True,2021,61,M
+35736,2011,ACTOR IN A LEADING ROLE,Colin Firth,The King's Speech,True,nm0000147,1960,0,"actor,producer,soundtrack",51,True,2021,61,M
+35737,2010,ACTOR IN A LEADING ROLE,Jeremy Renner,The Hurt Locker,False,nm0719637,1971,0,"actor,producer,soundtrack",39,True,2021,50,M
+35738,2011,ACTOR IN A SUPPORTING ROLE,Jeremy Renner,The Town,False,nm0719637,1971,0,"actor,producer,soundtrack",40,True,2021,50,M
+35739,2010,ACTOR IN A SUPPORTING ROLE,Christopher Plummer,The Last Station,False,nm0001626,1929,2021,"actor,soundtrack,producer",81,False,2021,0,M
+35747,2012,ACTOR IN A SUPPORTING ROLE,Christopher Plummer,Beginners,True,nm0001626,1929,2021,"actor,soundtrack,producer",83,False,2021,0,M
+35755,2018,ACTOR IN A SUPPORTING ROLE,Christopher Plummer,All the Money in the World,False,nm0001626,1929,2021,"actor,soundtrack,producer",89,False,2021,0,M
+35763,2010,ACTOR IN A SUPPORTING ROLE,Stanley Tucci,The Lovely Bones,False,nm0001804,1960,0,"actor,producer,director",50,True,2021,61,M
+35766,2010,ACTOR IN A SUPPORTING ROLE,Christoph Waltz,Inglourious Basterds,True,nm0910607,1956,0,"actor,director,soundtrack",54,True,2021,65,M
+35767,2013,ACTOR IN A SUPPORTING ROLE,Christoph Waltz,Django Unchained,True,nm0910607,1956,0,"actor,director,soundtrack",57,True,2021,65,M
+35842,2011,ACTOR IN A LEADING ROLE,Jesse Eisenberg,The Social Network,False,nm0251986,1983,0,"actor,producer,writer",28,True,2021,38,M
+35843,2011,ACTOR IN A LEADING ROLE,James Franco,127 Hours,False,nm0290556,1978,0,"actor,producer,director",33,True,2021,43,M
+35844,2011,ACTOR IN A SUPPORTING ROLE,Christian Bale,The Fighter,True,nm0000288,1974,0,"actor,editorial_department,producer",37,True,2021,47,M
+35845,2014,ACTOR IN A LEADING ROLE,Christian Bale,American Hustle,False,nm0000288,1974,0,"actor,editorial_department,producer",40,True,2021,47,M
+35846,2016,ACTOR IN A SUPPORTING ROLE,Christian Bale,The Big Short,False,nm0000288,1974,0,"actor,editorial_department,producer",42,True,2021,47,M
+35847,2019,ACTOR IN A LEADING ROLE,Christian Bale,Vice,False,nm0000288,1974,0,"actor,editorial_department,producer",45,True,2021,47,M
+35848,2011,ACTOR IN A SUPPORTING ROLE,John Hawkes,Winter's Bone,False,nm0370035,1959,0,"actor,soundtrack,music_department",52,True,2021,62,M
+35855,2011,ACTOR IN A SUPPORTING ROLE,Mark Ruffalo,The Kids Are All Right,False,nm0749263,1967,0,"actor,producer,soundtrack",44,True,2021,54,M
+35856,2015,ACTOR IN A SUPPORTING ROLE,Mark Ruffalo,Foxcatcher,False,nm0749263,1967,0,"actor,producer,soundtrack",48,True,2021,54,M
+35857,2016,ACTOR IN A SUPPORTING ROLE,Mark Ruffalo,Spotlight,False,nm0749263,1967,0,"actor,producer,soundtrack",49,True,2021,54,M
+36063,2012,ACTOR IN A LEADING ROLE,Demián Bichir,A Better Life,False,nm0065007,1963,0,"actor,producer,director",49,True,2021,58,M
+36064,2012,ACTOR IN A LEADING ROLE,Jean Dujardin,The Artist,True,nm0241121,1972,0,"actor,director,writer",40,True,2021,49,M
+36065,2012,ACTOR IN A LEADING ROLE,Gary Oldman,Tinker Tailor Soldier Spy,False,nm0000198,1958,0,"actor,soundtrack,producer",54,True,2021,63,M
+36066,2018,ACTOR IN A LEADING ROLE,Gary Oldman,Darkest Hour,True,nm0000198,1958,0,"actor,soundtrack,producer",60,True,2021,63,M
+36067,2012,ACTOR IN A SUPPORTING ROLE,Jonah Hill,Moneyball,False,nm1706767,1983,0,"actor,producer,writer",29,True,2021,38,M
+36068,2014,ACTOR IN A SUPPORTING ROLE,Jonah Hill,The Wolf of Wall Street,False,nm1706767,1983,0,"actor,producer,writer",31,True,2021,38,M
+36322,2013,ACTOR IN A LEADING ROLE,Bradley Cooper,Silver Linings Playbook,False,nm0177896,1975,0,"actor,producer,soundtrack",38,True,2021,46,M
+36330,2014,ACTOR IN A SUPPORTING ROLE,Bradley Cooper,American Hustle,False,nm0177896,1975,0,"actor,producer,soundtrack",39,True,2021,46,M
+36338,2015,ACTOR IN A LEADING ROLE,Bradley Cooper,American Sniper,False,nm0177896,1975,0,"actor,producer,soundtrack",40,True,2021,46,M
+36346,2019,ACTOR IN A LEADING ROLE,Bradley Cooper,A Star Is Born,False,nm0177896,1975,0,"actor,producer,soundtrack",44,True,2021,46,M
+36354,2013,ACTOR IN A LEADING ROLE,Hugh Jackman,Les Misérables,False,nm0413168,1968,0,"actor,soundtrack,producer",45,True,2021,53,M
+36431,2014,ACTOR IN A LEADING ROLE,Chiwetel Ejiofor,12 Years a Slave,False,nm0252230,1977,0,"actor,soundtrack,director",37,True,2021,44,M
+36432,2014,ACTOR IN A LEADING ROLE,Matthew McConaughey,Dallas Buyers Club,True,nm0000190,1969,0,"actor,producer,soundtrack",45,True,2021,52,M
+36433,2014,ACTOR IN A SUPPORTING ROLE,Barkhad Abdi,Captain Phillips,False,nm5831542,1985,0,actor,29,True,2021,36,M
+36434,2014,ACTOR IN A SUPPORTING ROLE,Michael Fassbender,12 Years a Slave,False,nm1055413,1977,0,"actor,producer,soundtrack",37,True,2021,44,M
+36436,2016,ACTOR IN A LEADING ROLE,Michael Fassbender,Steve Jobs,False,nm1055413,1977,0,"actor,producer,soundtrack",39,True,2021,44,M
+36438,2014,ACTOR IN A SUPPORTING ROLE,Jared Leto,Dallas Buyers Club,True,nm0001467,1971,0,"actor,producer,soundtrack",43,True,2021,50,M
+36614,2015,ACTOR IN A LEADING ROLE,Steve Carell,Foxcatcher,False,nm0136797,1962,0,"actor,producer,writer",53,True,2021,59,M
+36615,2015,ACTOR IN A LEADING ROLE,Benedict Cumberbatch,The Imitation Game,False,nm1212722,1976,0,"actor,producer,soundtrack",39,True,2021,45,M
+36616,2015,ACTOR IN A LEADING ROLE,Michael Keaton,Birdman or (The Unexpected Virtue of Ignorance),False,nm0000474,1951,0,"actor,producer,soundtrack",64,True,2021,70,M
+36618,2015,ACTOR IN A LEADING ROLE,Eddie Redmayne,The Theory of Everything,True,nm1519666,1982,0,"actor,soundtrack",33,True,2021,39,M
+36619,2016,ACTOR IN A LEADING ROLE,Eddie Redmayne,The Danish Girl,False,nm1519666,1982,0,"actor,soundtrack",34,True,2021,39,M
+36620,2015,ACTOR IN A SUPPORTING ROLE,J.K. Simmons,Whiplash,True,nm0799777,1955,0,"actor,soundtrack",60,True,2021,66,M
+36713,2016,ACTOR IN A LEADING ROLE,Bryan Cranston,Trumbo,False,nm0186505,1956,0,"actor,producer,director",60,True,2021,65,M
+36714,2016,ACTOR IN A SUPPORTING ROLE,Tom Hardy,The Revenant,False,nm0362766,1977,0,"actor,producer,writer",39,True,2021,44,M
+36729,2016,ACTOR IN A SUPPORTING ROLE,Mark Rylance,Bridge of Spies,True,nm0753314,1960,0,"actor,art_department",56,True,2021,61,M
+36909,2017,ACTOR IN A LEADING ROLE,Andrew Garfield,Hacksaw Ridge,False,nm11673494,1983,0,camera_department,0,False,2021,0,M
+36915,2017,ACTOR IN A SUPPORTING ROLE,Mahershala Ali,Moonlight,True,nm0991810,1974,0,"actor,producer",43,True,2021,47,M
+36916,2019,ACTOR IN A SUPPORTING ROLE,Mahershala Ali,Green Book,True,nm0991810,1974,0,"actor,producer",45,True,2021,47,M
+36917,2017,ACTOR IN A SUPPORTING ROLE,Lucas Hedges,Manchester by the Sea,False,nm2348627,1996,0,"actor,soundtrack",21,True,2021,25,M
+36918,2017,ACTOR IN A SUPPORTING ROLE,Dev Patel,Lion,False,nm11563522,1990,0,director,0,False,2021,0,M
+36994,2018,ACTOR IN A LEADING ROLE,Timothée Chalamet,Call Me by Your Name,False,nm3154303,1995,0,actor,23,True,2021,26,M
+36995,2018,ACTOR IN A LEADING ROLE,Daniel Kaluuya,Get Out,False,nm2257207,1989,0,"actor,writer,soundtrack",29,True,2021,32,M
+36996,2018,ACTOR IN A SUPPORTING ROLE,Sam Rockwell,"Three Billboards outside Ebbing, Missouri",True,nm0005377,1968,0,"actor,producer,soundtrack",50,True,2021,53,M
+36997,2019,ACTOR IN A SUPPORTING ROLE,Sam Rockwell,Vice,False,nm0005377,1968,0,"actor,producer,soundtrack",51,True,2021,53,M
+37051,2019,ACTOR IN A LEADING ROLE,Rami Malek,Bohemian Rhapsody,True,nm1785339,1981,0,"actor,producer,soundtrack",38,True,2021,40,M
+37052,2019,ACTOR IN A SUPPORTING ROLE,Adam Driver,BlacKkKlansman,False,nm3485845,1983,0,"actor,soundtrack",36,True,2021,38,M
+37054,2020,ACTOR IN A LEADING ROLE,Adam Driver,Marriage Story,False,nm3485845,1983,0,"actor,soundtrack",37,True,2021,38,M
+37056,2019,ACTOR IN A SUPPORTING ROLE,Sam Elliott,A Star Is Born,False,nm0000385,1944,0,"actor,producer,writer",75,True,2021,77,M
+37064,2019,ACTOR IN A SUPPORTING ROLE,Richard E. Grant,Can You Ever Forgive Me?,False,nm0001290,1957,0,"actor,soundtrack,director",62,True,2021,64,M
+37087,2020,ACTOR IN A LEADING ROLE,Antonio Banderas,Pain and Glory,False,nm0000104,1960,0,"actor,soundtrack,producer",60,True,2021,61,M
+37088,2020,ACTOR IN A LEADING ROLE,Jonathan Pryce,The Two Popes,False,nm0000596,1947,0,"actor,soundtrack,producer",73,True,2021,74,M
