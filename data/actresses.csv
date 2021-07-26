@@ -1,0 +1,868 @@
+index,year_ceremony,category,name,film,winner,nconst,birthYear,deathYear,primaryProfession,ceremonyAge,alive,currentYear,currentAge,gender
+2,1928,ACTRESS,Louise Dresser,A Ship Comes In,False,nm0237571,1878,1965,actress,50,False,2021,0,F
+3,1928,ACTRESS,Janet Gaynor,7th Heaven,True,nm0310980,1906,1984,"actress,soundtrack",22,False,2021,0,F
+6,1938,ACTRESS,Janet Gaynor,A Star Is Born,False,nm0310980,1906,1984,"actress,soundtrack",32,False,2021,0,F
+9,1928,ACTRESS,Gloria Swanson,Sadie Thompson,False,nm0841797,1899,1983,"actress,soundtrack,producer",29,False,2021,0,F
+12,1930,ACTRESS,Gloria Swanson,The Trespasser,False,nm0841797,1899,1983,"actress,soundtrack,producer",31,False,2021,0,F
+15,1951,ACTRESS,Gloria Swanson,Sunset Blvd.,False,nm0841797,1899,1983,"actress,soundtrack,producer",52,False,2021,0,F
+358,1929,ACTRESS,Ruth Chatterton,Madame X,False,nm0154183,1892,1961,"actress,soundtrack,writer",37,False,2021,0,F
+359,1930,ACTRESS,Ruth Chatterton,Sarah and Son,False,nm0154183,1892,1961,"actress,soundtrack,writer",38,False,2021,0,F
+360,1929,ACTRESS,Betty Compson,The Barker,False,nm0173993,1897,1974,"actress,soundtrack",32,False,2021,0,F
+361,1929,ACTRESS,Jeanne Eagels,The Letter,False,nm0247074,1890,1929,actress,39,False,2021,0,F
+362,1929,ACTRESS,Corinne Griffith,The Divine Lady,False,nm0341464,1894,1979,"actress,producer,soundtrack",35,False,2021,0,F
+363,1929,ACTRESS,Bessie Love,The Broadway Melody,False,nm0522281,1898,1986,"actress,soundtrack,script_department",31,False,2021,0,F
+364,1929,ACTRESS,Mary Pickford,Coquette,True,nm0681933,1892,1979,"actress,producer,writer",37,False,2021,0,F
+482,1930,ACTRESS,Nancy Carroll,The Devil's Holiday,False,nm0007216,1903,1965,"actress,soundtrack",27,False,2021,0,F
+495,1930,ACTRESS,Greta Garbo,Anna Christie,False,nm0001256,1905,1990,"actress,soundtrack",25,False,2021,0,F
+497,1938,ACTRESS,Greta Garbo,Camille,False,nm0001256,1905,1990,"actress,soundtrack",33,False,2021,0,F
+499,1940,ACTRESS,Greta Garbo,Ninotchka,False,nm0001256,1905,1990,"actress,soundtrack",35,False,2021,0,F
+501,1930,ACTRESS,Norma Shearer,The Divorcee,True,nm0790454,1902,1983,"actress,soundtrack",28,False,2021,0,F
+502,1930,ACTRESS,Norma Shearer,Their Own Desire,False,nm0790454,1902,1983,"actress,soundtrack",28,False,2021,0,F
+503,1931,ACTRESS,Norma Shearer,A Free Soul,False,nm0790454,1902,1983,"actress,soundtrack",29,False,2021,0,F
+504,1935,ACTRESS,Norma Shearer,The Barretts of Wimpole Street,False,nm0790454,1902,1983,"actress,soundtrack",33,False,2021,0,F
+505,1937,ACTRESS,Norma Shearer,Romeo and Juliet,False,nm0790454,1902,1983,"actress,soundtrack",35,False,2021,0,F
+506,1939,ACTRESS,Norma Shearer,Marie Antoinette,False,nm0790454,1902,1983,"actress,soundtrack",37,False,2021,0,F
+593,1931,ACTRESS,Marlene Dietrich,Morocco,False,nm0000017,1901,1992,"soundtrack,actress,music_department",30,False,2021,0,F
+595,1931,ACTRESS,Marie Dressler,Min and Bill,True,nm0237597,1868,1934,"actress,soundtrack,writer",63,False,2021,0,F
+596,1932,ACTRESS,Marie Dressler,Emma,False,nm0237597,1868,1934,"actress,soundtrack,writer",64,False,2021,0,F
+597,1931,ACTRESS,Irene Dunne,Cimarron,False,nm0002050,1898,1990,"actress,soundtrack",33,False,2021,0,F
+598,1937,ACTRESS,Irene Dunne,Theodora Goes Wild,False,nm0002050,1898,1990,"actress,soundtrack",39,False,2021,0,F
+599,1938,ACTRESS,Irene Dunne,The Awful Truth,False,nm0002050,1898,1990,"actress,soundtrack",40,False,2021,0,F
+600,1940,ACTRESS,Irene Dunne,Love Affair,False,nm0002050,1898,1990,"actress,soundtrack",42,False,2021,0,F
+601,1949,ACTRESS,Irene Dunne,I Remember Mama,False,nm0002050,1898,1990,"actress,soundtrack",51,False,2021,0,F
+602,1931,ACTRESS,Ann Harding,Holiday,False,nm0362267,1902,1981,"actress,soundtrack",29,False,2021,0,F
+868,1932,ACTRESS,Lynn Fontanne,The Guardsman,False,nm0285007,1887,1983,actress,45,False,2021,0,F
+869,1932,ACTRESS,Helen Hayes,The Sin of Madelon Claudet,True,nm0371040,1900,1993,"actress,soundtrack",32,False,2021,0,F
+880,1971,ACTRESS IN A SUPPORTING ROLE,Helen Hayes,Airport,True,nm0371040,1900,1993,"actress,soundtrack",71,False,2021,0,F
+934,1933,ACTRESS,Katharine Hepburn,Morning Glory,True,nm0000031,1907,2003,"actress,soundtrack,writer",26,False,2021,0,F
+935,1936,ACTRESS,Katharine Hepburn,Alice Adams,False,nm0000031,1907,2003,"actress,soundtrack,writer",29,False,2021,0,F
+936,1941,ACTRESS,Katharine Hepburn,The Philadelphia Story,False,nm0000031,1907,2003,"actress,soundtrack,writer",34,False,2021,0,F
+937,1943,ACTRESS,Katharine Hepburn,Woman of the Year,False,nm0000031,1907,2003,"actress,soundtrack,writer",36,False,2021,0,F
+938,1952,ACTRESS,Katharine Hepburn,The African Queen,False,nm0000031,1907,2003,"actress,soundtrack,writer",45,False,2021,0,F
+939,1956,ACTRESS,Katharine Hepburn,Summertime,False,nm0000031,1907,2003,"actress,soundtrack,writer",49,False,2021,0,F
+940,1957,ACTRESS,Katharine Hepburn,The Rainmaker,False,nm0000031,1907,2003,"actress,soundtrack,writer",50,False,2021,0,F
+941,1960,ACTRESS,Katharine Hepburn,"Suddenly, Last Summer",False,nm0000031,1907,2003,"actress,soundtrack,writer",53,False,2021,0,F
+942,1963,ACTRESS,Katharine Hepburn,Long Day's Journey into Night,False,nm0000031,1907,2003,"actress,soundtrack,writer",56,False,2021,0,F
+943,1968,ACTRESS,Katharine Hepburn,Guess Who's Coming to Dinner,True,nm0000031,1907,2003,"actress,soundtrack,writer",61,False,2021,0,F
+944,1969,ACTRESS,Katharine Hepburn,The Lion in Winter,True,nm0000031,1907,2003,"actress,soundtrack,writer",62,False,2021,0,F
+945,1982,ACTRESS IN A LEADING ROLE,Katharine Hepburn,On Golden Pond,True,nm0000031,1907,2003,"actress,soundtrack,writer",75,False,2021,0,F
+946,1933,ACTRESS,May Robson,Lady for a Day,False,nm0733480,1858,1942,"actress,soundtrack,writer",75,False,2021,0,F
+947,1933,ACTRESS,Diana Wynyard,Cavalcade,False,nm0944087,1906,1964,actress,27,False,2021,0,F
+1214,1935,ACTRESS,Claudette Colbert,It Happened One Night,True,nm0001055,1903,1996,"actress,soundtrack",32,False,2021,0,F
+1216,1936,ACTRESS,Claudette Colbert,Private Worlds,False,nm0001055,1903,1996,"actress,soundtrack",33,False,2021,0,F
+1218,1945,ACTRESS,Claudette Colbert,Since You Went Away,False,nm0001055,1903,1996,"actress,soundtrack",42,False,2021,0,F
+1220,1935,ACTRESS,Bette Davis,Of Human Bondage,False,nm0000012,1908,1989,"actress,soundtrack,make_up_department",27,False,2021,0,F
+1222,1936,ACTRESS,Bette Davis,Dangerous,True,nm0000012,1908,1989,"actress,soundtrack,make_up_department",28,False,2021,0,F
+1224,1939,ACTRESS,Bette Davis,Jezebel,True,nm0000012,1908,1989,"actress,soundtrack,make_up_department",31,False,2021,0,F
+1226,1940,ACTRESS,Bette Davis,Dark Victory,False,nm0000012,1908,1989,"actress,soundtrack,make_up_department",32,False,2021,0,F
+1228,1941,ACTRESS,Bette Davis,The Letter,False,nm0000012,1908,1989,"actress,soundtrack,make_up_department",33,False,2021,0,F
+1230,1942,ACTRESS,Bette Davis,The Little Foxes,False,nm0000012,1908,1989,"actress,soundtrack,make_up_department",34,False,2021,0,F
+1232,1943,ACTRESS,Bette Davis,"Now, Voyager",False,nm0000012,1908,1989,"actress,soundtrack,make_up_department",35,False,2021,0,F
+1234,1945,ACTRESS,Bette Davis,Mr. Skeffington,False,nm0000012,1908,1989,"actress,soundtrack,make_up_department",37,False,2021,0,F
+1236,1951,ACTRESS,Bette Davis,All about Eve,False,nm0000012,1908,1989,"actress,soundtrack,make_up_department",43,False,2021,0,F
+1238,1953,ACTRESS,Bette Davis,The Star,False,nm0000012,1908,1989,"actress,soundtrack,make_up_department",45,False,2021,0,F
+1240,1963,ACTRESS,Bette Davis,What Ever Happened to Baby Jane?,False,nm0000012,1908,1989,"actress,soundtrack,make_up_department",55,False,2021,0,F
+1242,1935,ACTRESS,Grace Moore,One Night of Love,False,nm0601254,1898,1947,"actress,soundtrack",37,False,2021,0,F
+1316,1936,ACTRESS,Elisabeth Bergner,Escape Me Never,False,nm0074949,1897,1986,"actress,producer",39,False,2021,0,F
+1317,1936,ACTRESS,Miriam Hopkins,Becky Sharp,False,nm0394244,1902,1972,"actress,soundtrack",34,False,2021,0,F
+1318,1936,ACTRESS,Merle Oberon,The Dark Angel,False,nm0643353,1911,1979,"actress,soundtrack,writer",25,False,2021,0,F
+2101,1937,ACTRESS,Gladys George,Valiant Is the Word for Carrie,False,nm0313438,1900,1954,"actress,soundtrack",37,False,2021,0,F
+2102,1937,ACTRESS,Carole Lombard,My Man Godfrey,False,nm0001479,1908,1942,"actress,soundtrack",29,False,2021,0,F
+2104,1937,ACTRESS,Luise Rainer,The Great Ziegfeld,True,nm0707023,1910,2014,"actress,soundtrack",27,False,2021,0,F
+2105,1938,ACTRESS,Luise Rainer,The Good Earth,True,nm0707023,1910,2014,"actress,soundtrack",28,False,2021,0,F
+2106,1937,ACTRESS IN A SUPPORTING ROLE,Beulah Bondi,The Gorgeous Hussy,False,nm0094135,1889,1981,"actress,soundtrack",48,False,2021,0,F
+2107,1939,ACTRESS IN A SUPPORTING ROLE,Beulah Bondi,Of Human Hearts,False,nm0094135,1889,1981,"actress,soundtrack",50,False,2021,0,F
+2108,1937,ACTRESS IN A SUPPORTING ROLE,Alice Brady,My Man Godfrey,False,nm0103567,1892,1939,"actress,soundtrack",45,False,2021,0,F
+2109,1938,ACTRESS IN A SUPPORTING ROLE,Alice Brady,In Old Chicago,True,nm0103567,1892,1939,"actress,soundtrack",46,False,2021,0,F
+2110,1937,ACTRESS IN A SUPPORTING ROLE,Bonita Granville,These Three,False,nm0335748,1923,1988,"producer,actress,soundtrack",14,False,2021,0,F
+2111,1937,ACTRESS IN A SUPPORTING ROLE,Maria Ouspenskaya,Dodsworth,False,nm0653642,1876,1949,"actress,soundtrack",61,False,2021,0,F
+2112,1940,ACTRESS IN A SUPPORTING ROLE,Maria Ouspenskaya,Love Affair,False,nm0653642,1876,1949,"actress,soundtrack",64,False,2021,0,F
+2113,1937,ACTRESS IN A SUPPORTING ROLE,Gale Sondergaard,Anthony Adverse,True,nm0814216,1899,1985,actress,38,False,2021,0,F
+2114,1947,ACTRESS IN A SUPPORTING ROLE,Gale Sondergaard,Anna and the King of Siam,False,nm0814216,1899,1985,actress,48,False,2021,0,F
+2357,1938,ACTRESS,Barbara Stanwyck,Stella Dallas,False,nm0001766,1907,1990,"actress,soundtrack",31,False,2021,0,F
+2358,1942,ACTRESS,Barbara Stanwyck,Ball of Fire,False,nm0001766,1907,1990,"actress,soundtrack",35,False,2021,0,F
+2359,1945,ACTRESS,Barbara Stanwyck,Double Indemnity,False,nm0001766,1907,1990,"actress,soundtrack",38,False,2021,0,F
+2360,1949,ACTRESS,Barbara Stanwyck,"Sorry, Wrong Number",False,nm0001766,1907,1990,"actress,soundtrack",42,False,2021,0,F
+2361,1938,ACTRESS IN A SUPPORTING ROLE,Andrea Leeds,Stage Door,False,nm0498571,1914,1984,"actress,soundtrack",24,False,2021,0,F
+2362,1938,ACTRESS IN A SUPPORTING ROLE,Anne Shirley,Stella Dallas,False,nm0794297,1918,1993,"actress,soundtrack",20,False,2021,0,F
+2363,1938,ACTRESS IN A SUPPORTING ROLE,Claire Trevor,Dead End,False,nm0872456,1910,2000,"actress,soundtrack",28,False,2021,0,F
+2364,1949,ACTRESS IN A SUPPORTING ROLE,Claire Trevor,Key Largo,True,nm0872456,1910,2000,"actress,soundtrack",39,False,2021,0,F
+2365,1955,ACTRESS IN A SUPPORTING ROLE,Claire Trevor,The High and the Mighty,False,nm0872456,1910,2000,"actress,soundtrack",45,False,2021,0,F
+2492,1939,ACTRESS,Fay Bainter,White Banners,False,nm0047810,1893,1968,"actress,soundtrack",46,False,2021,0,F
+2493,1939,ACTRESS IN A SUPPORTING ROLE,Fay Bainter,Jezebel,True,nm0047810,1893,1968,"actress,soundtrack",46,False,2021,0,F
+2494,1962,ACTRESS IN A SUPPORTING ROLE,Fay Bainter,The Children's Hour,False,nm0047810,1893,1968,"actress,soundtrack",69,False,2021,0,F
+2495,1939,ACTRESS,Wendy Hiller,Pygmalion,False,nm0384908,1912,2003,actress,27,False,2021,0,F
+2497,1959,ACTRESS IN A SUPPORTING ROLE,Wendy Hiller,Separate Tables,True,nm0384908,1912,2003,actress,47,False,2021,0,F
+2499,1967,ACTRESS IN A SUPPORTING ROLE,Wendy Hiller,A Man for All Seasons,False,nm0384908,1912,2003,actress,55,False,2021,0,F
+2501,1939,ACTRESS,Margaret Sullavan,Three Comrades,False,nm0837925,1909,1960,"actress,soundtrack",30,False,2021,0,F
+2502,1939,ACTRESS IN A SUPPORTING ROLE,Billie Burke,Merrily We Live,False,nm0000992,1884,1970,"actress,soundtrack",55,False,2021,0,F
+2503,1939,ACTRESS IN A SUPPORTING ROLE,Spring Byington,You Can't Take It with You,False,nm0001981,1886,1971,"actress,soundtrack,miscellaneous",53,False,2021,0,F
+2504,1939,ACTRESS IN A SUPPORTING ROLE,Miliza Korjus,The Great Waltz,False,nm0466295,1909,1980,"soundtrack,actress",30,False,2021,0,F
+3716,1940,ACTRESS,Greer Garson,"Goodbye, Mr. Chips",False,nm0002093,1904,1996,"actress,soundtrack,miscellaneous",36,False,2021,0,F
+3717,1942,ACTRESS,Greer Garson,Blossoms in the Dust,False,nm0002093,1904,1996,"actress,soundtrack,miscellaneous",38,False,2021,0,F
+3718,1943,ACTRESS,Greer Garson,Mrs. Miniver,True,nm0002093,1904,1996,"actress,soundtrack,miscellaneous",39,False,2021,0,F
+3719,1944,ACTRESS,Greer Garson,Madame Curie,False,nm0002093,1904,1996,"actress,soundtrack,miscellaneous",40,False,2021,0,F
+3720,1945,ACTRESS,Greer Garson,Mrs. Parkington,False,nm0002093,1904,1996,"actress,soundtrack,miscellaneous",41,False,2021,0,F
+3721,1946,ACTRESS,Greer Garson,The Valley of Decision,False,nm0002093,1904,1996,"actress,soundtrack,miscellaneous",42,False,2021,0,F
+3722,1961,ACTRESS,Greer Garson,Sunrise at Campobello,False,nm0002093,1904,1996,"actress,soundtrack,miscellaneous",57,False,2021,0,F
+3723,1940,ACTRESS,Vivien Leigh,Gone with the Wind,True,nm0000046,1913,1967,"actress,soundtrack,writer",27,False,2021,0,F
+3725,1952,ACTRESS,Vivien Leigh,A Streetcar Named Desire,True,nm0000046,1913,1967,"actress,soundtrack,writer",39,False,2021,0,F
+3727,1940,ACTRESS IN A SUPPORTING ROLE,Olivia de Havilland,Gone with the Wind,False,nm0000014,1916,2020,"actress,soundtrack",24,False,2021,0,F
+3728,1942,ACTRESS,Olivia de Havilland,Hold Back the Dawn,False,nm0000014,1916,2020,"actress,soundtrack",26,False,2021,0,F
+3729,1947,ACTRESS,Olivia de Havilland,To Each His Own,True,nm0000014,1916,2020,"actress,soundtrack",31,False,2021,0,F
+3730,1949,ACTRESS,Olivia de Havilland,The Snake Pit,False,nm0000014,1916,2020,"actress,soundtrack",33,False,2021,0,F
+3731,1950,ACTRESS,Olivia de Havilland,The Heiress,True,nm0000014,1916,2020,"actress,soundtrack",34,False,2021,0,F
+3732,1940,ACTRESS IN A SUPPORTING ROLE,Geraldine Fitzgerald,Wuthering Heights,False,nm0280242,1913,2005,"actress,writer,producer",27,False,2021,0,F
+3738,1940,ACTRESS IN A SUPPORTING ROLE,Hattie McDaniel,Gone with the Wind,True,nm0567408,1893,1952,"actress,soundtrack,writer",47,False,2021,0,F
+3739,1940,ACTRESS IN A SUPPORTING ROLE,Edna May Oliver,Drums along the Mohawk,False,nm0646829,1883,1942,"actress,soundtrack",57,False,2021,0,F
+4051,1941,ACTRESS,Joan Fontaine,Rebecca,False,nm0000021,1917,2013,"actress,soundtrack,producer",24,False,2021,0,F
+4053,1942,ACTRESS,Joan Fontaine,Suspicion,True,nm0000021,1917,2013,"actress,soundtrack,producer",25,False,2021,0,F
+4055,1944,ACTRESS,Joan Fontaine,The Constant Nymph,False,nm0000021,1917,2013,"actress,soundtrack,producer",27,False,2021,0,F
+4057,1941,ACTRESS,Ginger Rogers,Kitty Foyle,True,nm0001677,1911,1995,"actress,soundtrack",30,False,2021,0,F
+4058,1941,ACTRESS,Martha Scott,Our Town,False,nm0779549,1912,2003,"actress,producer",29,False,2021,0,F
+4061,1941,ACTRESS IN A SUPPORTING ROLE,Judith Anderson,Rebecca,False,nm0000752,1897,1992,"actress,soundtrack",44,False,2021,0,F
+4067,1941,ACTRESS IN A SUPPORTING ROLE,Jane Darwell,The Grapes of Wrath,True,nm0002034,1879,1967,actress,62,False,2021,0,F
+4068,1941,ACTRESS IN A SUPPORTING ROLE,Ruth Hussey,The Philadelphia Story,False,nm0404046,1911,2005,actress,30,False,2021,0,F
+4069,1941,ACTRESS IN A SUPPORTING ROLE,Barbara O'Neil,"All This, and Heaven Too",False,nm0641966,1910,1980,actress,31,False,2021,0,F
+4070,1941,ACTRESS IN A SUPPORTING ROLE,Marjorie Rambeau,Primrose Path,False,nm0708081,1889,1970,"actress,soundtrack",52,False,2021,0,F
+4071,1954,ACTRESS IN A SUPPORTING ROLE,Marjorie Rambeau,Torch Song,False,nm0708081,1889,1970,"actress,soundtrack",65,False,2021,0,F
+4257,1942,ACTRESS IN A SUPPORTING ROLE,Sara Allgood,How Green Was My Valley,False,nm0021329,1880,1950,actress,62,False,2021,0,F
+4258,1942,ACTRESS IN A SUPPORTING ROLE,Mary Astor,The Great Lie,True,nm0000802,1906,1987,"actress,soundtrack",36,False,2021,0,F
+4259,1942,ACTRESS IN A SUPPORTING ROLE,Patricia Collinge,The Little Foxes,False,nm0172048,1892,1974,"actress,writer",50,False,2021,0,F
+4260,1942,ACTRESS IN A SUPPORTING ROLE,Teresa Wright,The Little Foxes,False,nm0942863,1918,2005,"actress,soundtrack",24,False,2021,0,F
+4265,1943,ACTRESS,Teresa Wright,The Pride of the Yankees,False,nm0942863,1918,2005,"actress,soundtrack",25,False,2021,0,F
+4270,1943,ACTRESS IN A SUPPORTING ROLE,Teresa Wright,Mrs. Miniver,True,nm0942863,1918,2005,"actress,soundtrack",25,False,2021,0,F
+4275,1942,ACTRESS IN A SUPPORTING ROLE,Margaret Wycherly,Sergeant York,False,nm0943618,1881,1956,actress,61,False,2021,0,F
+4588,1943,ACTRESS,Rosalind Russell,My Sister Eileen,False,nm0751426,1907,1976,"actress,soundtrack,writer",36,False,2021,0,F
+4591,1947,ACTRESS,Rosalind Russell,Sister Kenny,False,nm0751426,1907,1976,"actress,soundtrack,writer",40,False,2021,0,F
+4594,1948,ACTRESS,Rosalind Russell,Mourning Becomes Electra,False,nm0751426,1907,1976,"actress,soundtrack,writer",41,False,2021,0,F
+4597,1959,ACTRESS,Rosalind Russell,Auntie Mame,False,nm0751426,1907,1976,"actress,soundtrack,writer",52,False,2021,0,F
+4603,1943,ACTRESS IN A SUPPORTING ROLE,Gladys Cooper,"Now, Voyager",False,nm0178066,1888,1971,"actress,soundtrack",55,False,2021,0,F
+4605,1944,ACTRESS IN A SUPPORTING ROLE,Gladys Cooper,The Song of Bernadette,False,nm0178066,1888,1971,"actress,soundtrack",56,False,2021,0,F
+4607,1965,ACTRESS IN A SUPPORTING ROLE,Gladys Cooper,My Fair Lady,False,nm0178066,1888,1971,"actress,soundtrack",77,False,2021,0,F
+4609,1943,ACTRESS IN A SUPPORTING ROLE,Agnes Moorehead,The Magnificent Ambersons,False,nm0001547,1900,1974,"actress,soundtrack,miscellaneous",43,False,2021,0,F
+4610,1945,ACTRESS IN A SUPPORTING ROLE,Agnes Moorehead,Mrs. Parkington,False,nm0001547,1900,1974,"actress,soundtrack,miscellaneous",45,False,2021,0,F
+4611,1949,ACTRESS IN A SUPPORTING ROLE,Agnes Moorehead,Johnny Belinda,False,nm0001547,1900,1974,"actress,soundtrack,miscellaneous",49,False,2021,0,F
+4612,1965,ACTRESS IN A SUPPORTING ROLE,Agnes Moorehead,"Hush...Hush, Sweet Charlotte",False,nm0001547,1900,1974,"actress,soundtrack,miscellaneous",65,False,2021,0,F
+4613,1943,ACTRESS IN A SUPPORTING ROLE,Susan Peters,Random Harvest,False,nm0676688,1921,1952,"actress,soundtrack",22,False,2021,0,F
+4716,1944,ACTRESS,Jean Arthur,The More the Merrier,False,nm0000795,1900,1991,"actress,soundtrack",44,False,2021,0,F
+4721,1944,ACTRESS,Ingrid Bergman,For Whom the Bell Tolls,False,nm0000006,1915,1982,"actress,soundtrack,producer",29,False,2021,0,F
+4725,1945,ACTRESS,Ingrid Bergman,Gaslight,True,nm0000006,1915,1982,"actress,soundtrack,producer",30,False,2021,0,F
+4729,1946,ACTRESS,Ingrid Bergman,The Bells of St. Mary's,False,nm0000006,1915,1982,"actress,soundtrack,producer",31,False,2021,0,F
+4733,1949,ACTRESS,Ingrid Bergman,Joan of Arc,False,nm0000006,1915,1982,"actress,soundtrack,producer",34,False,2021,0,F
+4737,1957,ACTRESS,Ingrid Bergman,Anastasia,True,nm0000006,1915,1982,"actress,soundtrack,producer",42,False,2021,0,F
+4741,1975,ACTRESS IN A SUPPORTING ROLE,Ingrid Bergman,Murder on the Orient Express,True,nm0000006,1915,1982,"actress,soundtrack,producer",60,False,2021,0,F
+4745,1979,ACTRESS IN A LEADING ROLE,Ingrid Bergman,Autumn Sonata,False,nm0000006,1915,1982,"actress,soundtrack,producer",64,False,2021,0,F
+4749,1944,ACTRESS,Jennifer Jones,The Song of Bernadette,True,nm0428354,1919,2009,"actress,soundtrack",25,False,2021,0,F
+4843,1945,ACTRESS IN A SUPPORTING ROLE,Jennifer Jones,Since You Went Away,False,nm0428354,1919,2009,"actress,soundtrack",26,False,2021,0,F
+4937,1946,ACTRESS,Jennifer Jones,Love Letters,False,nm0428354,1919,2009,"actress,soundtrack",27,False,2021,0,F
+5031,1947,ACTRESS,Jennifer Jones,Duel in the Sun,False,nm0428354,1919,2009,"actress,soundtrack",28,False,2021,0,F
+5125,1956,ACTRESS,Jennifer Jones,Love Is a Many-Splendored Thing,False,nm0428354,1919,2009,"actress,soundtrack",37,False,2021,0,F
+5219,1944,ACTRESS IN A SUPPORTING ROLE,Paulette Goddard,So Proudly We Hail!,False,nm0002104,1910,1990,"actress,soundtrack,producer",34,False,2021,0,F
+5220,1944,ACTRESS IN A SUPPORTING ROLE,Katina Paxinou,For Whom the Bell Tolls,True,nm0668093,1900,1973,actress,44,False,2021,0,F
+5221,1944,ACTRESS IN A SUPPORTING ROLE,Anne Revere,The Song of Bernadette,False,nm0720843,1903,1990,actress,41,False,2021,0,F
+5222,1946,ACTRESS IN A SUPPORTING ROLE,Anne Revere,National Velvet,True,nm0720843,1903,1990,actress,43,False,2021,0,F
+5223,1948,ACTRESS IN A SUPPORTING ROLE,Anne Revere,Gentleman's Agreement,False,nm0720843,1903,1990,actress,45,False,2021,0,F
+5224,1944,ACTRESS IN A SUPPORTING ROLE,Lucile Watson,Watch on the Rhine,False,nm0914778,1879,1962,"actress,soundtrack",65,False,2021,0,F
+5496,1945,ACTRESS IN A SUPPORTING ROLE,Ethel Barrymore,None but the Lonely Heart,True,nm0000856,1879,1959,actress,66,False,2021,0,F
+5497,1947,ACTRESS IN A SUPPORTING ROLE,Ethel Barrymore,The Spiral Staircase,False,nm0000856,1879,1959,actress,68,False,2021,0,F
+5498,1948,ACTRESS IN A SUPPORTING ROLE,Ethel Barrymore,The Paradine Case,False,nm0000856,1879,1959,actress,69,False,2021,0,F
+5499,1950,ACTRESS IN A SUPPORTING ROLE,Ethel Barrymore,Pinky,False,nm0000856,1879,1959,actress,71,False,2021,0,F
+5500,1945,ACTRESS IN A SUPPORTING ROLE,Angela Lansbury,Gaslight,False,nm0001450,1925,0,"actress,producer,soundtrack",20,True,2021,96,F
+5502,1946,ACTRESS IN A SUPPORTING ROLE,Angela Lansbury,The Picture of Dorian Gray,False,nm0001450,1925,0,"actress,producer,soundtrack",21,True,2021,96,F
+5504,1963,ACTRESS IN A SUPPORTING ROLE,Angela Lansbury,The Manchurian Candidate,False,nm0001450,1925,0,"actress,producer,soundtrack",38,True,2021,96,F
+5506,1945,ACTRESS IN A SUPPORTING ROLE,Aline MacMahon,Dragon Seed,False,nm0533956,1899,1991,"actress,soundtrack",46,False,2021,0,F
+5718,1946,ACTRESS,Joan Crawford,Mildred Pierce,True,nm0001076,1904,1977,"actress,soundtrack,writer",42,False,2021,0,F
+5723,1948,ACTRESS,Joan Crawford,Possessed,False,nm0001076,1904,1977,"actress,soundtrack,writer",44,False,2021,0,F
+5728,1953,ACTRESS,Joan Crawford,Sudden Fear,False,nm0001076,1904,1977,"actress,soundtrack,writer",49,False,2021,0,F
+5733,1946,ACTRESS,Gene Tierney,Leave Her to Heaven,False,nm0000074,1920,1991,"actress,soundtrack",26,False,2021,0,F
+5734,1946,ACTRESS IN A SUPPORTING ROLE,Eve Arden,Mildred Pierce,False,nm0000781,1908,1990,"actress,soundtrack",38,False,2021,0,F
+5735,1946,ACTRESS IN A SUPPORTING ROLE,Ann Blyth,Mildred Pierce,False,nm0001955,1927,0,"actress,soundtrack",19,True,2021,94,F
+5736,1946,ACTRESS IN A SUPPORTING ROLE,Joan Lorring,The Corn Is Green,False,nm0521156,1926,2014,"actress,soundtrack",20,False,2021,0,F
+5807,1947,ACTRESS,Celia Johnson,Brief Encounter,False,nm0424743,1908,1982,actress,39,False,2021,0,F
+5811,1947,ACTRESS,Jane Wyman,The Yearling,False,nm0943837,1917,2007,"actress,soundtrack,writer",30,False,2021,0,F
+5812,1949,ACTRESS,Jane Wyman,Johnny Belinda,True,nm0943837,1917,2007,"actress,soundtrack,writer",32,False,2021,0,F
+5813,1952,ACTRESS,Jane Wyman,The Blue Veil,False,nm0943837,1917,2007,"actress,soundtrack,writer",35,False,2021,0,F
+5814,1955,ACTRESS,Jane Wyman,Magnificent Obsession,False,nm0943837,1917,2007,"actress,soundtrack,writer",38,False,2021,0,F
+5815,1947,ACTRESS IN A SUPPORTING ROLE,Anne Baxter,The Razor's Edge,True,nm0000879,1923,1985,"actress,soundtrack,producer",24,False,2021,0,F
+5819,1951,ACTRESS,Anne Baxter,All about Eve,False,nm0000879,1923,1985,"actress,soundtrack,producer",28,False,2021,0,F
+5823,1947,ACTRESS IN A SUPPORTING ROLE,Lillian Gish,Duel in the Sun,False,nm0001273,1893,1993,"actress,writer,soundtrack",54,False,2021,0,F
+5825,1947,ACTRESS IN A SUPPORTING ROLE,Flora Robson,Saratoga Trunk,False,nm0733460,1902,1984,"actress,soundtrack",45,False,2021,0,F
+6007,1948,ACTRESS,Susan Hayward,Smash-Up--The Story of a Woman,False,nm0001333,1917,1975,"actress,soundtrack",31,False,2021,0,F
+6014,1950,ACTRESS,Susan Hayward,My Foolish Heart,False,nm0001333,1917,1975,"actress,soundtrack",33,False,2021,0,F
+6021,1953,ACTRESS,Susan Hayward,With a Song in My Heart,False,nm0001333,1917,1975,"actress,soundtrack",36,False,2021,0,F
+6028,1956,ACTRESS,Susan Hayward,I'll Cry Tomorrow,False,nm0001333,1917,1975,"actress,soundtrack",39,False,2021,0,F
+6035,1959,ACTRESS,Susan Hayward,I Want to Live!,True,nm0001333,1917,1975,"actress,soundtrack",42,False,2021,0,F
+6042,1948,ACTRESS,Dorothy McGuire,Gentleman's Agreement,False,nm0570192,1916,2001,"actress,soundtrack",32,False,2021,0,F
+6044,1948,ACTRESS,Loretta Young,The Farmer's Daughter,True,nm0949835,1913,2000,"actress,soundtrack,producer",35,False,2021,0,F
+6049,1950,ACTRESS,Loretta Young,Come to the Stable,False,nm0949835,1913,2000,"actress,soundtrack,producer",37,False,2021,0,F
+6054,1948,ACTRESS IN A SUPPORTING ROLE,Gloria Grahame,Crossfire,False,nm0002108,1923,1981,"actress,soundtrack",25,False,2021,0,F
+6055,1953,ACTRESS IN A SUPPORTING ROLE,Gloria Grahame,The Bad and the Beautiful,True,nm0002108,1923,1981,"actress,soundtrack",30,False,2021,0,F
+6056,1948,ACTRESS IN A SUPPORTING ROLE,Celeste Holm,Gentleman's Agreement,True,nm0002141,1917,2012,"actress,soundtrack,miscellaneous",31,False,2021,0,F
+6057,1950,ACTRESS IN A SUPPORTING ROLE,Celeste Holm,Come to the Stable,False,nm0002141,1917,2012,"actress,soundtrack,miscellaneous",33,False,2021,0,F
+6058,1951,ACTRESS IN A SUPPORTING ROLE,Celeste Holm,All about Eve,False,nm0002141,1917,2012,"actress,soundtrack,miscellaneous",34,False,2021,0,F
+6059,1948,ACTRESS IN A SUPPORTING ROLE,Marjorie Main,The Egg and I,False,nm0537685,1890,1975,"actress,soundtrack",58,False,2021,0,F
+6318,1949,ACTRESS IN A SUPPORTING ROLE,Barbara Bel Geddes,I Remember Mama,False,nm0000895,1922,2005,"actress,soundtrack",27,False,2021,0,F
+6319,1949,ACTRESS IN A SUPPORTING ROLE,Ellen Corby,I Remember Mama,False,nm0179289,1911,1999,"actress,writer,soundtrack",38,False,2021,0,F
+6320,1949,ACTRESS IN A SUPPORTING ROLE,Jean Simmons,Hamlet,False,nm0001739,1929,2010,"actress,soundtrack",20,False,2021,0,F
+6323,1970,ACTRESS,Jean Simmons,The Happy Ending,False,nm0001739,1929,2010,"actress,soundtrack",41,False,2021,0,F
+6627,1950,ACTRESS,Jeanne Crain,Pinky,False,nm0002022,1925,2003,"actress,soundtrack",25,False,2021,0,F
+6628,1950,ACTRESS,Deborah Kerr,"Edward, My Son",False,nm0000039,1921,2007,"actress,soundtrack",29,False,2021,0,F
+6630,1954,ACTRESS,Deborah Kerr,From Here to Eternity,False,nm0000039,1921,2007,"actress,soundtrack",33,False,2021,0,F
+6632,1957,ACTRESS,Deborah Kerr,The King and I,False,nm0000039,1921,2007,"actress,soundtrack",36,False,2021,0,F
+6634,1958,ACTRESS,Deborah Kerr,"Heaven Knows, Mr. Allison",False,nm0000039,1921,2007,"actress,soundtrack",37,False,2021,0,F
+6636,1959,ACTRESS,Deborah Kerr,Separate Tables,False,nm0000039,1921,2007,"actress,soundtrack",38,False,2021,0,F
+6638,1961,ACTRESS,Deborah Kerr,The Sundowners,False,nm0000039,1921,2007,"actress,soundtrack",40,False,2021,0,F
+6640,1950,ACTRESS IN A SUPPORTING ROLE,Elsa Lanchester,Come to the Stable,False,nm0006471,1902,1986,"actress,soundtrack",48,False,2021,0,F
+6641,1958,ACTRESS IN A SUPPORTING ROLE,Elsa Lanchester,Witness for the Prosecution,False,nm0006471,1902,1986,"actress,soundtrack",56,False,2021,0,F
+6642,1950,ACTRESS IN A SUPPORTING ROLE,Mercedes McCambridge,All the King's Men,True,nm0564790,1916,2004,"actress,soundtrack",34,False,2021,0,F
+6643,1957,ACTRESS IN A SUPPORTING ROLE,Mercedes McCambridge,Giant,False,nm0564790,1916,2004,"actress,soundtrack",41,False,2021,0,F
+6644,1950,ACTRESS IN A SUPPORTING ROLE,Ethel Waters,Pinky,False,nm0914083,1896,1977,"actress,soundtrack",54,False,2021,0,F
+6837,1951,ACTRESS,Judy Holliday,Born Yesterday,True,nm0391062,1921,1965,"actress,soundtrack",30,False,2021,0,F
+6838,1951,ACTRESS,Eleanor Parker,Caged,False,nm0662223,1922,2013,"actress,soundtrack",29,False,2021,0,F
+6843,1952,ACTRESS,Eleanor Parker,Detective Story,False,nm0662223,1922,2013,"actress,soundtrack",30,False,2021,0,F
+6848,1956,ACTRESS,Eleanor Parker,Interrupted Melody,False,nm0662223,1922,2013,"actress,soundtrack",34,False,2021,0,F
+6853,1951,ACTRESS IN A SUPPORTING ROLE,Hope Emerson,Caged,False,nm0256216,1897,1960,"actress,soundtrack",54,False,2021,0,F
+6854,1951,ACTRESS IN A SUPPORTING ROLE,Josephine Hull,Harvey,True,nm0401449,1877,1957,actress,74,False,2021,0,F
+6855,1951,ACTRESS IN A SUPPORTING ROLE,Nancy Olson,Sunset Blvd.,False,nm0647970,1928,0,"actress,soundtrack",23,True,2021,93,F
+6860,1951,ACTRESS IN A SUPPORTING ROLE,Thelma Ritter,All about Eve,False,nm0728812,1902,1969,"actress,soundtrack",49,False,2021,0,F
+6861,1952,ACTRESS IN A SUPPORTING ROLE,Thelma Ritter,The Mating Season,False,nm0728812,1902,1969,"actress,soundtrack",50,False,2021,0,F
+6862,1953,ACTRESS IN A SUPPORTING ROLE,Thelma Ritter,With a Song in My Heart,False,nm0728812,1902,1969,"actress,soundtrack",51,False,2021,0,F
+6863,1954,ACTRESS IN A SUPPORTING ROLE,Thelma Ritter,Pickup on South Street,False,nm0728812,1902,1969,"actress,soundtrack",52,False,2021,0,F
+6864,1960,ACTRESS IN A SUPPORTING ROLE,Thelma Ritter,Pillow Talk,False,nm0728812,1902,1969,"actress,soundtrack",58,False,2021,0,F
+6865,1963,ACTRESS IN A SUPPORTING ROLE,Thelma Ritter,Birdman of Alcatraz,False,nm0728812,1902,1969,"actress,soundtrack",61,False,2021,0,F
+7170,1952,ACTRESS,Shelley Winters,A Place in the Sun,False,nm0001859,1920,2006,"actress,soundtrack,producer",32,False,2021,0,F
+7171,1960,ACTRESS IN A SUPPORTING ROLE,Shelley Winters,The Diary of Anne Frank,True,nm0001859,1920,2006,"actress,soundtrack,producer",40,False,2021,0,F
+7172,1966,ACTRESS IN A SUPPORTING ROLE,Shelley Winters,A Patch of Blue,True,nm0001859,1920,2006,"actress,soundtrack,producer",46,False,2021,0,F
+7173,1973,ACTRESS IN A SUPPORTING ROLE,Shelley Winters,The Poseidon Adventure,False,nm0001859,1920,2006,"actress,soundtrack,producer",53,False,2021,0,F
+7174,1952,ACTRESS IN A SUPPORTING ROLE,Joan Blondell,The Blue Veil,False,nm0000951,1906,1979,"actress,soundtrack",46,False,2021,0,F
+7175,1952,ACTRESS IN A SUPPORTING ROLE,Mildred Dunnock,Death of a Salesman,False,nm0242972,1901,1991,actress,51,False,2021,0,F
+7176,1957,ACTRESS IN A SUPPORTING ROLE,Mildred Dunnock,Baby Doll,False,nm0242972,1901,1991,actress,56,False,2021,0,F
+7177,1952,ACTRESS IN A SUPPORTING ROLE,Lee Grant,Detective Story,False,nm0335519,1925,0,"actress,director,producer",27,True,2021,96,F
+7189,1971,ACTRESS IN A SUPPORTING ROLE,Lee Grant,The Landlord,False,nm0335519,1925,0,"actress,director,producer",46,True,2021,96,F
+7201,1976,ACTRESS IN A SUPPORTING ROLE,Lee Grant,Shampoo,True,nm0335519,1925,0,"actress,director,producer",51,True,2021,96,F
+7213,1977,ACTRESS IN A SUPPORTING ROLE,Lee Grant,Voyage of the Damned,False,nm0335519,1925,0,"actress,director,producer",52,True,2021,96,F
+7225,1952,ACTRESS IN A SUPPORTING ROLE,Kim Hunter,A Streetcar Named Desire,True,nm0001375,1922,2002,"actress,soundtrack",30,False,2021,0,F
+7553,1953,ACTRESS,Shirley Booth,"Come Back, Little Sheba",True,nm0095804,1898,1992,"actress,soundtrack",55,False,2021,0,F
+7555,1953,ACTRESS,Julie Harris,The Member of the Wedding,False,nm0364915,1925,2013,"actress,soundtrack",28,False,2021,0,F
+7607,1953,ACTRESS IN A SUPPORTING ROLE,Jean Hagen,Singin' in the Rain,False,nm0353405,1923,1977,"actress,soundtrack",30,False,2021,0,F
+7608,1953,ACTRESS IN A SUPPORTING ROLE,Colette Marchand,Moulin Rouge,False,nm0545376,1925,2015,"actress,miscellaneous",28,False,2021,0,F
+7609,1953,ACTRESS IN A SUPPORTING ROLE,Terry Moore,"Come Back, Little Sheba",False,nm0601930,1929,0,"actress,producer,writer",24,True,2021,92,F
+8092,1954,ACTRESS,Leslie Caron,Lili,False,nm0001989,1931,0,"actress,soundtrack",23,True,2021,90,F
+8093,1964,ACTRESS,Leslie Caron,The L-Shaped Room,False,nm0001989,1931,0,"actress,soundtrack",33,True,2021,90,F
+8094,1954,ACTRESS,Ava Gardner,Mogambo,False,nm0001257,1922,1990,"actress,soundtrack,stunts",32,False,2021,0,F
+8097,1954,ACTRESS,Audrey Hepburn,Roman Holiday,True,nm0000030,1929,1993,"actress,soundtrack",25,False,2021,0,F
+8101,1955,ACTRESS,Audrey Hepburn,Sabrina,False,nm0000030,1929,1993,"actress,soundtrack",26,False,2021,0,F
+8105,1960,ACTRESS,Audrey Hepburn,The Nun's Story,False,nm0000030,1929,1993,"actress,soundtrack",31,False,2021,0,F
+8109,1962,ACTRESS,Audrey Hepburn,Breakfast at Tiffany's,False,nm0000030,1929,1993,"actress,soundtrack",33,False,2021,0,F
+8113,1968,ACTRESS,Audrey Hepburn,Wait until Dark,False,nm0000030,1929,1993,"actress,soundtrack",39,False,2021,0,F
+8121,1954,ACTRESS,Maggie McNamara,The Moon Is Blue,False,nm0573704,1928,1978,actress,26,False,2021,0,F
+8122,1954,ACTRESS IN A SUPPORTING ROLE,Grace Kelly,Mogambo,False,nm0000038,1929,1982,"actress,soundtrack",25,False,2021,0,F
+8144,1955,ACTRESS,Grace Kelly,The Country Girl,True,nm0000038,1929,1982,"actress,soundtrack",26,False,2021,0,F
+8166,1954,ACTRESS IN A SUPPORTING ROLE,Geraldine Page,Hondo,False,nm0656183,1924,1987,"actress,soundtrack",30,False,2021,0,F
+8167,1962,ACTRESS,Geraldine Page,Summer and Smoke,False,nm0656183,1924,1987,"actress,soundtrack",38,False,2021,0,F
+8168,1963,ACTRESS,Geraldine Page,Sweet Bird of Youth,False,nm0656183,1924,1987,"actress,soundtrack",39,False,2021,0,F
+8169,1967,ACTRESS IN A SUPPORTING ROLE,Geraldine Page,You're a Big Boy Now,False,nm0656183,1924,1987,"actress,soundtrack",43,False,2021,0,F
+8170,1973,ACTRESS IN A SUPPORTING ROLE,Geraldine Page,Pete 'n' Tillie,False,nm0656183,1924,1987,"actress,soundtrack",49,False,2021,0,F
+8171,1979,ACTRESS IN A LEADING ROLE,Geraldine Page,Interiors,False,nm0656183,1924,1987,"actress,soundtrack",55,False,2021,0,F
+8172,1985,ACTRESS IN A SUPPORTING ROLE,Geraldine Page,The Pope of Greenwich Village,False,nm0656183,1924,1987,"actress,soundtrack",61,False,2021,0,F
+8173,1986,ACTRESS IN A LEADING ROLE,Geraldine Page,The Trip to Bountiful,True,nm0656183,1924,1987,"actress,soundtrack",62,False,2021,0,F
+8174,1954,ACTRESS IN A SUPPORTING ROLE,Donna Reed,From Here to Eternity,True,nm0001656,1921,1986,"actress,soundtrack",33,False,2021,0,F
+8385,1955,ACTRESS,Dorothy Dandridge,Carmen Jones,False,nm0199268,1922,1965,"actress,soundtrack",33,False,2021,0,F
+8386,1955,ACTRESS,Judy Garland,A Star Is Born,False,nm0000023,1922,1969,"soundtrack,actress",33,False,2021,0,F
+8387,1962,ACTRESS IN A SUPPORTING ROLE,Judy Garland,Judgment at Nuremberg,False,nm0000023,1922,1969,"soundtrack,actress",40,False,2021,0,F
+8388,1955,ACTRESS IN A SUPPORTING ROLE,Nina Foch,Executive Suite,False,nm0001225,1924,2008,"actress,miscellaneous,soundtrack",31,False,2021,0,F
+8389,1955,ACTRESS IN A SUPPORTING ROLE,Katy Jurado,Broken Lance,False,nm0432827,1924,2002,actress,31,False,2021,0,F
+8390,1955,ACTRESS IN A SUPPORTING ROLE,Eva Marie Saint,On the Waterfront,True,nm0001693,1924,0,"actress,producer,soundtrack",31,True,2021,97,F
+8391,1955,ACTRESS IN A SUPPORTING ROLE,Jan Sterling,The High and the Mighty,False,nm0012443,1921,2004,"actress,soundtrack",34,False,2021,0,F
+8632,1956,ACTRESS,Anna Magnani,The Rose Tattoo,True,nm0536167,1908,1973,"actress,soundtrack,writer",48,False,2021,0,F
+8633,1958,ACTRESS,Anna Magnani,Wild Is the Wind,False,nm0536167,1908,1973,"actress,soundtrack,writer",50,False,2021,0,F
+8634,1956,ACTRESS IN A SUPPORTING ROLE,Betsy Blair,Marty,False,nm0086198,1923,2009,actress,33,False,2021,0,F
+8635,1956,ACTRESS IN A SUPPORTING ROLE,Peggy Lee,Pete Kelly's Blues,False,nm0498007,1920,2002,"soundtrack,actress,music_department",36,False,2021,0,F
+8644,1956,ACTRESS IN A SUPPORTING ROLE,Marisa Pavan,The Rose Tattoo,False,nm0667542,1932,0,"actress,soundtrack",24,True,2021,89,F
+8645,1956,ACTRESS IN A SUPPORTING ROLE,Jo Van Fleet,East of Eden,True,nm0886888,1915,1996,"actress,soundtrack",41,False,2021,0,F
+8646,1956,ACTRESS IN A SUPPORTING ROLE,Natalie Wood,Rebel without a Cause,False,nm0000081,1938,1981,"actress,soundtrack,music_department",18,False,2021,0,F
+8662,1962,ACTRESS,Natalie Wood,Splendor in the Grass,False,nm0000081,1938,1981,"actress,soundtrack,music_department",24,False,2021,0,F
+8678,1964,ACTRESS,Natalie Wood,Love with the Proper Stranger,False,nm0000081,1938,1981,"actress,soundtrack,music_department",26,False,2021,0,F
+8999,1957,ACTRESS,Carroll Baker,Baby Doll,False,nm0004647,1931,0,"actress,soundtrack",26,True,2021,90,F
+9001,1957,ACTRESS,Nancy Kelly,The Bad Seed,False,nm0446715,1921,1995,"actress,soundtrack",36,False,2021,0,F
+9017,1957,ACTRESS IN A SUPPORTING ROLE,Eileen Heckart,The Bad Seed,False,nm0373012,1919,2001,actress,38,False,2021,0,F
+9018,1973,ACTRESS IN A SUPPORTING ROLE,Eileen Heckart,Butterflies Are Free,True,nm0373012,1919,2001,actress,54,False,2021,0,F
+9019,1957,ACTRESS IN A SUPPORTING ROLE,Patty McCormack,The Bad Seed,False,nm0566478,1945,0,"actress,soundtrack,music_department",12,True,2021,76,F
+9020,1957,ACTRESS IN A SUPPORTING ROLE,Dorothy Malone,Written on the Wind,True,nm0540416,1924,2018,"actress,soundtrack",33,False,2021,0,F
+9244,1958,ACTRESS,Elizabeth Taylor,Raintree County,False,nm0000072,1932,2011,"actress,soundtrack,producer",26,False,2021,0,F
+9285,1959,ACTRESS,Elizabeth Taylor,Cat on a Hot Tin Roof,False,nm0000072,1932,2011,"actress,soundtrack,producer",27,False,2021,0,F
+9326,1960,ACTRESS,Elizabeth Taylor,"Suddenly, Last Summer",False,nm0000072,1932,2011,"actress,soundtrack,producer",28,False,2021,0,F
+9367,1961,ACTRESS,Elizabeth Taylor,Butterfield 8,True,nm0000072,1932,2011,"actress,soundtrack,producer",29,False,2021,0,F
+9408,1967,ACTRESS,Elizabeth Taylor,Who's Afraid of Virginia Woolf?,True,nm0000072,1932,2011,"actress,soundtrack,producer",35,False,2021,0,F
+9490,1958,ACTRESS,Lana Turner,Peyton Place,False,nm0001805,1921,1995,"actress,soundtrack,producer",37,False,2021,0,F
+9492,1958,ACTRESS,Joanne Woodward,The Three Faces of Eve,True,nm0940946,1930,0,"actress,producer,director",28,True,2021,91,F
+9494,1969,ACTRESS,Joanne Woodward,"Rachel, Rachel",False,nm0940946,1930,0,"actress,producer,director",39,True,2021,91,F
+9496,1974,ACTRESS,Joanne Woodward,"Summer Wishes, Winter Dreams",False,nm0940946,1930,0,"actress,producer,director",44,True,2021,91,F
+9498,1991,ACTRESS IN A LEADING ROLE,Joanne Woodward,Mr. & Mrs. Bridge,False,nm0940946,1930,0,"actress,producer,director",61,True,2021,91,F
+9500,1958,ACTRESS IN A SUPPORTING ROLE,Carolyn Jones,The Bachelor Party,False,nm0427700,1930,1983,"actress,soundtrack",28,False,2021,0,F
+9525,1958,ACTRESS IN A SUPPORTING ROLE,Hope Lange,Peyton Place,False,nm0486136,1933,2003,"actress,soundtrack",25,False,2021,0,F
+9526,1958,ACTRESS IN A SUPPORTING ROLE,Miyoshi Umeki,Sayonara,True,nm0880855,1929,2007,"actress,soundtrack",29,False,2021,0,F
+9527,1958,ACTRESS IN A SUPPORTING ROLE,Diane Varsi,Peyton Place,False,nm0890215,1938,1992,actress,20,False,2021,0,F
+10354,1959,ACTRESS,Shirley MacLaine,Some Came Running,False,nm0000511,1934,0,"actress,soundtrack,writer",25,True,2021,87,F
+10355,1961,ACTRESS,Shirley MacLaine,The Apartment,False,nm0000511,1934,0,"actress,soundtrack,writer",27,True,2021,87,F
+10356,1964,ACTRESS,Shirley MacLaine,Irma La Douce,False,nm0000511,1934,0,"actress,soundtrack,writer",30,True,2021,87,F
+10357,1978,ACTRESS IN A LEADING ROLE,Shirley MacLaine,The Turning Point,False,nm0000511,1934,0,"actress,soundtrack,writer",44,True,2021,87,F
+10358,1984,ACTRESS IN A LEADING ROLE,Shirley MacLaine,Terms of Endearment,True,nm0000511,1934,0,"actress,soundtrack,writer",50,True,2021,87,F
+10359,1959,ACTRESS IN A SUPPORTING ROLE,Peggy Cass,Auntie Mame,False,nm0143918,1924,1999,actress,35,False,2021,0,F
+10360,1959,ACTRESS IN A SUPPORTING ROLE,Martha Hyer,Some Came Running,False,nm0405054,1924,2014,"actress,soundtrack,writer",35,False,2021,0,F
+10361,1959,ACTRESS IN A SUPPORTING ROLE,Maureen Stapleton,Lonelyhearts,False,nm0822972,1925,2006,"actress,soundtrack",34,False,2021,0,F
+10362,1971,ACTRESS IN A SUPPORTING ROLE,Maureen Stapleton,Airport,False,nm0822972,1925,2006,"actress,soundtrack",46,False,2021,0,F
+10363,1979,ACTRESS IN A SUPPORTING ROLE,Maureen Stapleton,Interiors,False,nm0822972,1925,2006,"actress,soundtrack",54,False,2021,0,F
+10364,1982,ACTRESS IN A SUPPORTING ROLE,Maureen Stapleton,Reds,True,nm0822972,1925,2006,"actress,soundtrack",57,False,2021,0,F
+10365,1959,ACTRESS IN A SUPPORTING ROLE,Cara Williams,The Defiant Ones,False,nm0930209,1925,0,"actress,soundtrack",34,True,2021,96,F
+10471,1960,ACTRESS,Doris Day,Pillow Talk,False,nm0000013,1922,2019,"soundtrack,actress,producer",38,False,2021,0,F
+10474,1960,ACTRESS,Simone Signoret,Room at the Top,True,nm0797531,1921,1985,actress,39,False,2021,0,F
+10475,1966,ACTRESS,Simone Signoret,Ship of Fools,False,nm0797531,1921,1985,actress,45,False,2021,0,F
+10476,1960,ACTRESS IN A SUPPORTING ROLE,Hermione Baddeley,Room at the Top,False,nm0045968,1906,1986,"actress,soundtrack",54,False,2021,0,F
+10477,1960,ACTRESS IN A SUPPORTING ROLE,Susan Kohner,Imitation of Life,False,nm0463435,1936,0,"actress,soundtrack",24,True,2021,85,F
+10478,1960,ACTRESS IN A SUPPORTING ROLE,Juanita Moore,Imitation of Life,False,nm0601428,1914,2014,actress,46,False,2021,0,F
+10791,1961,ACTRESS,Melina Mercouri,Never on Sunday,False,nm0580479,1920,1994,"actress,soundtrack,writer",41,False,2021,0,F
+10792,1961,ACTRESS IN A SUPPORTING ROLE,Glynis Johns,The Sundowners,False,nm0424318,1923,0,"actress,soundtrack",38,True,2021,98,F
+10794,1961,ACTRESS IN A SUPPORTING ROLE,Shirley Jones,Elmer Gantry,True,nm0429250,1934,0,"actress,soundtrack,music_department",27,True,2021,87,F
+10808,1961,ACTRESS IN A SUPPORTING ROLE,Shirley Knight,The Dark at the Top of the Stairs,False,nm0004309,1936,2020,"actress,producer,soundtrack",25,False,2021,0,F
+10814,1963,ACTRESS IN A SUPPORTING ROLE,Shirley Knight,Sweet Bird of Youth,False,nm0004309,1936,2020,"actress,producer,soundtrack",27,False,2021,0,F
+10820,1961,ACTRESS IN A SUPPORTING ROLE,Janet Leigh,Psycho,False,nm0001463,1927,2004,"actress,soundtrack,miscellaneous",34,False,2021,0,F
+10822,1961,ACTRESS IN A SUPPORTING ROLE,Mary Ure,Sons and Lovers,False,nm0881829,1933,1975,actress,28,False,2021,0,F
+11368,1962,ACTRESS,Piper Laurie,The Hustler,False,nm0001453,1932,0,"actress,soundtrack,director",30,True,2021,89,F
+11369,1977,ACTRESS IN A SUPPORTING ROLE,Piper Laurie,Carrie,False,nm0001453,1932,0,"actress,soundtrack,director",45,True,2021,89,F
+11370,1987,ACTRESS IN A SUPPORTING ROLE,Piper Laurie,Children of a Lesser God,False,nm0001453,1932,0,"actress,soundtrack,director",55,True,2021,89,F
+11371,1962,ACTRESS,Sophia Loren,Two Women,True,nm0000047,1934,0,"actress,soundtrack",28,True,2021,87,F
+11372,1965,ACTRESS,Sophia Loren,Marriage Italian Style,False,nm0000047,1934,0,"actress,soundtrack",31,True,2021,87,F
+11373,1962,ACTRESS IN A SUPPORTING ROLE,Lotte Lenya,The Roman Spring of Mrs. Stone,False,nm0502322,1898,1981,"actress,soundtrack",64,False,2021,0,F
+11374,1962,ACTRESS IN A SUPPORTING ROLE,Una Merkel,Summer and Smoke,False,nm0580916,1903,1986,"actress,soundtrack,miscellaneous",59,False,2021,0,F
+11375,1962,ACTRESS IN A SUPPORTING ROLE,Rita Moreno,West Side Story,True,nm0001549,1931,0,"actress,soundtrack,producer",31,True,2021,90,F
+11547,1963,ACTRESS,Anne Bancroft,The Miracle Worker,True,nm0000843,1931,2005,"actress,soundtrack,director",32,False,2021,0,F
+11549,1965,ACTRESS,Anne Bancroft,The Pumpkin Eater,False,nm0000843,1931,2005,"actress,soundtrack,director",34,False,2021,0,F
+11551,1968,ACTRESS,Anne Bancroft,The Graduate,False,nm0000843,1931,2005,"actress,soundtrack,director",37,False,2021,0,F
+11553,1978,ACTRESS IN A LEADING ROLE,Anne Bancroft,The Turning Point,False,nm0000843,1931,2005,"actress,soundtrack,director",47,False,2021,0,F
+11555,1986,ACTRESS IN A LEADING ROLE,Anne Bancroft,Agnes of God,False,nm0000843,1931,2005,"actress,soundtrack,director",55,False,2021,0,F
+11557,1963,ACTRESS,Lee Remick,Days of Wine and Roses,False,nm0001665,1935,1991,"actress,soundtrack",28,False,2021,0,F
+11558,1963,ACTRESS IN A SUPPORTING ROLE,Mary Badham,To Kill a Mockingbird,False,nm0000825,1952,0,actress,11,True,2021,69,F
+11559,1963,ACTRESS IN A SUPPORTING ROLE,Patty Duke,The Miracle Worker,True,nm0001157,1946,2016,"actress,soundtrack,producer",17,False,2021,0,F
+11908,1964,ACTRESS,Patricia Neal,Hud,True,nm0623658,1926,2010,"actress,soundtrack",38,False,2021,0,F
+11911,1969,ACTRESS,Patricia Neal,The Subject Was Roses,False,nm0623658,1926,2010,"actress,soundtrack",43,False,2021,0,F
+11914,1964,ACTRESS,Rachel Roberts,This Sporting Life,False,nm0731499,1927,1980,"actress,soundtrack",37,False,2021,0,F
+11947,1964,ACTRESS IN A SUPPORTING ROLE,Diane Cilento,Tom Jones,False,nm0162283,1932,2011,"actress,writer,director",32,False,2021,0,F
+11948,1964,ACTRESS IN A SUPPORTING ROLE,Joyce Redman,Tom Jones,False,nm0715010,1915,2012,actress,49,False,2021,0,F
+11949,1966,ACTRESS IN A SUPPORTING ROLE,Joyce Redman,Othello,False,nm0715010,1915,2012,actress,51,False,2021,0,F
+11950,1964,ACTRESS IN A SUPPORTING ROLE,Margaret Rutherford,The V.I.P.s,True,nm0751983,1892,1972,actress,72,False,2021,0,F
+11951,1964,ACTRESS IN A SUPPORTING ROLE,Lilia Skala,Lilies of the Field,False,nm0803785,1896,1994,actress,68,False,2021,0,F
+12168,1965,ACTRESS,Julie Andrews,Mary Poppins,True,nm0000267,1935,0,"actress,soundtrack,producer",30,True,2021,86,F
+12173,1966,ACTRESS,Julie Andrews,The Sound of Music,False,nm0000267,1935,0,"actress,soundtrack,producer",31,True,2021,86,F
+12178,1983,ACTRESS IN A LEADING ROLE,Julie Andrews,Victor/Victoria,False,nm0000267,1935,0,"actress,soundtrack,producer",48,True,2021,86,F
+12183,1965,ACTRESS,Debbie Reynolds,The Unsinkable Molly Brown,False,nm0001666,1932,2016,"actress,soundtrack,writer",33,False,2021,0,F
+12197,1965,ACTRESS,Kim Stanley,Seance on a Wet Afternoon,False,nm0822535,1925,2001,actress,40,False,2021,0,F
+12200,1983,ACTRESS IN A SUPPORTING ROLE,Kim Stanley,Frances,False,nm0822535,1925,2001,actress,58,False,2021,0,F
+12203,1965,ACTRESS IN A SUPPORTING ROLE,Grayson Hall,The Night of the Iguana,False,nm0355621,1922,1985,actress,43,False,2021,0,F
+12204,1965,ACTRESS IN A SUPPORTING ROLE,Lila Kedrova,Zorba the Greek,True,nm0444321,1918,2000,"actress,soundtrack",47,False,2021,0,F
+12562,1966,ACTRESS,Julie Christie,Darling,True,nm0001046,1940,0,"actress,soundtrack",26,True,2021,81,F
+12568,1972,ACTRESS,Julie Christie,McCabe & Mrs. Miller,False,nm0001046,1940,0,"actress,soundtrack",32,True,2021,81,F
+12574,1998,ACTRESS IN A LEADING ROLE,Julie Christie,Afterglow,False,nm0001046,1940,0,"actress,soundtrack",58,True,2021,81,F
+12580,2008,ACTRESS IN A LEADING ROLE,Julie Christie,Away from Her,False,nm0001046,1940,0,"actress,soundtrack",68,True,2021,81,F
+12586,1966,ACTRESS,Samantha Eggar,The Collector,False,nm0002058,1939,0,"actress,soundtrack",27,True,2021,82,F
+12587,1966,ACTRESS,Elizabeth Hartman,A Patch of Blue,False,nm0366946,1943,1987,actress,23,False,2021,0,F
+12591,1966,ACTRESS IN A SUPPORTING ROLE,Ruth Gordon,Inside Daisy Clover,False,nm0002106,1896,1985,"actress,writer,soundtrack",70,False,2021,0,F
+12596,1969,ACTRESS IN A SUPPORTING ROLE,Ruth Gordon,Rosemary's Baby,True,nm0002106,1896,1985,"actress,writer,soundtrack",73,False,2021,0,F
+12601,1966,ACTRESS IN A SUPPORTING ROLE,Maggie Smith,Othello,False,nm0001749,1934,0,"actress,soundtrack",32,True,2021,87,F
+12636,1970,ACTRESS,Maggie Smith,The Prime of Miss Jean Brodie,True,nm0001749,1934,0,"actress,soundtrack",36,True,2021,87,F
+12671,1973,ACTRESS,Maggie Smith,Travels with My Aunt,False,nm0001749,1934,0,"actress,soundtrack",39,True,2021,87,F
+12706,1979,ACTRESS IN A SUPPORTING ROLE,Maggie Smith,California Suite,True,nm0001749,1934,0,"actress,soundtrack",45,True,2021,87,F
+12741,1987,ACTRESS IN A SUPPORTING ROLE,Maggie Smith,A Room with a View,False,nm0001749,1934,0,"actress,soundtrack",53,True,2021,87,F
+12776,2002,ACTRESS IN A SUPPORTING ROLE,Maggie Smith,Gosford Park,False,nm0001749,1934,0,"actress,soundtrack",68,True,2021,87,F
+12811,1966,ACTRESS IN A SUPPORTING ROLE,Peggy Wood,The Sound of Music,False,nm0939931,1892,1978,"actress,soundtrack",74,False,2021,0,F
+13113,1967,ACTRESS,Ida Kaminska,The Shop on Main Street,False,nm0436706,1899,1980,actress,68,False,2021,0,F
+13114,1967,ACTRESS,Lynn Redgrave,Georgy Girl,False,nm0001655,1943,2010,"actress,soundtrack",24,False,2021,0,F
+13115,1999,ACTRESS IN A SUPPORTING ROLE,Lynn Redgrave,Gods and Monsters,False,nm0001655,1943,2010,"actress,soundtrack",56,False,2021,0,F
+13116,1967,ACTRESS,Vanessa Redgrave,Morgan!,False,nm0000603,1937,0,"actress,soundtrack,producer",30,True,2021,84,F
+13117,1969,ACTRESS,Vanessa Redgrave,Isadora,False,nm0000603,1937,0,"actress,soundtrack,producer",32,True,2021,84,F
+13118,1972,ACTRESS,Vanessa Redgrave,"Mary, Queen of Scots",False,nm0000603,1937,0,"actress,soundtrack,producer",35,True,2021,84,F
+13119,1978,ACTRESS IN A SUPPORTING ROLE,Vanessa Redgrave,Julia,True,nm0000603,1937,0,"actress,soundtrack,producer",41,True,2021,84,F
+13120,1985,ACTRESS IN A LEADING ROLE,Vanessa Redgrave,The Bostonians,False,nm0000603,1937,0,"actress,soundtrack,producer",48,True,2021,84,F
+13121,1993,ACTRESS IN A SUPPORTING ROLE,Vanessa Redgrave,Howards End,False,nm0000603,1937,0,"actress,soundtrack,producer",56,True,2021,84,F
+13122,1967,ACTRESS IN A SUPPORTING ROLE,Sandy Dennis,Who's Afraid of Virginia Woolf?,True,nm0006800,1937,1992,actress,30,False,2021,0,F
+13126,1967,ACTRESS IN A SUPPORTING ROLE,Vivien Merchant,Alfie,False,nm0580357,1929,1982,actress,38,False,2021,0,F
+13614,1968,ACTRESS,Faye Dunaway,Bonnie and Clyde,False,nm0001159,1941,0,"actress,producer,director",27,True,2021,80,F
+13615,1975,ACTRESS,Faye Dunaway,Chinatown,False,nm0001159,1941,0,"actress,producer,director",34,True,2021,80,F
+13616,1977,ACTRESS IN A LEADING ROLE,Faye Dunaway,Network,True,nm0001159,1941,0,"actress,producer,director",36,True,2021,80,F
+13617,1968,ACTRESS IN A SUPPORTING ROLE,Carol Channing,Thoroughly Modern Millie,False,nm0151919,1921,2019,"actress,soundtrack",47,False,2021,0,F
+13618,1968,ACTRESS IN A SUPPORTING ROLE,Mildred Natwick,Barefoot in the Park,False,nm0622450,1905,1994,"actress,soundtrack",63,False,2021,0,F
+13619,1968,ACTRESS IN A SUPPORTING ROLE,Estelle Parsons,Bonnie and Clyde,True,nm0663820,1927,0,"actress,soundtrack",41,True,2021,94,F
+13620,1969,ACTRESS IN A SUPPORTING ROLE,Estelle Parsons,"Rachel, Rachel",False,nm0663820,1927,0,"actress,soundtrack",42,True,2021,94,F
+13621,1968,ACTRESS IN A SUPPORTING ROLE,Beah Richards,Guess Who's Coming to Dinner,False,nm0723968,1920,2000,actress,48,False,2021,0,F
+13622,1968,ACTRESS IN A SUPPORTING ROLE,Katharine Ross,The Graduate,False,nm0001684,1940,0,"actress,writer,soundtrack",28,True,2021,81,F
+25315,1969,ACTRESS,Barbra Streisand,Funny Girl,True,nm0000659,1942,0,"soundtrack,producer,actress",27,True,2021,79,F
+25316,1974,ACTRESS,Barbra Streisand,The Way We Were,False,nm0000659,1942,0,"soundtrack,producer,actress",32,True,2021,79,F
+25317,1969,ACTRESS IN A SUPPORTING ROLE,Lynn Carlin,Faces,False,nm0137524,1938,0,"actress,soundtrack",31,True,2021,83,F
+25318,1969,ACTRESS IN A SUPPORTING ROLE,Sondra Locke,The Heart Is a Lonely Hunter,False,nm0516800,1944,2018,"actress,director,soundtrack",25,False,2021,0,F
+25319,1969,ACTRESS IN A SUPPORTING ROLE,Kay Medford,Funny Girl,False,nm0575552,1919,1980,actress,50,False,2021,0,F
+25488,1970,ACTRESS,Jane Fonda,"They Shoot Horses, Don't They?",False,nm0000404,1937,0,"actress,producer,soundtrack",33,True,2021,84,F
+25489,1972,ACTRESS,Jane Fonda,Klute,True,nm0000404,1937,0,"actress,producer,soundtrack",35,True,2021,84,F
+25490,1978,ACTRESS IN A LEADING ROLE,Jane Fonda,Julia,False,nm0000404,1937,0,"actress,producer,soundtrack",41,True,2021,84,F
+25491,1979,ACTRESS IN A LEADING ROLE,Jane Fonda,Coming Home,True,nm0000404,1937,0,"actress,producer,soundtrack",42,True,2021,84,F
+25492,1980,ACTRESS IN A LEADING ROLE,Jane Fonda,The China Syndrome,False,nm0000404,1937,0,"actress,producer,soundtrack",43,True,2021,84,F
+25493,1982,ACTRESS IN A SUPPORTING ROLE,Jane Fonda,On Golden Pond,False,nm0000404,1937,0,"actress,producer,soundtrack",45,True,2021,84,F
+25494,1987,ACTRESS IN A LEADING ROLE,Jane Fonda,The Morning After,False,nm0000404,1937,0,"actress,producer,soundtrack",50,True,2021,84,F
+25495,1970,ACTRESS,Liza Minnelli,The Sterile Cuckoo,False,nm0591485,1946,0,"soundtrack,actress,producer",24,True,2021,75,F
+25496,1973,ACTRESS,Liza Minnelli,Cabaret,True,nm0591485,1946,0,"soundtrack,actress,producer",27,True,2021,75,F
+25497,1970,ACTRESS IN A SUPPORTING ROLE,Catherine Burns,Last Summer,False,nm0122610,1945,2019,actress,25,False,2021,0,F
+25507,1970,ACTRESS IN A SUPPORTING ROLE,Dyan Cannon,Bob & Carol & Ted & Alice,False,nm0001007,1937,0,"actress,director,writer",33,True,2021,84,F
+25508,1979,ACTRESS IN A SUPPORTING ROLE,Dyan Cannon,Heaven Can Wait,False,nm0001007,1937,0,"actress,director,writer",42,True,2021,84,F
+25509,1970,ACTRESS IN A SUPPORTING ROLE,Goldie Hawn,Cactus Flower,True,nm0000443,1945,0,"actress,producer,soundtrack",25,True,2021,76,F
+25510,1981,ACTRESS IN A LEADING ROLE,Goldie Hawn,Private Benjamin,False,nm0000443,1945,0,"actress,producer,soundtrack",36,True,2021,76,F
+25511,1970,ACTRESS IN A SUPPORTING ROLE,Sylvia Miles,Midnight Cowboy,False,nm0587249,1924,2019,actress,46,False,2021,0,F
+25512,1976,ACTRESS IN A SUPPORTING ROLE,Sylvia Miles,"Farewell, My Lovely",False,nm0587249,1924,2019,actress,52,False,2021,0,F
+25513,1970,ACTRESS IN A SUPPORTING ROLE,Susannah York,"They Shoot Horses, Don't They?",False,nm0948772,1939,2011,"actress,writer,soundtrack",31,False,2021,0,F
+25639,1971,ACTRESS,Jane Alexander,The Great White Hope,False,nm0000737,1939,0,"actress,producer,soundtrack",32,True,2021,82,F
+25651,1977,ACTRESS IN A SUPPORTING ROLE,Jane Alexander,All the President's Men,False,nm0000737,1939,0,"actress,producer,soundtrack",38,True,2021,82,F
+25663,1980,ACTRESS IN A SUPPORTING ROLE,Jane Alexander,Kramer vs. Kramer,False,nm0000737,1939,0,"actress,producer,soundtrack",41,True,2021,82,F
+25675,1984,ACTRESS IN A LEADING ROLE,Jane Alexander,Testament,False,nm0000737,1939,0,"actress,producer,soundtrack",45,True,2021,82,F
+25687,1971,ACTRESS,Glenda Jackson,Women in Love,True,nm0413559,1936,0,"actress,soundtrack",35,True,2021,85,F
+25688,1972,ACTRESS,Glenda Jackson,Sunday Bloody Sunday,False,nm0413559,1936,0,"actress,soundtrack",36,True,2021,85,F
+25689,1974,ACTRESS,Glenda Jackson,A Touch of Class,True,nm0413559,1936,0,"actress,soundtrack",38,True,2021,85,F
+25690,1976,ACTRESS,Glenda Jackson,Hedda,False,nm0413559,1936,0,"actress,soundtrack",40,True,2021,85,F
+25691,1971,ACTRESS,Ali MacGraw,Love Story,False,nm0532298,1939,0,"actress,producer,soundtrack",32,True,2021,82,F
+25692,1971,ACTRESS,Sarah Miles,Ryan's Daughter,False,nm0587234,1941,0,"actress,soundtrack",30,True,2021,80,F
+25709,1971,ACTRESS,Carrie Snodgress,Diary of a Mad Housewife,False,nm0811202,1945,2004,actress,26,False,2021,0,F
+25710,1971,ACTRESS IN A SUPPORTING ROLE,Karen Black,Five Easy Pieces,False,nm0000947,1939,2013,"actress,soundtrack,writer",32,False,2021,0,F
+25722,1971,ACTRESS IN A SUPPORTING ROLE,Sally Kellerman,M*A*S*H,False,nm0001419,1937,0,"actress,soundtrack,miscellaneous",34,True,2021,84,F
+26061,1972,ACTRESS,Janet Suzman,Nicholas and Alexandra,False,nm0840531,1939,0,"actress,director,soundtrack",33,True,2021,82,F
+26062,1972,ACTRESS IN A SUPPORTING ROLE,Ann-Margret,Carnal Knowledge,False,nm0000268,1941,0,"actress,soundtrack",31,True,2021,80,F
+26063,1976,ACTRESS,Ann-Margret,Tommy,False,nm0000268,1941,0,"actress,soundtrack",35,True,2021,80,F
+26064,1972,ACTRESS IN A SUPPORTING ROLE,Ellen Burstyn,The Last Picture Show,False,nm0000995,1932,0,"actress,producer,soundtrack",40,True,2021,89,F
+26065,1974,ACTRESS,Ellen Burstyn,The Exorcist,False,nm0000995,1932,0,"actress,producer,soundtrack",42,True,2021,89,F
+26066,1975,ACTRESS,Ellen Burstyn,Alice Doesn't Live Here Anymore,True,nm0000995,1932,0,"actress,producer,soundtrack",43,True,2021,89,F
+26067,1979,ACTRESS IN A LEADING ROLE,Ellen Burstyn,"Same Time, Next Year",False,nm0000995,1932,0,"actress,producer,soundtrack",47,True,2021,89,F
+26068,1981,ACTRESS IN A LEADING ROLE,Ellen Burstyn,Resurrection,False,nm0000995,1932,0,"actress,producer,soundtrack",49,True,2021,89,F
+26069,2001,ACTRESS IN A LEADING ROLE,Ellen Burstyn,Requiem for a Dream,False,nm0000995,1932,0,"actress,producer,soundtrack",69,True,2021,89,F
+26070,1972,ACTRESS IN A SUPPORTING ROLE,Barbara Harris,Who Is Harry Kellerman and Why Is He Saying Those Terrible Things about Me?,False,nm0364455,1935,2018,"actress,soundtrack",37,False,2021,0,F
+26088,1972,ACTRESS IN A SUPPORTING ROLE,Cloris Leachman,The Last Picture Show,True,nm0001458,1926,2021,"actress,soundtrack",46,False,2021,0,F
+26089,1972,ACTRESS IN A SUPPORTING ROLE,Margaret Leighton,The Go-Between,False,nm0500364,1922,1976,actress,50,False,2021,0,F
+26196,1973,ACTRESS,Diana Ross,Lady Sings the Blues,False,nm0005384,1944,0,"soundtrack,actress,producer",29,True,2021,77,F
+26197,1973,ACTRESS,Cicely Tyson,Sounder,False,nm0001807,1924,2021,"actress,soundtrack,producer",49,False,2021,0,F
+26198,1973,ACTRESS,Liv Ullmann,The Emigrants,False,nm0880521,1938,0,"actress,director,writer",35,True,2021,83,F
+26199,1977,ACTRESS IN A LEADING ROLE,Liv Ullmann,Face to Face,False,nm0880521,1938,0,"actress,director,writer",39,True,2021,83,F
+26200,1973,ACTRESS IN A SUPPORTING ROLE,Jeannie Berlin,The Heartbreak Kid,False,nm0075588,1949,0,"actress,writer,director",24,True,2021,72,F
+26201,1973,ACTRESS IN A SUPPORTING ROLE,Susan Tyrrell,Fat City,False,nm0879073,1945,2012,"actress,soundtrack,writer",28,False,2021,0,F
+26584,1974,ACTRESS,Marsha Mason,Cinderella Liberty,False,nm0556850,1942,0,"actress,soundtrack,director",32,True,2021,79,F
+26586,1978,ACTRESS IN A LEADING ROLE,Marsha Mason,The Goodbye Girl,False,nm0556850,1942,0,"actress,soundtrack,director",36,True,2021,79,F
+26588,1980,ACTRESS IN A LEADING ROLE,Marsha Mason,Chapter Two,False,nm0556850,1942,0,"actress,soundtrack,director",38,True,2021,79,F
+26590,1982,ACTRESS IN A LEADING ROLE,Marsha Mason,Only When I Laugh,False,nm0556850,1942,0,"actress,soundtrack,director",40,True,2021,79,F
+26592,1974,ACTRESS IN A SUPPORTING ROLE,Linda Blair,The Exorcist,False,nm0000304,1959,0,"actress,soundtrack,producer",15,True,2021,62,F
+26596,1974,ACTRESS IN A SUPPORTING ROLE,Candy Clark,American Graffiti,False,nm0163748,1947,0,"actress,soundtrack",27,True,2021,74,F
+26597,1974,ACTRESS IN A SUPPORTING ROLE,Madeline Kahn,Paper Moon,False,nm0001404,1942,1999,"actress,soundtrack",32,False,2021,0,F
+26598,1975,ACTRESS IN A SUPPORTING ROLE,Madeline Kahn,Blazing Saddles,False,nm0001404,1942,1999,"actress,soundtrack",33,False,2021,0,F
+26599,1974,ACTRESS IN A SUPPORTING ROLE,Tatum O'Neal,Paper Moon,True,nm0001575,1963,0,"actress,producer,soundtrack",11,True,2021,58,F
+26601,1974,ACTRESS IN A SUPPORTING ROLE,Sylvia Sidney,"Summer Wishes, Winter Dreams",False,nm0796662,1910,1999,actress,64,False,2021,0,F
+26714,1975,ACTRESS,Diahann Carroll,Claudine,False,nm0140792,1935,2019,"actress,soundtrack",40,False,2021,0,F
+26715,1975,ACTRESS,Valerie Perrine,Lenny,False,nm0674781,1943,0,actress,32,True,2021,78,F
+26716,1975,ACTRESS,Gena Rowlands,A Woman under the Influence,False,nm0001687,1930,0,"actress,writer,soundtrack",45,True,2021,91,F
+26717,1981,ACTRESS IN A LEADING ROLE,Gena Rowlands,Gloria,False,nm0001687,1930,0,"actress,writer,soundtrack",51,True,2021,91,F
+26718,1975,ACTRESS IN A SUPPORTING ROLE,Valentina Cortese,Day for Night,False,nm0181305,1923,2019,"actress,camera_department,miscellaneous",52,False,2021,0,F
+26719,1975,ACTRESS IN A SUPPORTING ROLE,Diane Ladd,Alice Doesn't Live Here Anymore,False,nm0002663,1935,0,"actress,soundtrack,director",40,True,2021,86,F
+26720,1991,ACTRESS IN A SUPPORTING ROLE,Diane Ladd,Wild at Heart,False,nm0002663,1935,0,"actress,soundtrack,director",56,True,2021,86,F
+26721,1992,ACTRESS IN A SUPPORTING ROLE,Diane Ladd,Rambling Rose,False,nm0002663,1935,0,"actress,soundtrack,director",57,True,2021,86,F
+26722,1975,ACTRESS IN A SUPPORTING ROLE,Talia Shire,The Godfather Part II,False,nm0001735,1946,0,"actress,producer,director",29,True,2021,75,F
+26723,1977,ACTRESS IN A LEADING ROLE,Talia Shire,Rocky,False,nm0001735,1946,0,"actress,producer,director",31,True,2021,75,F
+26775,1976,ACTRESS,Isabelle Adjani,The Story of Adele H.,False,nm0000254,1955,0,"actress,soundtrack,producer",21,True,2021,66,F
+26776,1990,ACTRESS IN A LEADING ROLE,Isabelle Adjani,Camille Claudel,False,nm0000254,1955,0,"actress,soundtrack,producer",35,True,2021,66,F
+26777,1976,ACTRESS,Louise Fletcher,One Flew over the Cuckoo's Nest,True,nm0001221,1934,0,actress,42,True,2021,87,F
+26780,1976,ACTRESS,Carol Kane,Hester Street,False,nm0001406,1952,0,"actress,soundtrack",24,True,2021,69,F
+26783,1976,ACTRESS IN A SUPPORTING ROLE,Ronee Blakley,Nashville,False,nm0086867,1945,0,"actress,soundtrack,composer",31,True,2021,76,F
+26784,1976,ACTRESS IN A SUPPORTING ROLE,Lily Tomlin,Nashville,False,nm0005499,1939,0,"actress,producer,soundtrack",37,True,2021,82,F
+26785,1976,ACTRESS IN A SUPPORTING ROLE,Brenda Vaccaro,Jacqueline Susann's Once Is Not Enough,False,nm0882853,1939,0,actress,37,True,2021,82,F
+26819,1977,ACTRESS IN A LEADING ROLE,Marie-Christine Barrault,"Cousin, Cousine",False,nm0056763,1944,0,"actress,writer,producer",33,True,2021,77,F
+26820,1977,ACTRESS IN A LEADING ROLE,Sissy Spacek,Carrie,False,nm0000651,1949,0,"actress,soundtrack,art_department",28,True,2021,72,F
+26821,1981,ACTRESS IN A LEADING ROLE,Sissy Spacek,Coal Miner's Daughter,True,nm0000651,1949,0,"actress,soundtrack,art_department",32,True,2021,72,F
+26822,1983,ACTRESS IN A LEADING ROLE,Sissy Spacek,Missing,False,nm0000651,1949,0,"actress,soundtrack,art_department",34,True,2021,72,F
+26823,1985,ACTRESS IN A LEADING ROLE,Sissy Spacek,The River,False,nm0000651,1949,0,"actress,soundtrack,art_department",36,True,2021,72,F
+26824,1987,ACTRESS IN A LEADING ROLE,Sissy Spacek,Crimes of the Heart,False,nm0000651,1949,0,"actress,soundtrack,art_department",38,True,2021,72,F
+26825,2002,ACTRESS IN A LEADING ROLE,Sissy Spacek,In the Bedroom,False,nm0000651,1949,0,"actress,soundtrack,art_department",53,True,2021,72,F
+26826,1977,ACTRESS IN A SUPPORTING ROLE,Jodie Foster,Taxi Driver,False,nm0000149,1962,0,"actress,director,producer",15,True,2021,59,F
+26827,1989,ACTRESS IN A LEADING ROLE,Jodie Foster,The Accused,True,nm0000149,1962,0,"actress,director,producer",27,True,2021,59,F
+26828,1992,ACTRESS IN A LEADING ROLE,Jodie Foster,The Silence of the Lambs,True,nm0000149,1962,0,"actress,director,producer",30,True,2021,59,F
+26829,1995,ACTRESS IN A LEADING ROLE,Jodie Foster,Nell,False,nm0000149,1962,0,"actress,director,producer",33,True,2021,59,F
+26830,1977,ACTRESS IN A SUPPORTING ROLE,Beatrice Straight,Network,True,nm0833152,1914,2001,actress,63,False,2021,0,F
+26883,1978,ACTRESS IN A LEADING ROLE,Diane Keaton,Annie Hall,True,nm0000473,1946,0,"actress,producer,soundtrack",32,True,2021,75,F
+26884,1982,ACTRESS IN A LEADING ROLE,Diane Keaton,Reds,False,nm0000473,1946,0,"actress,producer,soundtrack",36,True,2021,75,F
+26885,1997,ACTRESS IN A LEADING ROLE,Diane Keaton,Marvin's Room,False,nm0000473,1946,0,"actress,producer,soundtrack",51,True,2021,75,F
+26886,2004,ACTRESS IN A LEADING ROLE,Diane Keaton,Something's Gotta Give,False,nm0000473,1946,0,"actress,producer,soundtrack",58,True,2021,75,F
+26887,1978,ACTRESS IN A SUPPORTING ROLE,Leslie Browne,The Turning Point,False,nm0115038,1957,0,actress,21,True,2021,64,F
+26888,1978,ACTRESS IN A SUPPORTING ROLE,Quinn Cummings,The Goodbye Girl,False,nm0191944,1967,0,actress,11,True,2021,54,F
+26889,1978,ACTRESS IN A SUPPORTING ROLE,Melinda Dillon,Close Encounters of the Third Kind,False,nm0227039,1939,0,"actress,soundtrack",39,True,2021,82,F
+26890,1982,ACTRESS IN A SUPPORTING ROLE,Melinda Dillon,Absence of Malice,False,nm0227039,1939,0,"actress,soundtrack",43,True,2021,82,F
+26891,1978,ACTRESS IN A SUPPORTING ROLE,Tuesday Weld,Looking for Mr. Goodbar,False,nm0001839,1943,0,"actress,soundtrack",35,True,2021,78,F
+27147,1979,ACTRESS IN A LEADING ROLE,Jill Clayburgh,An Unmarried Woman,False,nm0001049,1944,2010,"actress,soundtrack",35,False,2021,0,F
+27148,1980,ACTRESS IN A LEADING ROLE,Jill Clayburgh,Starting Over,False,nm0001049,1944,2010,"actress,soundtrack",36,False,2021,0,F
+27149,1979,ACTRESS IN A SUPPORTING ROLE,Penelope Milford,Coming Home,False,nm0587340,1948,0,actress,31,True,2021,73,F
+27150,1979,ACTRESS IN A SUPPORTING ROLE,Meryl Streep,The Deer Hunter,False,nm0000658,1949,0,"actress,soundtrack,producer",30,True,2021,72,F
+27151,1980,ACTRESS IN A SUPPORTING ROLE,Meryl Streep,Kramer vs. Kramer,True,nm0000658,1949,0,"actress,soundtrack,producer",31,True,2021,72,F
+27152,1982,ACTRESS IN A LEADING ROLE,Meryl Streep,The French Lieutenant's Woman,False,nm0000658,1949,0,"actress,soundtrack,producer",33,True,2021,72,F
+27153,1983,ACTRESS IN A LEADING ROLE,Meryl Streep,Sophie's Choice,True,nm0000658,1949,0,"actress,soundtrack,producer",34,True,2021,72,F
+27154,1984,ACTRESS IN A LEADING ROLE,Meryl Streep,Silkwood,False,nm0000658,1949,0,"actress,soundtrack,producer",35,True,2021,72,F
+27155,1986,ACTRESS IN A LEADING ROLE,Meryl Streep,Out of Africa,False,nm0000658,1949,0,"actress,soundtrack,producer",37,True,2021,72,F
+27156,1988,ACTRESS IN A LEADING ROLE,Meryl Streep,Ironweed,False,nm0000658,1949,0,"actress,soundtrack,producer",39,True,2021,72,F
+27157,1989,ACTRESS IN A LEADING ROLE,Meryl Streep,A Cry in the Dark,False,nm0000658,1949,0,"actress,soundtrack,producer",40,True,2021,72,F
+27158,1991,ACTRESS IN A LEADING ROLE,Meryl Streep,Postcards from the Edge,False,nm0000658,1949,0,"actress,soundtrack,producer",42,True,2021,72,F
+27159,1996,ACTRESS IN A LEADING ROLE,Meryl Streep,The Bridges of Madison County,False,nm0000658,1949,0,"actress,soundtrack,producer",47,True,2021,72,F
+27160,1999,ACTRESS IN A LEADING ROLE,Meryl Streep,One True Thing,False,nm0000658,1949,0,"actress,soundtrack,producer",50,True,2021,72,F
+27161,2000,ACTRESS IN A LEADING ROLE,Meryl Streep,Music of the Heart,False,nm0000658,1949,0,"actress,soundtrack,producer",51,True,2021,72,F
+27162,2003,ACTRESS IN A SUPPORTING ROLE,Meryl Streep,Adaptation,False,nm0000658,1949,0,"actress,soundtrack,producer",54,True,2021,72,F
+27163,2007,ACTRESS IN A LEADING ROLE,Meryl Streep,The Devil Wears Prada,False,nm0000658,1949,0,"actress,soundtrack,producer",58,True,2021,72,F
+27164,2009,ACTRESS IN A LEADING ROLE,Meryl Streep,Doubt,False,nm0000658,1949,0,"actress,soundtrack,producer",60,True,2021,72,F
+27165,2010,ACTRESS IN A LEADING ROLE,Meryl Streep,Julie & Julia,False,nm0000658,1949,0,"actress,soundtrack,producer",61,True,2021,72,F
+27166,2012,ACTRESS IN A LEADING ROLE,Meryl Streep,The Iron Lady,True,nm0000658,1949,0,"actress,soundtrack,producer",63,True,2021,72,F
+27167,2014,ACTRESS IN A LEADING ROLE,Meryl Streep,August: Osage County,False,nm0000658,1949,0,"actress,soundtrack,producer",65,True,2021,72,F
+27168,2015,ACTRESS IN A SUPPORTING ROLE,Meryl Streep,Into the Woods,False,nm0000658,1949,0,"actress,soundtrack,producer",66,True,2021,72,F
+27169,2017,ACTRESS IN A LEADING ROLE,Meryl Streep,Florence Foster Jenkins,False,nm0000658,1949,0,"actress,soundtrack,producer",68,True,2021,72,F
+27170,2018,ACTRESS IN A LEADING ROLE,Meryl Streep,The Post,False,nm0000658,1949,0,"actress,soundtrack,producer",69,True,2021,72,F
+27340,1980,ACTRESS IN A LEADING ROLE,Sally Field,Norma Rae,True,nm0000398,1946,0,"actress,producer,soundtrack",34,True,2021,75,F
+27342,1985,ACTRESS IN A LEADING ROLE,Sally Field,Places in the Heart,True,nm0000398,1946,0,"actress,producer,soundtrack",39,True,2021,75,F
+27344,2013,ACTRESS IN A SUPPORTING ROLE,Sally Field,Lincoln,False,nm0000398,1946,0,"actress,producer,soundtrack",67,True,2021,75,F
+27346,1980,ACTRESS IN A LEADING ROLE,Bette Midler,The Rose,False,nm0000541,1945,0,"soundtrack,actress,producer",35,True,2021,76,F
+27347,1992,ACTRESS IN A LEADING ROLE,Bette Midler,For the Boys,False,nm0000541,1945,0,"soundtrack,actress,producer",47,True,2021,76,F
+27348,1980,ACTRESS IN A SUPPORTING ROLE,Barbara Barrie,Breaking Away,False,nm0057363,1931,0,"actress,soundtrack",49,True,2021,90,F
+27349,1980,ACTRESS IN A SUPPORTING ROLE,Candice Bergen,Starting Over,False,nm0000298,1946,0,"actress,producer,soundtrack",34,True,2021,75,F
+27351,1980,ACTRESS IN A SUPPORTING ROLE,Mariel Hemingway,Manhattan,False,nm0000446,1961,0,"actress,soundtrack,producer",19,True,2021,60,F
+27442,1981,ACTRESS IN A LEADING ROLE,Mary Tyler Moore,Ordinary People,False,nm0001546,1936,2017,"actress,soundtrack,producer",45,False,2021,0,F
+27443,1981,ACTRESS IN A SUPPORTING ROLE,Eileen Brennan,Private Benjamin,False,nm0107281,1932,2013,"actress,soundtrack",49,False,2021,0,F
+27451,1981,ACTRESS IN A SUPPORTING ROLE,Eva Le Gallienne,Resurrection,False,nm0499170,1899,1991,"actress,writer,miscellaneous",82,False,2021,0,F
+27452,1981,ACTRESS IN A SUPPORTING ROLE,Cathy Moriarty,Raging Bull,False,nm0001550,1960,0,"actress,soundtrack",21,True,2021,61,F
+27453,1981,ACTRESS IN A SUPPORTING ROLE,Diana Scarwid,Inside Moves,False,nm0769311,1955,0,"actress,soundtrack",26,True,2021,66,F
+27454,1981,ACTRESS IN A SUPPORTING ROLE,Mary Steenburgen,Melvin and Howard,True,nm0005460,1953,0,"actress,producer,soundtrack",28,True,2021,68,F
+27805,1982,ACTRESS IN A LEADING ROLE,Susan Sarandon,Atlantic City,False,nm0000215,1946,0,"actress,producer,soundtrack",36,True,2021,75,F
+27806,1992,ACTRESS IN A LEADING ROLE,Susan Sarandon,Thelma & Louise,False,nm0000215,1946,0,"actress,producer,soundtrack",46,True,2021,75,F
+27807,1993,ACTRESS IN A LEADING ROLE,Susan Sarandon,Lorenzo's Oil,False,nm0000215,1946,0,"actress,producer,soundtrack",47,True,2021,75,F
+27808,1995,ACTRESS IN A LEADING ROLE,Susan Sarandon,The Client,False,nm0000215,1946,0,"actress,producer,soundtrack",49,True,2021,75,F
+27809,1996,ACTRESS IN A LEADING ROLE,Susan Sarandon,Dead Man Walking,True,nm0000215,1946,0,"actress,producer,soundtrack",50,True,2021,75,F
+27810,1982,ACTRESS IN A SUPPORTING ROLE,Joan Hackett,Only When I Laugh,False,nm0352466,1934,1983,actress,48,False,2021,0,F
+27811,1982,ACTRESS IN A SUPPORTING ROLE,Elizabeth McGovern,Ragtime,False,nm0001527,1961,0,"actress,writer,producer",21,True,2021,60,F
+28130,1983,ACTRESS IN A LEADING ROLE,Jessica Lange,Frances,False,nm0001448,1949,0,"actress,producer,soundtrack",34,True,2021,72,F
+28132,1983,ACTRESS IN A SUPPORTING ROLE,Jessica Lange,Tootsie,True,nm0001448,1949,0,"actress,producer,soundtrack",34,True,2021,72,F
+28134,1985,ACTRESS IN A LEADING ROLE,Jessica Lange,Country,False,nm0001448,1949,0,"actress,producer,soundtrack",36,True,2021,72,F
+28136,1986,ACTRESS IN A LEADING ROLE,Jessica Lange,Sweet Dreams,False,nm0001448,1949,0,"actress,producer,soundtrack",37,True,2021,72,F
+28138,1990,ACTRESS IN A LEADING ROLE,Jessica Lange,Music Box,False,nm0001448,1949,0,"actress,producer,soundtrack",41,True,2021,72,F
+28140,1995,ACTRESS IN A LEADING ROLE,Jessica Lange,Blue Sky,True,nm0001448,1949,0,"actress,producer,soundtrack",46,True,2021,72,F
+28142,1983,ACTRESS IN A LEADING ROLE,Debra Winger,An Officer and a Gentleman,False,nm0000700,1955,0,"actress,producer,soundtrack",28,True,2021,66,F
+28143,1984,ACTRESS IN A LEADING ROLE,Debra Winger,Terms of Endearment,False,nm0000700,1955,0,"actress,producer,soundtrack",29,True,2021,66,F
+28144,1994,ACTRESS IN A LEADING ROLE,Debra Winger,Shadowlands,False,nm0000700,1955,0,"actress,producer,soundtrack",39,True,2021,66,F
+28145,1983,ACTRESS IN A SUPPORTING ROLE,Glenn Close,The World According to Garp,False,nm0000335,1947,0,"actress,soundtrack,producer",36,True,2021,74,F
+28146,1984,ACTRESS IN A SUPPORTING ROLE,Glenn Close,The Big Chill,False,nm0000335,1947,0,"actress,soundtrack,producer",37,True,2021,74,F
+28147,1985,ACTRESS IN A SUPPORTING ROLE,Glenn Close,The Natural,False,nm0000335,1947,0,"actress,soundtrack,producer",38,True,2021,74,F
+28148,1988,ACTRESS IN A LEADING ROLE,Glenn Close,Fatal Attraction,False,nm0000335,1947,0,"actress,soundtrack,producer",41,True,2021,74,F
+28149,1989,ACTRESS IN A LEADING ROLE,Glenn Close,Dangerous Liaisons,False,nm0000335,1947,0,"actress,soundtrack,producer",42,True,2021,74,F
+28150,2012,ACTRESS IN A LEADING ROLE,Glenn Close,Albert Nobbs,False,nm0000335,1947,0,"actress,soundtrack,producer",65,True,2021,74,F
+28151,2019,ACTRESS IN A LEADING ROLE,Glenn Close,The Wife,False,nm0000335,1947,0,"actress,soundtrack,producer",72,True,2021,74,F
+28152,1983,ACTRESS IN A SUPPORTING ROLE,Teri Garr,Tootsie,False,nm0000414,1947,0,"actress,soundtrack",36,True,2021,74,F
+28153,1983,ACTRESS IN A SUPPORTING ROLE,Lesley Ann Warren,Victor/Victoria,False,nm0000690,1946,0,"actress,soundtrack,producer",37,True,2021,75,F
+28329,1984,ACTRESS IN A LEADING ROLE,Julie Walters,Educating Rita,False,nm0910278,1950,0,"actress,soundtrack",34,True,2021,71,F
+28333,2001,ACTRESS IN A SUPPORTING ROLE,Julie Walters,Billy Elliot,False,nm0910278,1950,0,"actress,soundtrack",51,True,2021,71,F
+28337,1984,ACTRESS IN A SUPPORTING ROLE,Cher,Silkwood,False,nm0000333,1946,0,"soundtrack,actress,composer",38,True,2021,75,F
+28342,1988,ACTRESS IN A LEADING ROLE,Cher,Moonstruck,True,nm0000333,1946,0,"soundtrack,actress,composer",42,True,2021,75,F
+28347,1984,ACTRESS IN A SUPPORTING ROLE,Linda Hunt,The Year of Living Dangerously,True,nm0001373,1945,0,"actress,soundtrack",39,True,2021,76,F
+28354,1984,ACTRESS IN A SUPPORTING ROLE,Amy Irving,Yentl,False,nm0001388,1953,0,"actress,soundtrack,producer",31,True,2021,68,F
+28358,1984,ACTRESS IN A SUPPORTING ROLE,Alfre Woodard,Cross Creek,False,nm0005569,1952,0,"actress,soundtrack,producer",32,True,2021,69,F
+28455,1985,ACTRESS IN A LEADING ROLE,Judy Davis,A Passage to India,False,nm0001114,1955,0,"actress,soundtrack",30,True,2021,66,F
+28462,1993,ACTRESS IN A SUPPORTING ROLE,Judy Davis,Husbands and Wives,False,nm0001114,1955,0,"actress,soundtrack",38,True,2021,66,F
+28469,1985,ACTRESS IN A SUPPORTING ROLE,Peggy Ashcroft,A Passage to India,True,nm0001919,1907,1991,actress,78,False,2021,0,F
+28470,1985,ACTRESS IN A SUPPORTING ROLE,Lindsay Crouse,Places in the Heart,False,nm0001080,1948,0,"actress,soundtrack,miscellaneous",37,True,2021,73,F
+28473,1985,ACTRESS IN A SUPPORTING ROLE,Christine Lahti,Swing Shift,False,nm0001441,1950,0,"actress,director,soundtrack",35,True,2021,71,F
+28826,1986,ACTRESS IN A LEADING ROLE,Whoopi Goldberg,The Color Purple,False,nm0000155,1955,0,"actress,producer,writer",31,True,2021,66,F
+28827,1991,ACTRESS IN A SUPPORTING ROLE,Whoopi Goldberg,Ghost,True,nm0000155,1955,0,"actress,producer,writer",36,True,2021,66,F
+28828,1986,ACTRESS IN A SUPPORTING ROLE,Margaret Avery,The Color Purple,False,nm0001923,1944,0,actress,42,True,2021,77,F
+28831,1986,ACTRESS IN A SUPPORTING ROLE,Anjelica Huston,Prizzi's Honor,True,nm0001378,1951,0,"actress,director,producer",35,True,2021,70,F
+28832,1990,ACTRESS IN A SUPPORTING ROLE,Anjelica Huston,"Enemies, A Love Story",False,nm0001378,1951,0,"actress,director,producer",39,True,2021,70,F
+28833,1991,ACTRESS IN A LEADING ROLE,Anjelica Huston,The Grifters,False,nm0001378,1951,0,"actress,director,producer",40,True,2021,70,F
+28834,1986,ACTRESS IN A SUPPORTING ROLE,Amy Madigan,Twice in a Lifetime,False,nm0001496,1950,0,"actress,soundtrack,producer",36,True,2021,71,F
+28837,1986,ACTRESS IN A SUPPORTING ROLE,Meg Tilly,Agnes of God,False,nm0000672,1960,0,"actress,writer",26,True,2021,61,F
+28838,1986,ACTRESS IN A SUPPORTING ROLE,Oprah Winfrey,The Color Purple,False,nm0001856,1954,0,"producer,actress,soundtrack",32,True,2021,67,F
+29023,1987,ACTRESS IN A LEADING ROLE,Marlee Matlin,Children of a Lesser God,True,nm0559144,1965,0,"actress,producer,soundtrack",22,True,2021,56,F
+29024,1987,ACTRESS IN A LEADING ROLE,Kathleen Turner,Peggy Sue Got Married,False,nm0000678,1954,0,"actress,producer,soundtrack",33,True,2021,67,F
+29030,1987,ACTRESS IN A LEADING ROLE,Sigourney Weaver,Aliens,False,nm0000244,1949,0,"actress,soundtrack,producer",38,True,2021,72,F
+29032,1989,ACTRESS IN A LEADING ROLE,Sigourney Weaver,Gorillas in the Mist,False,nm0000244,1949,0,"actress,soundtrack,producer",40,True,2021,72,F
+29034,1989,ACTRESS IN A SUPPORTING ROLE,Sigourney Weaver,Working Girl,False,nm0000244,1949,0,"actress,soundtrack,producer",40,True,2021,72,F
+29036,1987,ACTRESS IN A SUPPORTING ROLE,Tess Harper,Crimes of the Heart,False,nm0002128,1950,0,actress,37,True,2021,71,F
+29040,1987,ACTRESS IN A SUPPORTING ROLE,Mary Elizabeth Mastrantonio,The Color of Money,False,nm0001512,1958,0,"actress,soundtrack",29,True,2021,63,F
+29041,1987,ACTRESS IN A SUPPORTING ROLE,Dianne Wiest,Hannah and Her Sisters,True,nm0001848,1946,0,"actress,soundtrack",41,True,2021,75,F
+29042,1990,ACTRESS IN A SUPPORTING ROLE,Dianne Wiest,Parenthood,False,nm0001848,1946,0,"actress,soundtrack",44,True,2021,75,F
+29043,1995,ACTRESS IN A SUPPORTING ROLE,Dianne Wiest,Bullets over Broadway,True,nm0001848,1946,0,"actress,soundtrack",49,True,2021,75,F
+29668,1988,ACTRESS IN A LEADING ROLE,Holly Hunter,Broadcast News,False,nm0000456,1958,0,"actress,producer,soundtrack",30,True,2021,63,F
+29674,1994,ACTRESS IN A LEADING ROLE,Holly Hunter,The Piano,True,nm0000456,1958,0,"actress,producer,soundtrack",36,True,2021,63,F
+29680,1994,ACTRESS IN A SUPPORTING ROLE,Holly Hunter,The Firm,False,nm0000456,1958,0,"actress,producer,soundtrack",36,True,2021,63,F
+29686,2004,ACTRESS IN A SUPPORTING ROLE,Holly Hunter,Thirteen,False,nm0000456,1958,0,"actress,producer,soundtrack",46,True,2021,63,F
+29692,1988,ACTRESS IN A LEADING ROLE,Sally Kirkland,Anna,False,nm0000476,1941,0,"actress,producer,miscellaneous",47,True,2021,80,F
+29697,1988,ACTRESS IN A SUPPORTING ROLE,Norma Aleandro,Gaby - A True Story,False,nm0001903,1936,0,"actress,writer",52,True,2021,85,F
+29698,1988,ACTRESS IN A SUPPORTING ROLE,Anne Archer,Fatal Attraction,False,nm0000271,1947,0,"actress,producer,soundtrack",41,True,2021,74,F
+29700,1988,ACTRESS IN A SUPPORTING ROLE,Olympia Dukakis,Moonstruck,True,nm0001156,1931,2021,"actress,producer",57,False,2021,0,F
+29701,1988,ACTRESS IN A SUPPORTING ROLE,Anne Ramsey,Throw Momma from the Train,False,nm0001649,1929,1988,actress,59,False,2021,0,F
+29702,1988,ACTRESS IN A SUPPORTING ROLE,Ann Sothern,The Whales of August,False,nm0815433,1909,2001,"actress,music_department,soundtrack",79,False,2021,0,F
+29753,1989,ACTRESS IN A LEADING ROLE,Melanie Griffith,Working Girl,False,nm0000429,1957,0,"actress,producer",32,True,2021,64,F
+29756,1989,ACTRESS IN A SUPPORTING ROLE,Joan Cusack,Working Girl,False,nm0000349,1962,0,"actress,soundtrack,writer",27,True,2021,59,F
+29757,1998,ACTRESS IN A SUPPORTING ROLE,Joan Cusack,In & Out,False,nm0000349,1962,0,"actress,soundtrack,writer",36,True,2021,59,F
+29758,1989,ACTRESS IN A SUPPORTING ROLE,Geena Davis,The Accidental Tourist,True,nm0000133,1956,0,"actress,producer,soundtrack",33,True,2021,65,F
+29759,1992,ACTRESS IN A LEADING ROLE,Geena Davis,Thelma & Louise,False,nm0000133,1956,0,"actress,producer,soundtrack",36,True,2021,65,F
+29761,1989,ACTRESS IN A SUPPORTING ROLE,Frances McDormand,Mississippi Burning,False,nm0000531,1957,0,"actress,producer,soundtrack",32,True,2021,64,F
+29762,1997,ACTRESS IN A LEADING ROLE,Frances McDormand,Fargo,True,nm0000531,1957,0,"actress,producer,soundtrack",40,True,2021,64,F
+29763,2001,ACTRESS IN A SUPPORTING ROLE,Frances McDormand,Almost Famous,False,nm0000531,1957,0,"actress,producer,soundtrack",44,True,2021,64,F
+29764,2006,ACTRESS IN A SUPPORTING ROLE,Frances McDormand,North Country,False,nm0000531,1957,0,"actress,producer,soundtrack",49,True,2021,64,F
+29765,2018,ACTRESS IN A LEADING ROLE,Frances McDormand,"Three Billboards outside Ebbing, Missouri",True,nm0000531,1957,0,"actress,producer,soundtrack",61,True,2021,64,F
+29766,1989,ACTRESS IN A SUPPORTING ROLE,Michelle Pfeiffer,Dangerous Liaisons,False,nm0000201,1958,0,"actress,soundtrack,producer",31,True,2021,63,F
+29767,1990,ACTRESS IN A LEADING ROLE,Michelle Pfeiffer,The Fabulous Baker Boys,False,nm0000201,1958,0,"actress,soundtrack,producer",32,True,2021,63,F
+29768,1993,ACTRESS IN A LEADING ROLE,Michelle Pfeiffer,Love Field,False,nm0000201,1958,0,"actress,soundtrack,producer",35,True,2021,63,F
+29886,1990,ACTRESS IN A LEADING ROLE,Pauline Collins,Shirley Valentine,False,nm0172604,1940,0,"actress,soundtrack",50,True,2021,81,F
+29888,1990,ACTRESS IN A LEADING ROLE,Jessica Tandy,Driving Miss Daisy,True,nm0001788,1909,1994,"actress,soundtrack",81,False,2021,0,F
+29889,1992,ACTRESS IN A SUPPORTING ROLE,Jessica Tandy,Fried Green Tomatoes,False,nm0001788,1909,1994,"actress,soundtrack",83,False,2021,0,F
+29890,1990,ACTRESS IN A SUPPORTING ROLE,Brenda Fricker,My Left Foot,True,nm0002084,1945,0,actress,45,True,2021,76,F
+29891,1990,ACTRESS IN A SUPPORTING ROLE,Lena Olin,"Enemies, A Love Story",False,nm0000565,1955,0,actress,35,True,2021,66,F
+29892,1990,ACTRESS IN A SUPPORTING ROLE,Julia Roberts,Steel Magnolias,False,nm0000210,1967,0,"actress,producer,soundtrack",23,True,2021,54,F
+29912,1991,ACTRESS IN A LEADING ROLE,Julia Roberts,Pretty Woman,False,nm0000210,1967,0,"actress,producer,soundtrack",24,True,2021,54,F
+29932,2001,ACTRESS IN A LEADING ROLE,Julia Roberts,Erin Brockovich,True,nm0000210,1967,0,"actress,producer,soundtrack",34,True,2021,54,F
+29952,2014,ACTRESS IN A SUPPORTING ROLE,Julia Roberts,August: Osage County,False,nm0000210,1967,0,"actress,producer,soundtrack",47,True,2021,54,F
+30364,1991,ACTRESS IN A LEADING ROLE,Kathy Bates,Misery,True,nm0000870,1948,0,"actress,director,soundtrack",43,True,2021,73,F
+30366,1999,ACTRESS IN A SUPPORTING ROLE,Kathy Bates,Primary Colors,False,nm0000870,1948,0,"actress,director,soundtrack",51,True,2021,73,F
+30368,2003,ACTRESS IN A SUPPORTING ROLE,Kathy Bates,About Schmidt,False,nm0000870,1948,0,"actress,director,soundtrack",55,True,2021,73,F
+30370,2020,ACTRESS IN A SUPPORTING ROLE,Kathy Bates,Richard Jewell,False,nm0000870,1948,0,"actress,director,soundtrack",72,True,2021,73,F
+30372,1991,ACTRESS IN A SUPPORTING ROLE,Annette Bening,The Grifters,False,nm0000906,1958,0,"actress,soundtrack,executive",33,True,2021,63,F
+30373,2000,ACTRESS IN A LEADING ROLE,Annette Bening,American Beauty,False,nm0000906,1958,0,"actress,soundtrack,executive",42,True,2021,63,F
+30374,2005,ACTRESS IN A LEADING ROLE,Annette Bening,Being Julia,False,nm0000906,1958,0,"actress,soundtrack,executive",47,True,2021,63,F
+30375,2011,ACTRESS IN A LEADING ROLE,Annette Bening,The Kids Are All Right,False,nm0000906,1958,0,"actress,soundtrack,executive",53,True,2021,63,F
+30376,1991,ACTRESS IN A SUPPORTING ROLE,Lorraine Bracco,Good Fellas,False,nm0000966,1954,0,"actress,producer,director",37,True,2021,67,F
+30377,1991,ACTRESS IN A SUPPORTING ROLE,Mary McDonnell,Dances With Wolves,False,nm0001521,1952,0,"actress,soundtrack",39,True,2021,69,F
+30382,1993,ACTRESS IN A LEADING ROLE,Mary McDonnell,Passion Fish,False,nm0001521,1952,0,"actress,soundtrack",41,True,2021,69,F
+30540,1992,ACTRESS IN A LEADING ROLE,Laura Dern,Rambling Rose,False,nm0000368,1967,0,"actress,producer,writer",25,True,2021,54,F
+30541,2015,ACTRESS IN A SUPPORTING ROLE,Laura Dern,Wild,False,nm0000368,1967,0,"actress,producer,writer",48,True,2021,54,F
+30542,2020,ACTRESS IN A SUPPORTING ROLE,Laura Dern,Marriage Story,True,nm0000368,1967,0,"actress,producer,writer",53,True,2021,54,F
+30543,1992,ACTRESS IN A SUPPORTING ROLE,Juliette Lewis,Cape Fear,False,nm0000496,1973,0,"actress,soundtrack,director",19,True,2021,48,F
+30546,1992,ACTRESS IN A SUPPORTING ROLE,Kate Nelligan,The Prince of Tides,False,nm0625075,1950,0,actress,42,True,2021,71,F
+30547,1992,ACTRESS IN A SUPPORTING ROLE,Mercedes Ruehl,The Fisher King,True,nm0001689,1948,0,"actress,soundtrack",44,True,2021,73,F
+30683,1993,ACTRESS IN A LEADING ROLE,Catherine Deneuve,Indochine,False,nm0000366,1943,0,"actress,soundtrack,producer",50,True,2021,78,F
+30684,1993,ACTRESS IN A LEADING ROLE,Emma Thompson,Howards End,True,nm0000668,1959,0,"actress,writer,producer",34,True,2021,62,F
+30708,1994,ACTRESS IN A LEADING ROLE,Emma Thompson,The Remains of the Day,False,nm0000668,1959,0,"actress,writer,producer",35,True,2021,62,F
+30732,1994,ACTRESS IN A SUPPORTING ROLE,Emma Thompson,In the Name of the Father,False,nm0000668,1959,0,"actress,writer,producer",35,True,2021,62,F
+30756,1996,ACTRESS IN A LEADING ROLE,Emma Thompson,Sense and Sensibility,False,nm0000668,1959,0,"actress,writer,producer",37,True,2021,62,F
+30804,1993,ACTRESS IN A SUPPORTING ROLE,Joan Plowright,Enchanted April,False,nm0687506,1929,0,"actress,soundtrack",64,True,2021,92,F
+30805,1993,ACTRESS IN A SUPPORTING ROLE,Miranda Richardson,Damage,False,nm0001669,1958,0,"actress,soundtrack",35,True,2021,63,F
+30810,1995,ACTRESS IN A LEADING ROLE,Miranda Richardson,Tom & Viv,False,nm0001669,1958,0,"actress,soundtrack",37,True,2021,63,F
+30815,1993,ACTRESS IN A SUPPORTING ROLE,Marisa Tomei,My Cousin Vinny,True,nm0000673,1964,0,"actress,producer",29,True,2021,57,F
+30816,2002,ACTRESS IN A SUPPORTING ROLE,Marisa Tomei,In the Bedroom,False,nm0000673,1964,0,"actress,producer",38,True,2021,57,F
+30817,2009,ACTRESS IN A SUPPORTING ROLE,Marisa Tomei,The Wrestler,False,nm0000673,1964,0,"actress,producer",45,True,2021,57,F
+31063,1994,ACTRESS IN A LEADING ROLE,Angela Bassett,What's Love Got to Do with It,False,nm0000291,1958,0,"actress,producer,director",36,True,2021,63,F
+31064,1994,ACTRESS IN A LEADING ROLE,Stockard Channing,Six Degrees of Separation,False,nm0000330,1944,0,"actress,soundtrack,miscellaneous",50,True,2021,77,F
+31065,1994,ACTRESS IN A SUPPORTING ROLE,Anna Paquin,The Piano,True,nm0001593,1982,0,"actress,producer,soundtrack",12,True,2021,39,F
+31066,1994,ACTRESS IN A SUPPORTING ROLE,Rosie Perez,Fearless,False,nm0001609,1964,0,"actress,miscellaneous,director",30,True,2021,57,F
+31067,1994,ACTRESS IN A SUPPORTING ROLE,Winona Ryder,The Age of Innocence,False,nm0000213,1971,0,"actress,producer,soundtrack",23,True,2021,50,F
+31068,1995,ACTRESS IN A LEADING ROLE,Winona Ryder,Little Women,False,nm0000213,1971,0,"actress,producer,soundtrack",24,True,2021,50,F
+31197,1995,ACTRESS IN A SUPPORTING ROLE,Rosemary Harris,Tom & Viv,False,nm0365281,1927,0,"actress,soundtrack",68,True,2021,94,F
+31200,1995,ACTRESS IN A SUPPORTING ROLE,Helen Mirren,The Madness of King George,False,nm0000545,1945,0,"actress,director,producer",50,True,2021,76,F
+31202,2002,ACTRESS IN A SUPPORTING ROLE,Helen Mirren,Gosford Park,False,nm0000545,1945,0,"actress,director,producer",57,True,2021,76,F
+31204,2007,ACTRESS IN A LEADING ROLE,Helen Mirren,The Queen,True,nm0000545,1945,0,"actress,director,producer",62,True,2021,76,F
+31206,2010,ACTRESS IN A LEADING ROLE,Helen Mirren,The Last Station,False,nm0000545,1945,0,"actress,director,producer",65,True,2021,76,F
+31208,1995,ACTRESS IN A SUPPORTING ROLE,Uma Thurman,Pulp Fiction,False,nm0000235,1970,0,"actress,soundtrack,producer",25,True,2021,51,F
+31209,1995,ACTRESS IN A SUPPORTING ROLE,Jennifer Tilly,Bullets over Broadway,False,nm0000236,1958,0,"actress,soundtrack,writer",37,True,2021,63,F
+31909,1996,ACTRESS IN A LEADING ROLE,Elisabeth Shue,Leaving Las Vegas,False,nm0000223,1963,0,"actress,soundtrack,producer",33,True,2021,58,F
+31910,1996,ACTRESS IN A LEADING ROLE,Sharon Stone,Casino,False,nm0000232,1958,0,"actress,producer,soundtrack",38,True,2021,63,F
+31915,1996,ACTRESS IN A SUPPORTING ROLE,Joan Allen,Nixon,False,nm0000260,1956,0,"actress,producer,soundtrack",40,True,2021,65,F
+31921,1997,ACTRESS IN A SUPPORTING ROLE,Joan Allen,The Crucible,False,nm0000260,1956,0,"actress,producer,soundtrack",41,True,2021,65,F
+31927,2001,ACTRESS IN A LEADING ROLE,Joan Allen,The Contender,False,nm0000260,1956,0,"actress,producer,soundtrack",45,True,2021,65,F
+31933,1996,ACTRESS IN A SUPPORTING ROLE,Kathleen Quinlan,Apollo 13,False,nm0000599,1954,0,"actress,producer,director",42,True,2021,67,F
+31934,1996,ACTRESS IN A SUPPORTING ROLE,Mira Sorvino,Mighty Aphrodite,True,nm0000227,1967,0,"actress,producer,soundtrack",29,True,2021,54,F
+31935,1996,ACTRESS IN A SUPPORTING ROLE,Mare Winningham,Georgia,False,nm0001858,1959,0,"actress,soundtrack",37,True,2021,62,F
+31936,1996,ACTRESS IN A SUPPORTING ROLE,Kate Winslet,Sense and Sensibility,False,nm0000701,1975,0,"actress,soundtrack",21,True,2021,46,F
+31937,1998,ACTRESS IN A LEADING ROLE,Kate Winslet,Titanic,False,nm0000701,1975,0,"actress,soundtrack",23,True,2021,46,F
+31938,2002,ACTRESS IN A SUPPORTING ROLE,Kate Winslet,Iris,False,nm0000701,1975,0,"actress,soundtrack",27,True,2021,46,F
+31939,2005,ACTRESS IN A LEADING ROLE,Kate Winslet,Eternal Sunshine of the Spotless Mind,False,nm0000701,1975,0,"actress,soundtrack",30,True,2021,46,F
+31940,2007,ACTRESS IN A LEADING ROLE,Kate Winslet,Little Children,False,nm0000701,1975,0,"actress,soundtrack",32,True,2021,46,F
+31941,2009,ACTRESS IN A LEADING ROLE,Kate Winslet,The Reader,True,nm0000701,1975,0,"actress,soundtrack",34,True,2021,46,F
+31942,2016,ACTRESS IN A SUPPORTING ROLE,Kate Winslet,Steve Jobs,False,nm0000701,1975,0,"actress,soundtrack",41,True,2021,46,F
+32218,1997,ACTRESS IN A LEADING ROLE,Brenda Blethyn,Secrets & Lies,False,nm0000950,1946,0,"actress,soundtrack,writer",51,True,2021,75,F
+32219,1999,ACTRESS IN A SUPPORTING ROLE,Brenda Blethyn,Little Voice,False,nm0000950,1946,0,"actress,soundtrack,writer",53,True,2021,75,F
+32220,1997,ACTRESS IN A LEADING ROLE,Kristin Scott Thomas,The English Patient,False,nm0000218,1960,0,"actress,soundtrack,director",37,True,2021,61,F
+32221,1997,ACTRESS IN A LEADING ROLE,Emily Watson,Breaking the Waves,False,nm0001833,1967,0,"actress,soundtrack",30,True,2021,54,F
+32237,1999,ACTRESS IN A LEADING ROLE,Emily Watson,Hilary and Jackie,False,nm0001833,1967,0,"actress,soundtrack",32,True,2021,54,F
+32253,1997,ACTRESS IN A SUPPORTING ROLE,Lauren Bacall,The Mirror Has Two Faces,False,nm0000002,1924,2014,"actress,soundtrack",73,False,2021,0,F
+32254,1997,ACTRESS IN A SUPPORTING ROLE,Juliette Binoche,The English Patient,True,nm0000300,1964,0,"actress,art_department,miscellaneous",33,True,2021,57,F
+32255,2001,ACTRESS IN A LEADING ROLE,Juliette Binoche,Chocolat,False,nm0000300,1964,0,"actress,art_department,miscellaneous",37,True,2021,57,F
+32256,1997,ACTRESS IN A SUPPORTING ROLE,Barbara Hershey,The Portrait of a Lady,False,nm0001347,1948,0,actress,49,True,2021,73,F
+32257,1997,ACTRESS IN A SUPPORTING ROLE,Marianne Jean-Baptiste,Secrets & Lies,False,nm0001399,1967,0,"actress,director,producer",30,True,2021,54,F
+32540,1998,ACTRESS IN A LEADING ROLE,Helena Bonham Carter,The Wings of the Dove,False,nm0000307,1966,0,"actress,soundtrack,producer",32,True,2021,55,F
+32541,2011,ACTRESS IN A SUPPORTING ROLE,Helena Bonham Carter,The King's Speech,False,nm0000307,1966,0,"actress,soundtrack,producer",45,True,2021,55,F
+32542,1998,ACTRESS IN A LEADING ROLE,Judi Dench,Mrs. Brown,False,nm0001132,1934,0,"actress,music_department,soundtrack",64,True,2021,87,F
+32543,1999,ACTRESS IN A SUPPORTING ROLE,Judi Dench,Shakespeare in Love,True,nm0001132,1934,0,"actress,music_department,soundtrack",65,True,2021,87,F
+32544,2001,ACTRESS IN A SUPPORTING ROLE,Judi Dench,Chocolat,False,nm0001132,1934,0,"actress,music_department,soundtrack",67,True,2021,87,F
+32545,2002,ACTRESS IN A LEADING ROLE,Judi Dench,Iris,False,nm0001132,1934,0,"actress,music_department,soundtrack",68,True,2021,87,F
+32546,2006,ACTRESS IN A LEADING ROLE,Judi Dench,Mrs. Henderson Presents,False,nm0001132,1934,0,"actress,music_department,soundtrack",72,True,2021,87,F
+32547,2007,ACTRESS IN A LEADING ROLE,Judi Dench,Notes on a Scandal,False,nm0001132,1934,0,"actress,music_department,soundtrack",73,True,2021,87,F
+32548,2014,ACTRESS IN A LEADING ROLE,Judi Dench,Philomena,False,nm0001132,1934,0,"actress,music_department,soundtrack",80,True,2021,87,F
+32549,1998,ACTRESS IN A LEADING ROLE,Helen Hunt,As Good as It Gets,True,nm0000166,1963,0,"actress,producer,director",35,True,2021,58,F
+32557,2013,ACTRESS IN A SUPPORTING ROLE,Helen Hunt,The Sessions,False,nm0000166,1963,0,"actress,producer,director",50,True,2021,58,F
+32565,1998,ACTRESS IN A SUPPORTING ROLE,Kim Basinger,L.A. Confidential,True,nm0000107,1953,0,"actress,soundtrack,producer",45,True,2021,68,F
+32566,1998,ACTRESS IN A SUPPORTING ROLE,Minnie Driver,Good Will Hunting,False,nm0000378,1970,0,"actress,soundtrack,producer",28,True,2021,51,F
+32567,1998,ACTRESS IN A SUPPORTING ROLE,Julianne Moore,Boogie Nights,False,nm0000194,1960,0,"actress,producer,soundtrack",38,True,2021,61,F
+32568,2000,ACTRESS IN A LEADING ROLE,Julianne Moore,The End of the Affair,False,nm0000194,1960,0,"actress,producer,soundtrack",40,True,2021,61,F
+32569,2003,ACTRESS IN A LEADING ROLE,Julianne Moore,Far from Heaven,False,nm0000194,1960,0,"actress,producer,soundtrack",43,True,2021,61,F
+32570,2003,ACTRESS IN A SUPPORTING ROLE,Julianne Moore,The Hours,False,nm0000194,1960,0,"actress,producer,soundtrack",43,True,2021,61,F
+32571,2015,ACTRESS IN A LEADING ROLE,Julianne Moore,Still Alice,True,nm0000194,1960,0,"actress,producer,soundtrack",55,True,2021,61,F
+32572,1998,ACTRESS IN A SUPPORTING ROLE,Gloria Stuart,Titanic,False,nm0001784,1910,2010,"actress,soundtrack",88,False,2021,0,F
+32702,1999,ACTRESS IN A LEADING ROLE,Cate Blanchett,Elizabeth,False,nm0000949,1969,0,"actress,producer,writer",30,True,2021,52,F
+32703,2005,ACTRESS IN A SUPPORTING ROLE,Cate Blanchett,The Aviator,True,nm0000949,1969,0,"actress,producer,writer",36,True,2021,52,F
+32704,2007,ACTRESS IN A SUPPORTING ROLE,Cate Blanchett,Notes on a Scandal,False,nm0000949,1969,0,"actress,producer,writer",38,True,2021,52,F
+32705,2008,ACTRESS IN A LEADING ROLE,Cate Blanchett,Elizabeth: The Golden Age,False,nm0000949,1969,0,"actress,producer,writer",39,True,2021,52,F
+32706,2008,ACTRESS IN A SUPPORTING ROLE,Cate Blanchett,I'm Not There,False,nm0000949,1969,0,"actress,producer,writer",39,True,2021,52,F
+32707,2014,ACTRESS IN A LEADING ROLE,Cate Blanchett,Blue Jasmine,True,nm0000949,1969,0,"actress,producer,writer",45,True,2021,52,F
+32708,2016,ACTRESS IN A LEADING ROLE,Cate Blanchett,Carol,False,nm0000949,1969,0,"actress,producer,writer",47,True,2021,52,F
+32709,1999,ACTRESS IN A LEADING ROLE,Fernanda Montenegro,Central Station,False,nm0005244,1929,0,"actress,soundtrack",70,True,2021,92,F
+32710,1999,ACTRESS IN A LEADING ROLE,Gwyneth Paltrow,Shakespeare in Love,True,nm0000569,1972,0,"actress,soundtrack,producer",27,True,2021,49,F
+32711,1999,ACTRESS IN A SUPPORTING ROLE,Rachel Griffiths,Hilary and Jackie,False,nm0341737,1968,0,"actress,producer,writer",31,True,2021,53,F
+32816,2000,ACTRESS IN A LEADING ROLE,Janet McTeer,Tumbleweeds,False,nm0005216,1961,0,"actress,writer,producer",39,True,2021,60,F
+32817,2012,ACTRESS IN A SUPPORTING ROLE,Janet McTeer,Albert Nobbs,False,nm0005216,1961,0,"actress,writer,producer",51,True,2021,60,F
+32818,2000,ACTRESS IN A LEADING ROLE,Hilary Swank,Boys Don't Cry,True,nm0005476,1974,0,"actress,producer,soundtrack",26,True,2021,47,F
+32819,2005,ACTRESS IN A LEADING ROLE,Hilary Swank,Million Dollar Baby,True,nm0005476,1974,0,"actress,producer,soundtrack",31,True,2021,47,F
+32820,2000,ACTRESS IN A SUPPORTING ROLE,Toni Collette,The Sixth Sense,False,nm0001057,1972,0,"actress,producer,soundtrack",28,True,2021,49,F
+32821,2000,ACTRESS IN A SUPPORTING ROLE,Angelina Jolie,"Girl, Interrupted",True,nm0001401,1975,0,"actress,producer,director",25,True,2021,46,F
+32822,2009,ACTRESS IN A LEADING ROLE,Angelina Jolie,Changeling,False,nm0001401,1975,0,"actress,producer,director",34,True,2021,46,F
+32824,2000,ACTRESS IN A SUPPORTING ROLE,Catherine Keener,Being John Malkovich,False,nm0001416,1959,0,"actress,producer,casting_department",41,True,2021,62,F
+32825,2006,ACTRESS IN A SUPPORTING ROLE,Catherine Keener,Capote,False,nm0001416,1959,0,"actress,producer,casting_department",47,True,2021,62,F
+32826,2000,ACTRESS IN A SUPPORTING ROLE,Samantha Morton,Sweet and Lowdown,False,nm0608090,1977,0,"actress,writer,soundtrack",23,True,2021,44,F
+32835,2004,ACTRESS IN A LEADING ROLE,Samantha Morton,In America,False,nm0608090,1977,0,"actress,writer,soundtrack",27,True,2021,44,F
+32844,2000,ACTRESS IN A SUPPORTING ROLE,Chloë Sevigny,Boys Don't Cry,False,nm0001721,1974,0,"actress,director,soundtrack",26,True,2021,47,F
+32983,2001,ACTRESS IN A LEADING ROLE,Laura Linney,You Can Count on Me,False,nm0001473,1964,0,"actress,producer,miscellaneous",37,True,2021,57,F
+32984,2005,ACTRESS IN A SUPPORTING ROLE,Laura Linney,Kinsey,False,nm0001473,1964,0,"actress,producer,miscellaneous",41,True,2021,57,F
+32985,2008,ACTRESS IN A LEADING ROLE,Laura Linney,The Savages,False,nm0001473,1964,0,"actress,producer,miscellaneous",44,True,2021,57,F
+32986,2001,ACTRESS IN A SUPPORTING ROLE,Marcia Gay Harden,Pollock,True,nm0001315,1959,0,actress,42,True,2021,62,F
+32987,2004,ACTRESS IN A SUPPORTING ROLE,Marcia Gay Harden,Mystic River,False,nm0001315,1959,0,actress,45,True,2021,62,F
+32988,2001,ACTRESS IN A SUPPORTING ROLE,Kate Hudson,Almost Famous,False,nm0005028,1979,0,"actress,soundtrack,producer",22,True,2021,42,F
+33266,2002,ACTRESS IN A LEADING ROLE,Halle Berry,Monster's Ball,True,nm0000932,1966,0,"actress,producer,executive",36,True,2021,55,F
+33267,2002,ACTRESS IN A LEADING ROLE,Nicole Kidman,Moulin Rouge,False,nm0000173,1967,0,"actress,producer,soundtrack",35,True,2021,54,F
+33268,2003,ACTRESS IN A LEADING ROLE,Nicole Kidman,The Hours,True,nm0000173,1967,0,"actress,producer,soundtrack",36,True,2021,54,F
+33269,2011,ACTRESS IN A LEADING ROLE,Nicole Kidman,Rabbit Hole,False,nm0000173,1967,0,"actress,producer,soundtrack",44,True,2021,54,F
+33270,2017,ACTRESS IN A SUPPORTING ROLE,Nicole Kidman,Lion,False,nm0000173,1967,0,"actress,producer,soundtrack",50,True,2021,54,F
+33271,2002,ACTRESS IN A LEADING ROLE,Renée Zellweger,Bridget Jones's Diary,False,nm0000250,1969,0,"actress,soundtrack,producer",33,True,2021,52,F
+33272,2003,ACTRESS IN A LEADING ROLE,Renée Zellweger,Chicago,False,nm0000250,1969,0,"actress,soundtrack,producer",34,True,2021,52,F
+33273,2004,ACTRESS IN A SUPPORTING ROLE,Renée Zellweger,Cold Mountain,True,nm0000250,1969,0,"actress,soundtrack,producer",35,True,2021,52,F
+33274,2020,ACTRESS IN A LEADING ROLE,Renée Zellweger,Judy,True,nm0000250,1969,0,"actress,soundtrack,producer",51,True,2021,52,F
+33275,2002,ACTRESS IN A SUPPORTING ROLE,Jennifer Connelly,A Beautiful Mind,True,nm0000124,1970,0,actress,32,True,2021,51,F
+33619,2003,ACTRESS IN A LEADING ROLE,Salma Hayek,Frida,False,nm0000161,1966,0,"actress,producer,soundtrack",37,True,2021,55,F
+33620,2003,ACTRESS IN A LEADING ROLE,Diane Lane,Unfaithful,False,nm0000178,1965,0,"actress,soundtrack",38,True,2021,56,F
+33622,2003,ACTRESS IN A SUPPORTING ROLE,Queen Latifah,Chicago,False,nm0001451,1970,0,"producer,actress,music_department",33,True,2021,51,F
+33623,2003,ACTRESS IN A SUPPORTING ROLE,Catherine Zeta-Jones,Chicago,True,nm0001876,1969,0,"actress,soundtrack",34,True,2021,52,F
+33788,2004,ACTRESS IN A LEADING ROLE,Keisha Castle-Hughes,Whale Rider,False,nm1095720,1990,0,"actress,producer,soundtrack",14,True,2021,31,F
+33789,2004,ACTRESS IN A LEADING ROLE,Charlize Theron,Monster,True,nm0000234,1975,0,"producer,actress,soundtrack",29,True,2021,46,F
+33790,2006,ACTRESS IN A LEADING ROLE,Charlize Theron,North Country,False,nm0000234,1975,0,"producer,actress,soundtrack",31,True,2021,46,F
+33791,2020,ACTRESS IN A LEADING ROLE,Charlize Theron,Bombshell,False,nm0000234,1975,0,"producer,actress,soundtrack",45,True,2021,46,F
+33792,2004,ACTRESS IN A LEADING ROLE,Naomi Watts,21 Grams,False,nm0915208,1968,0,"actress,producer,soundtrack",36,True,2021,53,F
+33793,2013,ACTRESS IN A LEADING ROLE,Naomi Watts,The Impossible,False,nm0915208,1968,0,"actress,producer,soundtrack",45,True,2021,53,F
+33794,2004,ACTRESS IN A SUPPORTING ROLE,Shohreh Aghdashloo,House of Sand and Fog,False,nm0013037,1952,0,"actress,producer,soundtrack",52,True,2021,69,F
+33795,2004,ACTRESS IN A SUPPORTING ROLE,Patricia Clarkson,Pieces of April,False,nm0165101,1959,0,"actress,producer,soundtrack",45,True,2021,62,F
+34469,2005,ACTRESS IN A LEADING ROLE,Catalina Sandino Moreno,Maria Full of Grace,False,nm1503432,1981,0,"actress,producer",24,True,2021,40,F
+34470,2005,ACTRESS IN A LEADING ROLE,Imelda Staunton,Vera Drake,False,nm0001767,1956,0,"actress,soundtrack",49,True,2021,65,F
+34471,2005,ACTRESS IN A SUPPORTING ROLE,Virginia Madsen,Sideways,False,nm0000515,1961,0,"actress,producer,soundtrack",44,True,2021,60,F
+34472,2005,ACTRESS IN A SUPPORTING ROLE,Sophie Okonedo,Hotel Rwanda,False,nm0645683,1968,0,actress,37,True,2021,53,F
+34473,2005,ACTRESS IN A SUPPORTING ROLE,Natalie Portman,Closer,False,nm0000204,1981,0,"actress,producer,soundtrack",24,True,2021,40,F
+34474,2011,ACTRESS IN A LEADING ROLE,Natalie Portman,Black Swan,True,nm0000204,1981,0,"actress,producer,soundtrack",30,True,2021,40,F
+34475,2017,ACTRESS IN A LEADING ROLE,Natalie Portman,Jackie,False,nm0000204,1981,0,"actress,producer,soundtrack",36,True,2021,40,F
+34579,2006,ACTRESS IN A LEADING ROLE,Felicity Huffman,Transamerica,False,nm0005031,1962,0,"actress,director,producer",44,True,2021,59,F
+34580,2006,ACTRESS IN A LEADING ROLE,Keira Knightley,Pride & Prejudice,False,nm0461136,1985,0,"actress,soundtrack,producer",21,True,2021,36,F
+34581,2015,ACTRESS IN A SUPPORTING ROLE,Keira Knightley,The Imitation Game,False,nm0461136,1985,0,"actress,soundtrack,producer",30,True,2021,36,F
+34582,2006,ACTRESS IN A LEADING ROLE,Reese Witherspoon,Walk the Line,True,nm0000702,1976,0,"actress,producer,soundtrack",30,True,2021,45,F
+34583,2015,ACTRESS IN A LEADING ROLE,Reese Witherspoon,Wild,False,nm0000702,1976,0,"actress,producer,soundtrack",39,True,2021,45,F
+34584,2006,ACTRESS IN A SUPPORTING ROLE,Amy Adams,Junebug,False,nm0010734,1974,0,actress,0,False,2021,0,F
+34602,2009,ACTRESS IN A SUPPORTING ROLE,Amy Adams,Doubt,False,nm0010734,1974,0,actress,0,False,2021,0,F
+34620,2011,ACTRESS IN A SUPPORTING ROLE,Amy Adams,The Fighter,False,nm0010734,1974,0,actress,0,False,2021,0,F
+34638,2013,ACTRESS IN A SUPPORTING ROLE,Amy Adams,The Master,False,nm0010734,1974,0,actress,0,False,2021,0,F
+34656,2014,ACTRESS IN A LEADING ROLE,Amy Adams,American Hustle,False,nm0010734,1974,0,actress,0,False,2021,0,F
+34674,2019,ACTRESS IN A SUPPORTING ROLE,Amy Adams,Vice,False,nm0010734,1974,0,actress,0,False,2021,0,F
+34692,2006,ACTRESS IN A SUPPORTING ROLE,Rachel Weisz,The Constant Gardener,True,nm0001838,1970,0,"actress,producer,soundtrack",36,True,2021,51,F
+34693,2019,ACTRESS IN A SUPPORTING ROLE,Rachel Weisz,The Favourite,False,nm0001838,1970,0,"actress,producer,soundtrack",49,True,2021,51,F
+34694,2006,ACTRESS IN A SUPPORTING ROLE,Michelle Williams,Brokeback Mountain,False,nm0931329,1980,0,"actress,soundtrack,producer",26,True,2021,41,F
+34740,2011,ACTRESS IN A LEADING ROLE,Michelle Williams,Blue Valentine,False,nm0931329,1980,0,"actress,soundtrack,producer",31,True,2021,41,F
+34786,2012,ACTRESS IN A LEADING ROLE,Michelle Williams,My Week with Marilyn,False,nm0931329,1980,0,"actress,soundtrack,producer",32,True,2021,41,F
+34832,2017,ACTRESS IN A SUPPORTING ROLE,Michelle Williams,Manchester by the Sea,False,nm0931329,1980,0,"actress,soundtrack,producer",37,True,2021,41,F
+35000,2007,ACTRESS IN A LEADING ROLE,Penélope Cruz,Volver,False,nm0004851,1974,0,"actress,soundtrack,producer",33,True,2021,47,F
+35001,2009,ACTRESS IN A SUPPORTING ROLE,Penélope Cruz,Vicky Cristina Barcelona,True,nm0004851,1974,0,"actress,soundtrack,producer",35,True,2021,47,F
+35002,2010,ACTRESS IN A SUPPORTING ROLE,Penélope Cruz,Nine,False,nm0004851,1974,0,"actress,soundtrack,producer",36,True,2021,47,F
+35003,2007,ACTRESS IN A SUPPORTING ROLE,Adriana Barraza,Babel,False,nm0056770,1956,0,"miscellaneous,director,actress",51,True,2021,65,F
+35004,2007,ACTRESS IN A SUPPORTING ROLE,Abigail Breslin,Little Miss Sunshine,False,nm1113550,1996,0,"actress,soundtrack,director",11,True,2021,25,F
+35006,2007,ACTRESS IN A SUPPORTING ROLE,Jennifer Hudson,Dreamgirls,True,nm1617685,1981,0,"soundtrack,actress,music_department",26,True,2021,40,F
+35018,2007,ACTRESS IN A SUPPORTING ROLE,Rinko Kikuchi,Babel,False,nm0452860,1981,0,"actress,director,writer",26,True,2021,40,F
+35159,2008,ACTRESS IN A LEADING ROLE,Marion Cotillard,La Vie en Rose,True,nm0182839,1975,0,"actress,soundtrack,producer",33,True,2021,46,F
+35160,2015,ACTRESS IN A LEADING ROLE,Marion Cotillard,"Two Days, One Night",False,nm0182839,1975,0,"actress,soundtrack,producer",40,True,2021,46,F
+35161,2008,ACTRESS IN A SUPPORTING ROLE,Ruby Dee,American Gangster,False,nm0002039,1922,2014,"actress,soundtrack,writer",86,False,2021,0,F
+35163,2008,ACTRESS IN A SUPPORTING ROLE,Saoirse Ronan,Atonement,False,nm1519680,1994,0,"actress,soundtrack",14,True,2021,27,F
+35164,2016,ACTRESS IN A LEADING ROLE,Saoirse Ronan,Brooklyn,False,nm1519680,1994,0,"actress,soundtrack",22,True,2021,27,F
+35165,2018,ACTRESS IN A LEADING ROLE,Saoirse Ronan,Lady Bird,False,nm1519680,1994,0,"actress,soundtrack",24,True,2021,27,F
+35166,2020,ACTRESS IN A LEADING ROLE,Saoirse Ronan,Little Women,False,nm1519680,1994,0,"actress,soundtrack",26,True,2021,27,F
+35167,2008,ACTRESS IN A SUPPORTING ROLE,Amy Ryan,Gone Baby Gone,False,nm0752407,1968,0,"actress,soundtrack,producer",40,True,2021,53,F
+35181,2008,ACTRESS IN A SUPPORTING ROLE,Tilda Swinton,Michael Clayton,True,nm0842770,1960,0,"actress,producer,writer",48,True,2021,61,F
+35340,2009,ACTRESS IN A LEADING ROLE,Anne Hathaway,Rachel Getting Married,False,nm0004266,1982,0,"actress,soundtrack,producer",27,True,2021,39,F
+35343,2013,ACTRESS IN A SUPPORTING ROLE,Anne Hathaway,Les Misérables,True,nm0004266,1982,0,"actress,soundtrack,producer",31,True,2021,39,F
+35346,2009,ACTRESS IN A LEADING ROLE,Melissa Leo,Frozen River,False,nm0502425,1960,0,"actress,producer,executive",49,True,2021,61,F
+35348,2011,ACTRESS IN A SUPPORTING ROLE,Melissa Leo,The Fighter,True,nm0502425,1960,0,"actress,producer,executive",51,True,2021,61,F
+35350,2009,ACTRESS IN A SUPPORTING ROLE,Viola Davis,Doubt,False,nm0205626,1965,0,"actress,producer,soundtrack",44,True,2021,56,F
+35352,2012,ACTRESS IN A LEADING ROLE,Viola Davis,The Help,False,nm0205626,1965,0,"actress,producer,soundtrack",47,True,2021,56,F
+35354,2017,ACTRESS IN A SUPPORTING ROLE,Viola Davis,Fences,True,nm0205626,1965,0,"actress,producer,soundtrack",52,True,2021,56,F
+35356,2009,ACTRESS IN A SUPPORTING ROLE,Taraji P. Henson,The Curious Case of Benjamin Button,False,nm0378245,1970,0,"actress,producer,soundtrack",39,True,2021,51,F
+35768,2010,ACTRESS IN A LEADING ROLE,Sandra Bullock,The Blind Side,True,nm0000113,1964,0,"producer,actress,soundtrack",46,True,2021,57,F
+35769,2014,ACTRESS IN A LEADING ROLE,Sandra Bullock,Gravity,False,nm0000113,1964,0,"producer,actress,soundtrack",50,True,2021,57,F
+35770,2010,ACTRESS IN A LEADING ROLE,Carey Mulligan,An Education,False,nm1659547,1985,0,"actress,soundtrack,producer",25,True,2021,36,F
+35771,2010,ACTRESS IN A LEADING ROLE,Gabourey Sidibe,Precious: Based on the Novel 'Push' by Sapphire,False,nm2829737,1983,0,"actress,director",27,True,2021,38,F
+35772,2010,ACTRESS IN A SUPPORTING ROLE,Vera Farmiga,Up in the Air,False,nm0267812,1973,0,"actress,producer,soundtrack",37,True,2021,48,F
+35773,2010,ACTRESS IN A SUPPORTING ROLE,Maggie Gyllenhaal,Crazy Heart,False,nm0350454,1977,0,"actress,producer,director",33,True,2021,44,F
+35774,2010,ACTRESS IN A SUPPORTING ROLE,Anna Kendrick,Up in the Air,False,nm0447695,1985,0,"actress,soundtrack,producer",25,True,2021,36,F
+35777,2010,ACTRESS IN A SUPPORTING ROLE,Mo'Nique,Precious: Based on the Novel 'Push' by Sapphire,True,nm0594898,1967,0,"actress,producer,writer",43,True,2021,54,F
+35858,2011,ACTRESS IN A LEADING ROLE,Jennifer Lawrence,Winter's Bone,False,nm0492821,1990,0,actress,0,False,2021,0,F
+35865,2013,ACTRESS IN A LEADING ROLE,Jennifer Lawrence,Silver Linings Playbook,True,nm0492821,1990,0,actress,0,False,2021,0,F
+35872,2014,ACTRESS IN A SUPPORTING ROLE,Jennifer Lawrence,American Hustle,False,nm0492821,1990,0,actress,0,False,2021,0,F
+35879,2016,ACTRESS IN A LEADING ROLE,Jennifer Lawrence,Joy,False,nm0492821,1990,0,actress,0,False,2021,0,F
+35886,2011,ACTRESS IN A SUPPORTING ROLE,Hailee Steinfeld,True Grit,False,nm2794962,1996,0,"actress,soundtrack,producer",15,True,2021,25,F
+35887,2011,ACTRESS IN A SUPPORTING ROLE,Jacki Weaver,Animal Kingdom,False,nm0915865,1947,0,"actress,soundtrack",64,True,2021,74,F
+35888,2013,ACTRESS IN A SUPPORTING ROLE,Jacki Weaver,Silver Linings Playbook,False,nm0915865,1947,0,"actress,soundtrack",66,True,2021,74,F
+36069,2012,ACTRESS IN A LEADING ROLE,Rooney Mara,The Girl with the Dragon Tattoo,False,nm1913734,1985,0,"actress,soundtrack,costume_designer",27,True,2021,36,F
+36070,2016,ACTRESS IN A SUPPORTING ROLE,Rooney Mara,Carol,False,nm1913734,1985,0,"actress,soundtrack,costume_designer",31,True,2021,36,F
+36071,2012,ACTRESS IN A SUPPORTING ROLE,Bérénice Bejo,The Artist,False,nm0067367,1976,0,"actress,cinematographer",36,True,2021,45,F
+36072,2012,ACTRESS IN A SUPPORTING ROLE,Jessica Chastain,The Help,False,nm1567113,1977,0,"actress,producer,soundtrack",35,True,2021,44,F
+36073,2013,ACTRESS IN A LEADING ROLE,Jessica Chastain,Zero Dark Thirty,False,nm1567113,1977,0,"actress,producer,soundtrack",36,True,2021,44,F
+36074,2012,ACTRESS IN A SUPPORTING ROLE,Melissa McCarthy,Bridesmaids,False,nm0565250,1970,0,"actress,producer,soundtrack",42,True,2021,51,F
+36076,2019,ACTRESS IN A LEADING ROLE,Melissa McCarthy,Can You Ever Forgive Me?,False,nm0565250,1970,0,"actress,producer,soundtrack",49,True,2021,51,F
+36078,2012,ACTRESS IN A SUPPORTING ROLE,Octavia Spencer,The Help,True,nm0818055,1970,0,"actress,producer,soundtrack",42,True,2021,51,F
+36079,2017,ACTRESS IN A SUPPORTING ROLE,Octavia Spencer,Hidden Figures,False,nm0818055,1970,0,"actress,producer,soundtrack",47,True,2021,51,F
+36080,2018,ACTRESS IN A SUPPORTING ROLE,Octavia Spencer,The Shape of Water,False,nm0818055,1970,0,"actress,producer,soundtrack",48,True,2021,51,F
+36355,2013,ACTRESS IN A LEADING ROLE,Emmanuelle Riva,Amour,False,nm0728938,1927,2017,actress,86,False,2021,0,F
+36356,2013,ACTRESS IN A LEADING ROLE,Quvenzhané Wallis,Beasts of the Southern Wild,False,nm4832920,2003,0,"actress,soundtrack",10,True,2021,18,F
+36439,2014,ACTRESS IN A SUPPORTING ROLE,Sally Hawkins,Blue Jasmine,False,nm1020089,1976,0,"actress,writer,producer",38,True,2021,45,F
+36445,2018,ACTRESS IN A LEADING ROLE,Sally Hawkins,The Shape of Water,False,nm1020089,1976,0,"actress,writer,producer",42,True,2021,45,F
+36451,2014,ACTRESS IN A SUPPORTING ROLE,Lupita Nyong'o,12 Years a Slave,True,nm2143282,1983,0,"actress,producer,miscellaneous",31,True,2021,38,F
+36452,2014,ACTRESS IN A SUPPORTING ROLE,June Squibb,Nebraska,False,nm0820053,1929,0,"actress,soundtrack",85,True,2021,92,F
+36621,2015,ACTRESS IN A LEADING ROLE,Felicity Jones,The Theory of Everything,False,nm0428064,1983,0,"production_manager,miscellaneous",0,False,2021,0,F
+36627,2015,ACTRESS IN A LEADING ROLE,Rosamund Pike,Gone Girl,False,nm0683253,1979,0,"actress,soundtrack",36,True,2021,42,F
+36628,2015,ACTRESS IN A SUPPORTING ROLE,Patricia Arquette,Boyhood,True,nm0000099,1968,0,"actress,director,soundtrack",47,True,2021,53,F
+36629,2015,ACTRESS IN A SUPPORTING ROLE,Emma Stone,Birdman or (The Unexpected Virtue of Ignorance),False,nm0831858,1988,0,actress,0,False,2021,0,F
+36639,2017,ACTRESS IN A LEADING ROLE,Emma Stone,La La Land,True,nm0831858,1988,0,actress,0,False,2021,0,F
+36649,2019,ACTRESS IN A SUPPORTING ROLE,Emma Stone,The Favourite,False,nm0831858,1988,0,actress,0,False,2021,0,F
+36730,2016,ACTRESS IN A LEADING ROLE,Brie Larson,Room,True,nm0488953,1989,0,"actress,soundtrack,producer",27,True,2021,32,F
+36731,2016,ACTRESS IN A LEADING ROLE,Charlotte Rampling,45 Years,False,nm0001648,1946,0,"actress,soundtrack,camera_department",70,True,2021,75,F
+36732,2016,ACTRESS IN A SUPPORTING ROLE,Jennifer Jason Leigh,The Hateful Eight,False,nm0000492,1962,0,"actress,producer,soundtrack",54,True,2021,59,F
+36733,2016,ACTRESS IN A SUPPORTING ROLE,Rachel McAdams,Spotlight,False,nm1046097,1978,0,"actress,soundtrack",38,True,2021,43,F
+36734,2016,ACTRESS IN A SUPPORTING ROLE,Alicia Vikander,The Danish Girl,True,nm2539953,1988,0,"actress,producer,executive",28,True,2021,33,F
+36927,2017,ACTRESS IN A LEADING ROLE,Isabelle Huppert,Elle,False,nm0001376,1953,0,"actress,soundtrack,music_department",64,True,2021,68,F
+36928,2017,ACTRESS IN A LEADING ROLE,Ruth Negga,Loving,False,nm1550948,1982,0,"actress,producer,soundtrack",35,True,2021,39,F
+36929,2017,ACTRESS IN A SUPPORTING ROLE,Naomie Harris,Moonlight,False,nm0365140,1976,0,actress,41,True,2021,45,F
+36998,2018,ACTRESS IN A LEADING ROLE,Margot Robbie,"I, Tonya",False,nm3053338,1990,0,"actress,producer,executive",28,True,2021,31,F
+36999,2020,ACTRESS IN A SUPPORTING ROLE,Margot Robbie,Bombshell,False,nm3053338,1990,0,"actress,producer,executive",30,True,2021,31,F
+37000,2018,ACTRESS IN A SUPPORTING ROLE,Mary J. Blige,Mudbound,False,nm0004763,1971,0,"soundtrack,actress,composer",47,True,2021,50,F
+37001,2018,ACTRESS IN A SUPPORTING ROLE,Allison Janney,"I, Tonya",True,nm0005049,1959,0,"actress,soundtrack",59,True,2021,62,F
+37002,2018,ACTRESS IN A SUPPORTING ROLE,Lesley Manville,Phantom Thread,False,nm0544334,1956,0,"actress,soundtrack",62,True,2021,65,F
+37003,2018,ACTRESS IN A SUPPORTING ROLE,Laurie Metcalf,Lady Bird,False,nm0582418,1955,0,"actress,soundtrack,miscellaneous",63,True,2021,66,F
+37066,2019,ACTRESS IN A LEADING ROLE,Yalitza Aparicio,Roma,False,nm8611957,1993,0,actress,26,True,2021,28,F
+37067,2019,ACTRESS IN A LEADING ROLE,Olivia Colman,The Favourite,True,nm1469236,1974,0,"actress,soundtrack,producer",45,True,2021,47,F
+37068,2019,ACTRESS IN A LEADING ROLE,Lady Gaga,A Star Is Born,False,nm3078932,1986,0,"soundtrack,actress,composer",33,True,2021,35,F
+37069,2019,ACTRESS IN A SUPPORTING ROLE,Marina de Tavira,Roma,False,nm0211920,1974,0,actress,45,True,2021,47,F
+37070,2019,ACTRESS IN A SUPPORTING ROLE,Regina King,If Beale Street Could Talk,True,nm0005093,1971,0,"actress,director,producer",48,True,2021,50,F
+37089,2020,ACTRESS IN A LEADING ROLE,Cynthia Erivo,Harriet,False,nm7248827,1987,0,"actress,soundtrack,producer",33,True,2021,34,F
+37090,2020,ACTRESS IN A LEADING ROLE,Scarlett Johansson,Marriage Story,False,nm0424060,1984,0,"actress,soundtrack,producer",36,True,2021,37,F
+37091,2020,ACTRESS IN A SUPPORTING ROLE,Scarlett Johansson,Jojo Rabbit,False,nm0424060,1984,0,"actress,soundtrack,producer",36,True,2021,37,F
+37092,2020,ACTRESS IN A SUPPORTING ROLE,Florence Pugh,Little Women,False,nm6073955,1996,0,"actress,producer,soundtrack",24,True,2021,25,F
