@@ -16,21 +16,13 @@ import plotly.graph_objects as go
 
 
 
-bacon_nodes_path = '../data/oracle_of_bacon_data/clean_data/bacon_nodes.csv'
-bacon_edges_path = '../data/oracle_of_bacon_data/clean_data/bacon_edges.csv'
-
-'''
-with open(bacon_nodes_path, 'r') as nodecsv:
-    nodereader = csv.reader(nodecsv)
-    nodes = [n for n in nodereader][1:]
-
-node_names = [n[0] for n in nodes]
-
+bacon_nodes_path = '../data/oracle_of_bacon_data/clean_data/nodes_year.csv'
+bacon_edges_path = '../data/oracle_of_bacon_data/clean_data/edges_year.csv'
 
 with open(bacon_edges_path, 'r') as edgecsv: # Open the file
     edgereader = csv.reader(edgecsv) # Read the csv
     edges = [tuple(e) for e in edgereader][1:] # Retrieve the data
-'''
+
 
 def load_dataset(filepath):
     df = pd.read_csv(filepath)
@@ -39,16 +31,36 @@ def load_dataset(filepath):
 nodes = load_dataset(bacon_nodes_path)
 #print(len(nodes))
 #1146
-
-
-with open(bacon_edges_path, 'r') as edgecsv: # Open the file
-    edgereader = csv.reader(edgecsv) # Read the csv
-    edges = [tuple(e) for e in edgereader][1:] # Retrieve the data
+edges = load_dataset(bacon_nodes_path)
 #print(len(edges))
 #45695
 
 node_names = nodes['name']
 
+
+def write_graph_info_per_year_csv(nodes, edges, year):
+    
+    G = nx.Graph()
+    G.add_nodes_from(nodes)
+    G.add_edges_from(edges)
+    
+
+
+
+
+for year in range(min(nodes.year),max(nodes.year)+1):
+    nodes_sub = nodes[nodes.year == year]["name"]
+    print(nodes_sub)
+    edges_sub = edges[edges.year == year]["source","target"]
+    edges_sub = [tuple(e) for e in edges_sub][1:] 
+    node_names = nodes['name']
+ 
+    print(edges_sub)
+    exit()
+    #write_graph_info_per_year_csv(nodes_sub,edges_sub)
+
+
+'''
 G = nx.Graph()
 
 G.add_nodes_from(node_names)
@@ -63,7 +75,7 @@ print(nx.info(G))
 
 
 # Get network density
-density = nx.density(G)
+#density = nx.density(G)
 print("Network density:", density)
 #Network density: 0.051488841953022
 # This is not a very dense network on a scale from 0-1
@@ -96,4 +108,4 @@ sorted_degree = sorted(degree_dict.items(), key=itemgetter(1), reverse=True)
 print("Top 20 nodes by degree:")
 for d in sorted_degree[:20]:
     print(d)
-
+'''
