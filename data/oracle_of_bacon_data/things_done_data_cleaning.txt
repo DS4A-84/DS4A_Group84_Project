@@ -14,7 +14,7 @@ name year
 get name and year to include actor name and year they participated in movies
 
 edge dataset
-name1 name2 year
+source target year
 get actors in same film and include year of film
 
 

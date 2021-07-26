@@ -62,7 +62,6 @@ def create_edges_csv(df,filepath,year):
     for film in films:
         nominees = df[df['title'] == film]['name']
         nominees = nominees.reset_index(drop=True)
-
         # only include films with more than one nominees in it
         if len(nominees) != 1:
             for i in range(0, len(nominees)):
