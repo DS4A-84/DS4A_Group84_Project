@@ -1,0 +1,27 @@
+data cleaning
+
+Start with Kaggle dataset
+1927-2021 nominees which includes winners
+Edit this file to match the spelling of the actors in the cabon dataset
+
+
+bacon dataset
+1909-2021 all actors in USA
+had to cut out any data before 1894 since thats the first time films were publicly shown
+
+node dataset
+name year 
+get name and year to include actor name and year they participated in movies
+
+edge dataset
+source target year
+get actors in same film and include year of film
+
+
+graph dataset
+name year degree
+actors name year of film participation and degree of connection for that year
+
+
+
+
