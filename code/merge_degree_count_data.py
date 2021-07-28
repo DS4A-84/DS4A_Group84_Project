@@ -63,4 +63,8 @@ print(null_data)
 df1.year = df1.year.astype(int)
 df1.degree = df1.degree.astype(int)
 
-write_to_csv(df1,nominee_count_degree_data_path)
+#write_to_csv(df1,nominee_count_degree_data_path)
+
+a = df['name'].drop_duplicates()
+
+print(a)
