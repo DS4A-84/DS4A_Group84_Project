@@ -2,37 +2,40 @@ name gender num_times_nominated age_nomination winner degree year
 
 
 
-edit clean_bacon_df to more than just kaggle nominees
+edit clean_bacon_df to more than just kaggle nominees ( Oscar)
 
-maybe make actor total degree connection by year and degree connection of oscar nominees and degree connection of oscar winners ?
+age column for all people dataset (Runor)
+gender column for all people dataset(Runor)
 
-get degree of connection with nominated people
+maybe make actor total degree connection by year and degree connection of oscar nominees and degree connection of oscar winners ? ( Oscar)
+
+get degree of connection with nominated people (Oscar)
 
 
 
 
 
 
-number of roles given to women per year
+number of roles given to women per year/visulization (Runor)
 
-are older men given more acting roles overall?
+are older men given more acting roles overall? (Oscar)
 
-are younger women given more acting roles overall?
+are younger women given more acting roles overall? 
 
-compare age, gender demographics non-nominated vs nominated vs winners
-number of nominations by gender by age, bar graph? side by side
+compare age, gender demographics non-nominated vs nominated vs winners (Runor)
+number of nominations by gender by age, bar graph? side by side (Runor)
 number of winners by gender by age, graph? side by side
 
 non nominated, nominated, winning by degree connection.
 
 
-number of acting roles for men vs women
+number of acting roles for men vs women & (number of acting roles men vs women non nominated only?) 
 
-gender balance of acting roles in each year, compare to gender balance from stat.gov dataset of professions
+gender balance of acting roles in each year, compare to gender balance from stat.gov dataset of professions (Runor)
 
-age vs number of acting roles for men vs women graph, stacked
+age vs number of acting roles for men vs women graph, stacked (Oscar)
 
-box plot age compared to women for each x axis = year date, y axis is age. stacked box plot by gender
+box plot age compared to women for each x axis = year date, y axis is age. stacked box plot by gender 
 
 
 
