@@ -1,0 +1,38 @@
+name gender num_times_nominated age_nomination winner degree year
+
+
+
+edit clean_bacon_df to more than just kaggle nominees
+
+maybe make actor total degree connection by year and degree connection of oscar nominees and degree connection of oscar winners ?
+
+get degree of connection with nominated people
+
+
+
+
+
+
+number of roles given to women per year
+
+are older men given more acting roles overall?
+
+are younger women given more acting roles overall?
+
+compare age, gender demographics non-nominated vs nominated vs winners
+number of nominations by gender by age, bar graph? side by side
+number of winners by gender by age, graph? side by side
+
+non nominated, nominated, winning by degree connection.
+
+
+number of acting roles for men vs women
+
+gender balance of acting roles in each year, compare to gender balance from stat.gov dataset of professions
+
+age vs number of acting roles for men vs women graph, stacked
+
+box plot age compared to women for each x axis = year date, y axis is age. stacked box plot by gender
+
+
+
