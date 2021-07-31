@@ -29,3 +29,7 @@ df = df.rename(columns=old_new_column_names_replacement_dict)
 
 # replacing specific row column values using dictionary for indexing
 df.loc[df['col_name'].isin(i['dictionary_key']),'desired_replacement_column'] = "replace value"
+
+
+# partial string grep row column
+df[df['A'].str.contains("hello")]
