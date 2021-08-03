@@ -8,7 +8,7 @@
 
 from os import path
 import pandas as pd
-
+import time
 
 
 
@@ -120,6 +120,7 @@ print(max(clean_bacon_df.year))
 print(min(clean_bacon_df.year))
 #1909
 
+time_start= time.time()
 
 for year in range(min(clean_bacon_df.year),max(clean_bacon_df.year)+1):
     
@@ -131,7 +132,9 @@ for year in range(min(clean_bacon_df.year),max(clean_bacon_df.year)+1):
     #the nominees film info
     create_nodes_csv(year_sub_df,bacon_nodes_path,year)
 
-
+time_end = time. time()
+print(time_end - time_start)
+print(len(clean_bacon_df.title.unique()))
 
 
 # create edges
