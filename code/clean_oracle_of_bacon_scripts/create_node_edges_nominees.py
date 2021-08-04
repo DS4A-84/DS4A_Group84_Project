@@ -104,7 +104,7 @@ print(a.head())
 '''
 
 # create edges
-create_edges_csv(clean_bacon_df,bacon_edges_path)
+#create_edges_csv(clean_bacon_df,bacon_edges_path)
 # 45451
 '''
                source              target
@@ -118,4 +118,5 @@ create_edges_csv(clean_bacon_df,bacon_edges_path)
 # create nodes
 #per person condence film info into nested dictionary with each dictionary having
 #the nominees film info
-create_nodes_csv(clean_bacon_df,bacon_nodes_path)
+print(clean_bacon_df.films.unique)
+#create_nodes_csv(clean_bacon_df,bacon_nodes_path)
